@@ -1,0 +1,16 @@
+store_id;store_name;region;address;postal_code;city;phone;schedule;email_contact;opening_date;number_employees
+1;GameZone Madrid;Madrid;Gran Vía, 1;28000;Madrid;910 34 56 78;10:00 - 22:00;contacto@gamezonemadrid.com;14/07/2015;4
+2;GameZone Barcelona;Barcelona;Paseo de Gracia, 2;28001;Barcelona;911 34 56 78;10:00 - 22:00;contacto@gamezonebarcelona.com;19/08/2017;4
+3;GameZone Valencia;Valencia;Calle Colón, 3;28002;Valencia;912 34 56 78;10:00 - 22:00;contacto@gamezonevalencia.com;06/02/2019;4
+4;GameZone Sevilla;Sevilla;Avenida de la Constitución, 4;28003;Sevilla;913 34 56 78;10:00 - 22:00;contacto@gamezonesevilla.com;18/12/2011;4
+5;GameZone Zaragoza;Zaragoza;Paseo Independencia, 5;28004;Zaragoza;914 34 56 78;10:00 - 22:00;contacto@gamezonezaragoza.com;05/10/2014;4
+6;GameZone Málaga;Málaga;Calle Larios, 6;28005;Málaga;915 34 56 78;10:00 - 22:00;contacto@gamezonemálaga.com;16/01/2012;4
+7;GameZone Murcia;Murcia;Gran Vía Escultor Salzillo, 7;28006;Murcia;916 34 56 78;10:00 - 22:00;contacto@gamezonemurcia.com;16/02/2019;4
+8;GameZone Palma;Palma;Paseo Mallorca, 8;28007;Palma;917 34 56 78;10:00 - 22:00;contacto@gamezonepalma.com;23/05/2018;4
+9;GameZone Las Palmas;Las Palmas;Calle Triana, 9;28008;Las Palmas;918 34 56 78;10:00 - 22:00;contacto@gamezonelas palmas.com;17/09/2014;4
+10;GameZone Bilbao;Bilbao;Gran Vía Don Diego López de Haro, 10;28009;Bilbao;919 34 56 78;10:00 - 22:00;contacto@gamezonebilbao.com;22/08/2011;4
+11;GameZone Alicante;Alicante;Avenida Maisonnave, 11;28010;Alicante;920 34 56 78;10:00 - 22:00;contacto@gamezonealicante.com;02/03/2018;4
+12;GameZone Córdoba;Córdoba;Calle Cruz Conde, 12;28011;Córdoba;921 34 56 78;10:00 - 22:00;contacto@gamezonecórdoba.com;21/03/2014;4
+13;GameZone Valladolid;Valladolid;Calle Santiago, 13;28012;Valladolid;922 34 56 78;10:00 - 22:00;contacto@gamezonevalladolid.com;15/11/2010;4
+14;GameZone Vigo;Vigo;Calle Príncipe, 14;28013;Vigo;923 34 56 78;10:00 - 22:00;contacto@gamezonevigo.com;23/10/2010;4
+15;GameZone Gijón;Gijón;Calle Corrida, 15;28014;Gijón;924 34 56 78;10:00 - 22:00;contacto@gamezonegijón.com;17/03/2011;4

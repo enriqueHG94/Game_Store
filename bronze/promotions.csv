@@ -1,0 +1,13 @@
+promotion_id;promotion_name;start_date;end_date;discount_type;discount_value;terms_and_conditions
+PROMO101;Primavera Arcade;21/03/2023 0:00;20/06/2023 0:00;Porcentaje;10%;Descuento en juegos arcade.
+PROMO102;Verano Acción;21/06/2023 0:00;22/09/2023 0:00;Porcentaje;15%;Descuento en juegos de acción.
+PROMO103;Otoño Aventura;23/09/2023 0:00;20/12/2023 0:00;Porcentaje;20%;Descuento en juegos de aventura.
+PROMO104;Invierno RPG;21/12/2023 0:00;20/03/2024 0:00;Porcentaje;25%;Descuento en juegos RPG.
+PROMO201;Semana de los Deportes;01/05/2023 0:00;07/05/2023 0:00;Porcentaje;10%;Descuento en juegos deportivos.
+PROMO202;Fiesta de FPS;01/07/2023 0:00;07/07/2023 0:00;Porcentaje;12%;Descuento en juegos FPS.
+PROMO203;Especial Estrategia;01/09/2023 0:00;07/09/2023 0:00;Porcentaje;15%;Descuento en juegos de estrategia.
+PROMO204;Aventuras Gráficas;01/11/2023 0:00;07/11/2023 0:00;Porcentaje;18%;Descuento en juegos de aventuras gráficas.
+PROMO205;Festival Indie;01/12/2023 0:00;07/12/2023 0:00;Porcentaje;20%;Descuento en juegos indie.
+PROMO301;Descuento Directo Especial;15/10/2023 0:00;22/10/2023 0:00;Fijo;-5;5 de descuento en cualquier compra superior a 50.
+PROMO101;Primavera Arcade;21/03/2023 0:00;20/06/2023 0:00;Porcentaje;10%;Descuento en juegos arcade.
+PROMO102;Verano Acción;21/06/2023 0:00;22/09/2023 0:00;Porcentaje;15%;Descuento en juegos de acción.

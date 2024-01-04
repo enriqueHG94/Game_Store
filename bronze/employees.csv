@@ -1,0 +1,64 @@
+employee_id;employee_name;role;store_id;email;phone;hire_date;salary;weekly_hours;birth_date;employee_address;social_security_number;nationality;region;postal_code;city
+E001;Mayte Blanco;Asistente;4;mayte.blanco@gamezone004.com;+34722 664 099;30/06/2022 0:00;2400;40;05/03/1982 0:00;Calle Tetuán, 69;126-88-2911;Argentina;Sevilla;28003;Sevilla
+E002;Arcelia Raya;Vendedor;14;arcelia.raya@gamezone014.com;+34826 07 86 02;04/02/2020 0:00;960;20;27/03/1988 0:00;Calle del Príncipe, 93;558-29-1865;México;Vigo;28013;Vigo
+E003;Purificación Millán;Asistente;5;purificación.millán@gamezone005.com;+34735 60 31 03;07/11/2023 0:00;1800;20;01/03/1996 0:00;Calle Alfonso I, 66;776-14-6142;Colombia;Zaragoza;28004;Zaragoza
+E004;Ofelia Laguna;Asistente;7;ofelia.laguna@gamezone007.com;+34739 311 659;19/12/2019 0:00;2400;40;30/08/1994 0:00;Calle Trapería, 15;723-33-2125;Colombia;Murcia;28006;Murcia
+E005;Mariano Arellano;Cajero;6;mariano.arellano@gamezone006.com;+34 747475901;03/07/2020 0:00;800;40;24/07/2003 0:00;Calle Marqués de Larios, 40;941-52-1703;Venezuela;Málaga;28005;Málaga
+E006;Lisandro Franch;Cajero;2;;34722211165;16/03/2023 0:00;800;20;02/05/1997 0:00;Carrer de Sants, 23;695-61-1185;Venezuela;Barcelona;28001;Barcelona
+E007;Valeria Cobo;Asistente;10;valeria.cobo@gamezone010.com;+34733 46 86 06;02/03/2023 0:00;1200;20;08/10/2000 0:00;Calle Ledesma, 66;927-73-7205;México;Bilbao;28009;Bilbao
+E008;Lázaro Sarabia;Cajero;8;lázaro.sarabia@gamezone008.com;34749766216;13/08/2022 0:00;800;20;20/12/1973 0:00;Calle Sant Miquel, 86;226-68-2927;Perú;Palma;28007;Palma
+E009;Cayetana Ruiz;Gerente;4;cayetana.ruiz@gamezone004.com;;23/12/2018 0:00;1600;20;28/08/1996 0:00;Calle Tetuán, 85;;Chile;Sevilla;28003;Sevilla
+E010;Ariel Pedrosa;Asistente;7;ariel.pedrosa@gamezone007.com;+34 726 905 791;02/10/2023 0:00;1200;20;21/11/1992 0:00;Calle Trapería, 6;648-07-7333;Chile;Murcia;28006;Murcia
+E011;Adela Vara;Cajero;15;adela.vara@gamezone015.com;+34 745 01 83 98;24/01/2022 0:00;1600;40;13/04/2003 0:00;Calle Corrida, 44;565-52-3140;Perú;Gijón;28014;Gijón
+E012;Tiburcio Dominguez;Asistente;7;tiburcio.dominguez@gamezone007.com;;30/07/2020 0:00;2400;40;15/11/1986 0:00;Calle Trapería, 77;411-51-7266;Colombia;Murcia;28006;Murcia
+E013;Víctor Carreras;Vendedor;15;víctor.carreras@gamezone015.com;;13/10/2023 0:00;1920;40;08/07/1997 0:00;Calle Corrida, 12;;España;Gijón;28014;Gijón
+E014;Ciriaco Peñas;Vendedor;13;ciriaco.peñas@gamezone013.com;+34 735 219 657;02/01/2020 0:00;1920;40;12/02/1985 0:00;Calle Santiago, 7;936-42-2646;México;Valladolid;28012;Valladolid
+E015;Hermenegildo Carbonell;Gerente;9;hermenegildo.carbonell@gamezone009.com;34718841286;30/08/2022 0:00;800;20;29/10/1993 0:00;Calle Mayor de Triana, 17;223-84-7055;Argentina;Las Palmas;28008;Las Palmas
+E016;Tamara Girona;Asistente;4;tamara.girona@gamezone004.com;+34730 614 257;26/11/2021 0:00;1200;20;13/12/1987 0:00;Calle Tetuán, 49;445-21-3981;Chile;Sevilla;28003;Sevilla
+E017;Amor Lledó;Cajero;1;amor.lledó@gamezone001.com;;28/11/2022 0:00;1600;40;08/02/1982 0:00;Calle de Alcalá, 93;625-11-7316;Argentina;Madrid;28000;Madrid
+E018;Cecilio Oliver;Asistente;3;cecilio.oliver@gamezone003.com;+34 694066463;13/05/2023 0:00;2400;40;03/07/1973 0:00;Carrer de Russafa, 86;318-68-7058;Venezuela;Valencia;28002;Valencia
+E019;Óscar Morán;Cajero;8;óscar.morán@gamezone008.com;+34 738167241;09/03/2021 0:00;1600;40;21/08/1973 0:00;Calle Sant Miquel, 46;838-67-7030;España;Palma;28007;Palma
+E020;Pío Carvajal;Vendedor;3;pío.carvajal@gamezone003.com;+34701 583 672;22/04/2019 0:00;1920;40;03/04/1973 0:00;Carrer de Russafa, 50;444-63-3050;Venezuela;Valencia;28002;Valencia
+E021;Cebrián Yuste;Cajero;8;cebrián.yuste@gamezone008.com;+34 957 52 59 23;01/03/2023 0:00;1600;40;05/08/2001 0:00;Calle Sant Miquel, 41;147-06-0568;México;Palma;28007;Palma
+E022;Lupe Bilbao;Vendedor;3;lupe.bilbao@gamezone003.com;+34701 55 30 16;06/03/2020 0:00;1920;40;26/12/1989 0:00;Carrer de Russafa, 89;703-50-7293;México;Valencia;28002;Valencia
+E023;Plinio Jaume;Vendedor;1;plinio.jaume@gamezone001.com;34738812804;01/06/2021 0:00;1920;40;06/08/2001 0:00;Calle de Alcalá, 36;446-52-2153;Venezuela;Madrid;28000;Madrid
+E024;Bernardita Cazorla;Vendedor;13;bernardita.cazorla@gamezone013.com;34728658042;27/11/2020 0:00;960;20;13/01/2003 0:00;Calle Santiago, 31;535-08-9147;Chile;Valladolid;28012;Valladolid
+E025;Esperanza Gibert;Asistente;14;esperanza.gibert@gamezone014.com;+34731 253 417;24/02/2022 0:00;2400;40;27/09/1989 0:00;Calle del Príncipe, 90;465-20-3109;España;Vigo;28013;Vigo
+E026;Araceli Marin;Vendedor;8;araceli.marin@gamezone008.com;+34839 21 27 27;06/08/2023 0:00;480;20;07/05/1996 0:00;Calle Sant Miquel, 90;197-60-3667;Argentina;Palma;28007;Palma
+E027;Eva María Montero;Gerente;4;eva maría.montero@gamezone004.com;34702226454;21/01/2022 0:00;3200;40;17/01/1992 0:00;Calle Tetuán, 6;102-24-9075;Venezuela;Sevilla;28003;Sevilla
+E028;Darío Zabala;Asistente;7;;+34 726866990;29/12/2018 0:00;1200;20;29/11/1991 0:00;Calle Trapería, 1;441-59-9994;Argentina;Murcia;28006;Murcia
+E029;Regina Manzano;Asistente;15;regina.manzano@gamezone015.com;+34 687 161 653;09/03/2021 0:00;1200;20;14/05/1997 0:00;Calle Corrida, 97;415-81-1066;Argentina;Gijón;28014;Gijón
+E030;Emilia Villa;Cajero;3;emilia.villa@gamezone003.com;+34 696 56 52 85;29/05/2019 0:00;800;20;02/06/1995 0:00;Carrer de Russafa, 32;951-04-0790;Venezuela;Valencia;28002;Valencia
+E031;Fito Machado;Gerente;12;fito.machado@gamezone012.com;+34 709 149 754;17/12/2020 0:00;3200;40;13/04/1995 0:00;Calle Gondomar, 28;744-16-9573;Colombia;Córdoba;28011;Córdoba
+E032;Joan Castrillo;Vendedor;2;joan.castrillo@gamezone002.com;+34708 423 975;02/03/2022 0:00;960;20;08/04/2001 0:00;Carrer de Sants, 68;592-82-1267;España;Barcelona;28001;Barcelona
+E033;Leandra Casado;Gerente;6;;+34 734 434 071;11/01/2019 0:00;3200;40;30/07/2004 0:00;Calle Marqués de Larios, 67;068-90-9395;México;Málaga;28005;Málaga
+E034;Gema Amat;Gerente;9;gema.amat@gamezone009.com;34713262849;03/01/2021 0:00;1600;20;08/09/1991 0:00;Calle Mayor de Triana, 5;452-62-5545;España;Las Palmas;28008;Las Palmas
+E035;Danilo Alvarado;Gerente;13;danilo.alvarado@gamezone013.com;34649972332;18/07/2021 0:00;3200;40;09/12/1983 0:00;Calle Santiago, 87;;México;Valladolid;28012;Valladolid
+E036;Herminio Ibáñez;Vendedor;2;;+34 991652045;24/08/2021 0:00;1920;40;27/09/1993 0:00;Carrer de Sants, 18;011-83-1864;Perú;Barcelona;28001;Barcelona
+E037;Marisela Carrillo;Gerente;15;marisela.carrillo@gamezone015.com;+34702 19 64 10;22/10/2022 0:00;3200;40;03/03/1991 0:00;Calle Corrida, 75;062-86-3021;México;Gijón;28014;Gijón
+E038;María Jesús Porras;Vendedor;7;maría jesús.porras@gamezone007.com;34701761083;28/05/2022 0:00;960;20;30/01/1987 0:00;Calle Trapería, 60;884-29-9346;Colombia;Murcia;28006;Murcia
+E039;Bautista Amores;Vendedor;4;bautista.amores@gamezone004.com;+34899 400 091;26/06/2019 0:00;960;20;18/12/1987 0:00;Calle Tetuán, 30;218-09-9459;Venezuela;Sevilla;28003;Sevilla
+E040;José Ángel Llopis;Gerente;13;josé ángel.llopis@gamezone013.com;+34 702 377 222;11/01/2022 0:00;3200;40;11/06/1973 0:00;Calle Santiago, 91;990-20-4066;Chile;Valladolid;28012;Valladolid
+E041;Elvira Agullo;Asistente;11;;+34705 99 40 38;13/12/2020 0:00;2400;40;06/01/2001 0:00;Avenida de Maisonnave, 16;;Colombia;Alicante;28010;Alicante
+E042;Seve Ortiz;Vendedor;5;seve.ortiz@gamezone005.com;+34949 99 35 60;19/10/2019 0:00;2880;40;10/03/2005 0:00;Calle Alfonso I, 27;051-64-5188;Perú;Zaragoza;28004;Zaragoza
+E043;Cleto Rueda;Cajero;5;cleto.rueda@gamezone005.com;+34605 63 95 34;24/05/2019 0:00;800;20;23/06/1981 0:00;Calle Alfonso I, 20;448-70-3900;Perú;Zaragoza;28004;Zaragoza
+E044;Luciana Matas;Vendedor;6;luciana.matas@gamezone006.com;34803823058;10/06/2020 0:00;960;20;25/09/1995 0:00;Calle Marqués de Larios, 79;111-64-8124;México;Málaga;28005;Málaga
+E045;Olivia Carranza;Vendedor;6;;+34 702 80 66 83;28/08/2021 0:00;960;20;06/09/1989 0:00;Calle Marqués de Larios, 100;402-14-5524;España;Málaga;28005;Málaga
+E046;Danilo Yáñez;Vendedor;10;danilo.yáñez@gamezone010.com;+34714 064 757;08/08/2023 0:00;1920;40;19/12/1989 0:00;Calle Ledesma, 21;814-26-7746;Perú;Bilbao;28009;Bilbao
+E047;Jacinta Cárdenas;Asistente;7;jacinta.cárdenas@gamezone007.com;+34 731713942;17/11/2021 0:00;1200;20;09/07/2000 0:00;Calle Trapería, 24;509-94-3188;España;Murcia;28006;Murcia
+E048;Amarilis Adán;Asistente;5;amarilis.adán@gamezone005.com;+34740 687 946;30/03/2022 0:00;1200;20;08/03/1996 0:00;Calle Alfonso I, 29;908-90-4450;Argentina;Zaragoza;28004;Zaragoza
+E049;Mohamed Rico;Gerente;1;mohamed.rico@gamezone001.com;34855730893;01/10/2019 0:00;3200;40;22/05/1987 0:00;Calle de Alcalá, 58;;Colombia;Madrid;28000;Madrid
+E050;Patricio Gordillo;Asistente;5;patricio.gordillo@gamezone005.com;+34705 954 274;13/10/2023 0:00;1200;20;07/10/1989 0:00;Calle Alfonso I, 65;591-36-0768;Argentina;Zaragoza;28004;Zaragoza
+E051;María Jesús Bárcena;Gerente;6;maría jesús.bárcena@gamezone006.com;34935448991;01/02/2021 0:00;3200;40;17/09/1991 0:00;Calle Marqués de Larios, 27;912-57-2274;Chile;Málaga;28005;Málaga
+E052;Rosalinda Carvajal;Vendedor;14;rosalinda.carvajal@gamezone014.com;+34 621 739 107;09/04/2022 0:00;960;20;29/11/1991 0:00;Calle del Príncipe, 32;272-93-8755;México;Vigo;28013;Vigo
+E053;Javi Moliner;Gerente;9;javi.moliner@gamezone009.com;34632766478;13/01/2019 0:00;1600;20;20/06/2000 0:00;Calle Mayor de Triana, 60;031-93-7923;México;Las Palmas;28008;Las Palmas
+E054;Rafa Escudero;Gerente;11;rafa.escudero@gamezone011.com;34922102267;30/08/2021 0:00;3200;40;14/09/1979 0:00;Avenida de Maisonnave, 59;318-55-0050;Colombia;Alicante;28010;Alicante
+E055;Rodolfo Hernandez;Asistente;10;rodolfo.hernandez@gamezone010.com;;14/08/2019 0:00;1200;20;28/02/1987 0:00;Calle Ledesma, 73;;Venezuela;Bilbao;28009;Bilbao
+E056;Luciano Huerta;Gerente;11;luciano.huerta@gamezone011.com;;09/10/2021 0:00;2400;20;02/01/1977 0:00;Avenida de Maisonnave, 35;973-92-8427;Venezuela;Alicante;28010;Alicante
+E057;Crescencia Lozano;Cajero;9;crescencia.lozano@gamezone009.com;+34 822 542 123;11/11/2019 0:00;800;20;28/10/2004 0:00;Calle Mayor de Triana, 91;652-25-7394;Argentina;Las Palmas;28008;Las Palmas
+E058;Zoraida Agudo;Gerente;5;zoraida.agudo@gamezone005.com;34724964157;16/09/2021 0:00;3200;40;03/08/1982 0:00;Calle Alfonso I, 54;475-24-8761;México;Zaragoza;28004;Zaragoza
+E059;Consuela Crespo;Cajero;10;consuela.crespo@gamezone010.com;34820917115;01/10/2020 0:00;800;20;02/02/2001 0:00;Calle Ledesma, 82;368-10-8103;Colombia;Bilbao;28009;Bilbao
+E060;Ciriaco Querol;Asistente;13;ciriaco.querol@gamezone013.com;+34 721 54 93 23;11/12/2020 0:00;2400;40;23/11/2005 0:00;Calle Santiago, 79;235-44-0969;España;Valladolid;28012;Valladolid
+E023;Plinio Jaume;Vendedor;1;plinio.jaume@gamezone001.com;34738812804;01/06/2021 0:00;1920;40;06/08/2001 0:00;Calle de Alcalá, 36;446-52-2153;Venezuela;Madrid;28000;Madrid
+E002;Arcelia Raya;Vendedor;14;arcelia.raya@gamezone014.com;+34826 07 86 02;04/02/2020 0:00;960;20;27/03/1988 0:00;Calle del Príncipe, 93;558-29-1865;México;Vigo;28013;Vigo
+E034;Gema Amat;Gerente;9;gema.amat@gamezone009.com;34713262849;03/01/2021 0:00;1600;20;08/09/1991 0:00;Calle Mayor de Triana, 5;452-62-5545;España;Las Palmas;28008;Las Palmas
