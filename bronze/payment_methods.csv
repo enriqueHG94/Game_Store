@@ -1,0 +1,5 @@
+payment_method_id;method_name;description;processing_fee;processing_time;available
+PM01;Efectivo;Pago en efectivo en la tienda;0%;Inmediato;Sí
+PM02;Tarjeta de Crédito;Pago con tarjeta de crédito;2%;1-2 días;Sí
+PM03;Tarjeta de Débito;Pago con tarjeta de débito;1%;Inmediato;Sí
+PM05;Pago Móvil;Pago a través de aplicaciones móviles;1.5%;Inmediato;No

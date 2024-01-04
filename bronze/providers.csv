@@ -1,0 +1,11 @@
+provider_id;provider_name;contact_name;phone;email_contact;website;product_type;country_of_origin;start_date;payment_terms;city;provider_address;postal_code
+P001;Sandoval, Fuster and Pujadas;Sebastian Exposito Bravo;+34916 16 57 75;parejoricarda@planas.net;https://almansa-ortiz.com/;Consolas;Estados Unidos;29/04/2017;90 días;Palma;Vial de Félix Cadenas, 1;28007
+P002;Almeida, Pizarro and Calvo;Juanito Zorrilla-Pereira;+34 962223817;pexposito@tena.com;http://www.pelaez.es/;Consolas;China;11/09/2018;60 días;Barcelona;Alameda de Asdrubal Rincón, 9;28001
+P003;Torres and Sons;Miriam Alcalá Torrecilla;+34 801 20 44 84;esperanzapazos@sala.org;https://www.alarcon.org/;Consolas;Japón;08/03/2019;30 días;Gijón;Cañada Tere Puig, 25;28014
+P004;Esteban-Herrero;Vanesa Abad-Rodrigo;+34745 596 127;gilberto51@agullo.com;http://bonet.com/;Accesorios;China;05/07/2014;30 días;Zaragoza;Urbanización Clotilde Segarra, 5;28004
+P005;Salvador-Fernández;Jovita Cordero-Echevarría;+34 727 514 597;ulillo@ballesteros-galan.com;http://www.aragones-ibanez.es/;Videojuegos;Alemania;01/09/2023;30 días;Valencia;Cañada Inés Dueñas, 5;28002
+P006;Valcárcel-Viña;Benjamín del Herrero;+34 942 818 322;murciasofia@hervas.com;http://www.cadenas.es/;Accesorios;Alemania;15/09/2014;90 días;Valencia;Via de María Ángeles Company, 77;28002
+P007;Vázquez LLC;Mirta Eusebia Barral Ramón;+34712 383 647;vprieto@cabo.net;https://www.munoz.es/;Videojuegos;China;30/03/2018;60 días;Zaragoza;Calle Eugenia Cerdán, 19;28004
+P008;González-Amorós;Belen Alfonso Sancho;+34 868 998 787;ppalacios@cornejo.com;http://izaguirre.es/;Accesorios;Japón;01/07/2017;90 días;Murcia;Alameda de Ramiro Boada, 97;28006
+P009;Ribera-Bauzà;Angelina Tolosa;+34 739 913 817;veronicallanos@poza-salvador.es;https://www.tejero.com/;Videojuegos;España;21/03/2015;90 días;Bilbao;Vial Amílcar Verdú, 33;28009
+P010;Prats Group;Fátima Peralta Céspedes;+34705 85 16 42;elodia27@canton-granados.es;http://isern-beltran.org/;Consolas;Japón;02/01/2023;30 días;Córdoba;Callejón de Luís Pera, 86;28011

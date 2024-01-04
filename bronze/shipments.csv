@@ -1,0 +1,524 @@
+shipping_id;sale_id;customer_id;shipping_address ;shipping_company;shipping_cost;shipping_date;estimated_delivery_date;delivery_status;tracking_number
+S1;V1;C0075;Plaza de Lucía Amor 8 Piso 8 ;Paquetería Internacional;9,28;22/07/2023 0:13;24/07/2023 0:13;Entregado;TN1000
+S2;V5;C0013;Acceso de Cornelio Berrocal 86;Transportes XYZ;17,47;21/06/2022 8:36;22/06/2022 8:36;Retrasado;TN1001
+S3;V9;C0090;Cuesta de Sebastian Calatayud 67;Envíos Rápidos;17,57;15/06/2023 20:44;17/06/2023 20:44;Retrasado;TN1002
+S4;V10;C0058;Glorieta Ágata Almeida 85 Apt. 94 ;Envíos Rápidos;5,94;20/05/2022 13:30;24/05/2022 13:30;Entregado;TN1003
+S5;V13;C0219;Alameda Emperatriz Costa 26;Mensajería Express;17,98;09/09/2023 15:44;16/09/2023 15:44;Entregado;TN1004
+S6;V15;C0171;Callejón de Olegario Rodríguez 30;Transportes XYZ;14,87;07/04/2022 5:59;14/04/2022 5:59;Entregado;TN1005
+S7;V17;C0043;Via de Tiburcio Castillo 59;Transportes XYZ;-8,35;15/01/2022 7:15;20/01/2022 7:15;Entregado;TN1006
+S8;V18;C0112;Alameda de Tania Cano 25;Envíos Rápidos;17,62;29/03/2022 6:33;30/03/2022 6:33;En tránsito;TN1007
+S9;V24;C0056;Avenida de Félix Arnaiz 24;Transportes XYZ;7,64;24/08/2022 18:12;31/08/2022 18:12;Retrasado;TN1008
+S10;V25;C0170;Plaza de Gilberto Mínguez 7 Puerta 1 ;Envíos Rápidos;-8,46;10/10/2023 14:08;16/10/2023 14:08;En tránsito;TN1009
+S11;V26;C0158;Glorieta Ramona Noriega 91 Puerta 3 ;Mensajería Express;15,94;22/06/2022 11:00;24/06/2022 11:00;Retrasado;TN1010
+S12;V27;C0076;Rambla Pilar Santamaria 2 Piso 2 ;Transportes XYZ;-9,63;07/06/2023 19:13;09/06/2023 19:13;Entregado;TN1011
+S13;V29;C0085;Avenida de Eutimio Tur 474;Paquetería Internacional;16,81;19/07/2023 8:51;21/07/2023 8:51;En tránsito;TN1012
+S14;V30;C0143;Plaza Áurea Gil 94 Apt. 81 ;Envíos Rápidos;16,36;16/11/2023 7:59;23/11/2023 7:59;En tránsito;TN1013
+S15;V34;C0029;Acceso de Prudencia Buendía 37;Paquetería Internacional;12,45;08/07/2022 0:44;12/07/2022 0:44;Retrasado;TN1014
+S16;V35;C0095;Plaza de Gilberto Mínguez 7 Puerta 1 ;Envíos Rápidos;12,35;16/07/2022 9:10;22/07/2022 9:10;En tránsito;TN1015
+S17;V37;C0170;Callejón de Guadalupe Zurita 237;Envíos Rápidos;14,89;06/08/2022 12:46;13/08/2022 12:46;En tránsito;TN1016
+S18;V43;C0024;Glorieta de Rosa Roman 27 Puerta 5 ;Envíos Rápidos;11,52;22/02/2023 19:40;23/02/2023 19:40;Entregado;TN1017
+S19;V44;C0102;Calle de Toño Pagès 676 Piso 6 ;Envíos Rápidos;19,03;12/02/2022 17:59;16/02/2022 17:59;En tránsito;TN1018
+S20;V45;C0070;Alameda Bautista Agustín 71;Paquetería Internacional;13,19;04/09/2022 6:44;11/09/2022 6:44;Retrasado;TN1019
+S21;V47;C0028;Via Lupe Barreda 2 Piso 4 ;Mensajería Express;7,21;06/05/2022 10:59;12/05/2022 10:59;En tránsito;TN1020
+S22;V48;C0112;Ronda de Joel Doménech 68 Piso 6 ;Mensajería Express;9,11;14/03/2022 10:41;20/03/2022 10:41;Entregado;TN1021
+S23;V54;C0019;Rambla de Casandra Álvaro 20;Paquetería Internacional;17,13;14/12/2023 19:08;18/12/2023 19:08;Retrasado;TN1022
+S24;V55;C0144;Rambla de Casandra Álvaro 20;Mensajería Express;19,63;06/03/2023 8:14;07/03/2023 8:14;Retrasado;TN1023
+S25;V56;C0098;Glorieta de Nazario Villaverde 36;Transportes XYZ;5,53;27/12/2022 21:26;28/12/2022 21:26;Retrasado;TN1024
+S26;V57;C0097;Alameda Bautista Agustín 71;Transportes XYZ;18,14;20/10/2022 14:40;23/10/2022 14:40;Retrasado;TN1025
+S27;V65;C0169;Plaza Lope Rojas 76 Apt. 72 ;Paquetería Internacional;6,75;15/12/2023 5:39;18/12/2023 5:39;Entregado;TN1026
+S28;V68;C0204;Avenida Rosario Gil 65 Piso 6 ;Paquetería Internacional;10,36;03/07/2022 14:10;08/07/2022 14:10;Retrasado;TN1027
+S29;V71;C0245;Paseo de Ana Royo 54 Piso 3 ;Transportes XYZ;10,29;20/04/2023 19:06;24/04/2023 19:06;Retrasado;TN1028
+S30;V72;C0108;Rambla de Azahar Gallo 2 Puerta 6 ;Mensajería Express;5,06;16/05/2022 14:43;23/05/2022 14:43;Entregado;TN1029
+S31;V73;C0241;Rambla Cirino Rodrigo 24 Puerta 0 ;Transportes XYZ;12,28;02/01/2022 23:20;05/01/2022 23:20;En tránsito;TN1030
+S32;V74;C0133;Acceso de Joan Andrés 65;Paquetería Internacional;18,84;02/01/2022 23:18;09/01/2022 23:18;Entregado;TN1031
+S33;V76;C0084;Via de Aurelio Acedo 1 Piso 7 ;Transportes XYZ;17,39;15/10/2022 20:05;21/10/2022 20:05;En tránsito;TN1032
+S34;V78;C0019;C. de Jose Francisco Tomas 926;Envíos Rápidos;13,12;28/05/2022 14:05;29/05/2022 14:05;Entregado;TN1033
+S35;V84;C0246;Paseo María España 742 Apt. 52 ;Envíos Rápidos;-18,48;05/01/2022 18:15;07/01/2022 18:15;En tránsito;TN1034
+S36;V85;C0196;Via Leocadio Moll 5;Paquetería Internacional;13,85;02/07/2023 23:05;08/07/2023 23:05;Entregado;TN1035
+S37;V86;C0008;Via de Cosme Andrés 1;Envíos Rápidos;8,75;11/06/2022 1:30;18/06/2022 1:30;Entregado;TN1036
+S38;V88;C0079;Cuesta de Jenny Cañete 31;Paquetería Internacional;11,51;12/12/2023 16:51;17/12/2023 16:51;En tránsito;TN1037
+S39;V89;C0218;Pasaje Gertrudis Carbajo 70;Paquetería Internacional;13,47;05/07/2023 3:23;09/07/2023 3:23;En tránsito;TN1038
+S40;V90;C0101;Avenida de Gala Goñi 46;Paquetería Internacional;14,9;03/05/2022 22:05;08/05/2022 22:05;Entregado;TN1039
+S41;V91;C0072;Avenida de Laura Peral 89 Apt. 86 ;Mensajería Express;19,05;29/10/2022 3:23;30/10/2022 3:23;En tránsito;TN1040
+S42;V92;C0127;Acceso de Joan Andrés 65;Transportes XYZ;-13,6;28/09/2023 22:11;03/10/2023 22:11;Entregado;TN1041
+S43;V93;C0102;Callejón Cesar Salvà 8 Puerta 9 ;Envíos Rápidos;14,9;06/03/2022 17:41;09/03/2022 17:41;Entregado;TN1042
+S44;V96;C0206;Cañada Paz Guardiola 32 Apt. 86 ;Envíos Rápidos;9,14;27/01/2023 7:46;30/01/2023 7:46;Retrasado;TN1043
+S45;V98;C0238;Via Chelo Vicente 39;Mensajería Express;-12,45;19/05/2023 20:43;22/05/2023 20:43;Retrasado;TN1044
+S46;V99;C0152;Cañada Octavio Lorenzo 3;Mensajería Express;8,77;09/04/2022 19:53;13/04/2022 19:53;En tránsito;TN1045
+S47;V102;C0033;Acceso de Santos Cal 35;Paquetería Internacional;14,32;28/01/2023 14:45;30/01/2023 14:45;Entregado;TN1046
+S48;V104;C0039;Acceso de Prudencia Buendía 37;Mensajería Express;8,95;29/07/2023 4:23;03/08/2023 4:23;Retrasado;TN1047
+S49;V105;C0069;Acceso de Joan Andrés 65;Paquetería Internacional;17,42;05/04/2023 19:27;10/04/2023 19:27;Entregado;TN1048
+S50;V106;C0088;Pasaje Carlito Boix 768;Transportes XYZ;12,21;15/11/2022 18:08;18/11/2022 18:08;En tránsito;TN1049
+S51;V107;C0121;Via Leocadio Moll 5;Paquetería Internacional;14,23;23/05/2022 2:09;30/05/2022 2:09;En tránsito;TN1050
+S52;V108;C0143;Cañada de Cloe Valencia 631;Envíos Rápidos;19,87;26/03/2022 17:36;01/04/2022 17:36;En tránsito;TN1051
+S53;V110;C0099;Acceso de Delia Lillo 45 Apt. 21 ;Paquetería Internacional;17,29;24/09/2022 10:00;01/10/2022 10:00;En tránsito;TN1052
+S54;V112;C0221;Avenida Marcio Sevillano 4;Transportes XYZ;-12,29;07/02/2022 16:19;12/02/2022 16:19;Retrasado;TN1053
+S55;V117;C0012;Paseo Máximo Prada 70;Transportes XYZ;-8,64;25/12/2022 17:49;28/12/2022 17:49;Entregado;TN1054
+S56;V118;C0137;Pasaje Primitiva Conesa 89 Piso 0 ;Mensajería Express;9,95;11/01/2022 14:38;15/01/2022 14:38;Entregado;TN1055
+S57;V120;C0155;Urbanización Liliana Cuenca 57 Puerta 0 ;Transportes XYZ;19,45;02/05/2022 4:08;03/05/2022 4:08;Retrasado;TN1056
+S58;V123;C0202;Alameda de Rufina Manzano 4;Paquetería Internacional;-19,33;02/09/2022 21:15;09/09/2022 21:15;En tránsito;TN1057
+S59;V128;C0141;Callejón Cruz Calzada 50;Envíos Rápidos;19,96;01/05/2022 1:02;06/05/2022 1:02;Entregado;TN1058
+S60;V130;C0232;Paseo Roberta Lamas 32 Piso 7 ;Paquetería Internacional;13,85;17/05/2023 9:44;22/05/2023 9:44;Retrasado;TN1059
+S61;V132;C0212;Callejón Cesar Salvà 8 Puerta 9 ;Envíos Rápidos;19,87;17/07/2023 1:14;24/07/2023 1:14;En tránsito;TN1060
+S62;V133;C0026;C. de Ximena Cánovas 484;Paquetería Internacional;17,36;27/09/2022 19:28;01/10/2022 19:28;Entregado;TN1061
+S63;V134;C0057;Paseo de Teo Chacón 3 Puerta 8 ;Paquetería Internacional;6,97;17/08/2022 18:27;18/08/2022 18:27;Retrasado;TN1062
+S64;V135;C0013;Paseo de Azahara Iglesia 67 Puerta 1 ;Mensajería Express;9,7;04/06/2023 5:26;11/06/2023 5:26;Entregado;TN1063
+S65;V137;C0046;Avenida de Evaristo Mateo 124;Paquetería Internacional;19,63;27/06/2022 0:10;02/07/2022 0:10;Retrasado;TN1064
+S66;V138;C0215;Ronda de César Bellido 23 Apt. 76 ;Mensajería Express;17,57;28/10/2022 14:44;02/11/2022 14:44;Entregado;TN1065
+S67;V139;C0176;Callejón Tania Mancebo 8 Apt. 04 ;Envíos Rápidos;16,58;18/07/2022 22:30;22/07/2022 22:30;Retrasado;TN1066
+S68;V140;C0214;Vial de Teobaldo Martorell 89;Envíos Rápidos;-11,22;26/12/2022 0:13;28/12/2022 0:13;Entregado;TN1067
+S69;V141;C0168;Vial Gabriela Palau 312;Transportes XYZ;11,47;22/03/2023 6:03;24/03/2023 6:03;Entregado;TN1068
+S70;V142;C0109;Paseo Ibán Martinez 90 Apt. 65 ;Transportes XYZ;14,68;19/10/2022 4:40;20/10/2022 4:40;Retrasado;TN1069
+S71;V146;C0198;Callejón África Aguiló 57;Envíos Rápidos;17,62;30/10/2023 20:36;04/11/2023 20:36;Entregado;TN1070
+S72;V149;C0077;Camino Yago Juárez 74;Transportes XYZ;18,88;09/03/2022 17:07;10/03/2022 17:07;Retrasado;TN1071
+S73;V150;C0121;Alameda de Tania Cano 25;Transportes XYZ;12,49;03/05/2022 12:14;10/05/2022 12:14;En tránsito;TN1072
+S74;V151;C0206;Glorieta Josué Alvarado 36;Mensajería Express;11,34;18/04/2022 15:22;21/04/2022 15:22;En tránsito;TN1073
+S75;V152;C0003;C. de Ximena Cánovas 484;Envíos Rápidos;16,88;24/12/2023 1:49;31/12/2023 1:49;En tránsito;TN1074
+S76;V153;C0151;Avenida de Laura Peral 89 Apt. 86 ;Envíos Rápidos;13,26;18/07/2022 12:48;23/07/2022 12:48;Retrasado;TN1075
+S77;V156;C0235;Via de Febe Egea 71 Puerta 0 ;Paquetería Internacional;10,05;28/04/2022 17:20;02/05/2022 17:20;Entregado;TN1076
+S78;V157;C0017;Paseo Anabel Santana 5 Puerta 6 ;Envíos Rápidos;14,01;15/01/2023 2:00;19/01/2023 2:00;En tránsito;TN1077
+S79;V158;C0235;Rambla de Hugo Álvaro 86;Transportes XYZ;19,97;06/03/2022 14:13;09/03/2022 14:13;Retrasado;TN1078
+S80;V159;C0235;Ronda de Joel Doménech 68 Piso 6 ;Envíos Rápidos;16,52;10/08/2023 2:09;13/08/2023 2:09;En tránsito;TN1079
+S81;V162;C0126;Cuesta de Sebastian Calatayud 67;Envíos Rápidos;7,79;04/03/2022 6:18;09/03/2022 6:18;Retrasado;TN1080
+S82;V163;C0150;Calle de Francisco Checa 85 Puerta 8 ;Paquetería Internacional;7,5;18/04/2022 4:38;23/04/2022 4:38;Retrasado;TN1081
+S83;V164;C0034;Rambla Armando Miranda 86;Mensajería Express;-8,32;11/11/2023 21:47;13/11/2023 21:47;Retrasado;TN1082
+S84;V173;C0056;Pasadizo Concha Mateos 15 Puerta 4 ;Envíos Rápidos;17,54;26/07/2023 7:18;29/07/2023 7:18;En tránsito;TN1083
+S85;V175;C0188;Pasadizo de Cesar Cañellas 93;Transportes XYZ;17,35;31/05/2023 11:14;02/06/2023 11:14;Retrasado;TN1084
+S86;V176;C0219;Rambla de Casandra Álvaro 20;Paquetería Internacional;5,17;28/04/2023 3:45;03/05/2023 3:45;Retrasado;TN1085
+S87;V177;C0111;Via María Jesús Agustín 2 Piso 8 ;Transportes XYZ;12,65;13/11/2023 5:55;18/11/2023 5:55;En tránsito;TN1086
+S88;V179;C0096;Camino de Eliseo Ibarra 36 Piso 2 ;Paquetería Internacional;5,06;17/02/2022 14:59;23/02/2022 14:59;Entregado;TN1087
+S89;V183;C0085;Plaza Graciano Leal 88 Puerta 3 ;Mensajería Express;13,4;30/01/2023 18:23;05/02/2023 18:23;Retrasado;TN1088
+S90;V184;C0079;Rambla de Moisés Figueras 328;Paquetería Internacional;17,02;03/05/2023 6:47;04/05/2023 6:47;En tránsito;TN1089
+S91;V185;C0103;Avenida Valentina Rodrigo 62 Puerta 5 ;Envíos Rápidos;9,79;16/02/2023 5:46;19/02/2023 5:46;En tránsito;TN1090
+S92;V187;C0096;Callejón de Jaime Amores 827;Paquetería Internacional;12,04;24/09/2022 6:36;29/09/2022 6:36;En tránsito;TN1091
+S93;V188;C0199;C. de Elena Toledo 8;Envíos Rápidos;13,06;26/10/2022 18:40;31/10/2022 18:40;Entregado;TN1092
+S94;V191;C0179;Callejón de Elba Carranza 58 Apt. 47 ;Transportes XYZ;10,32;10/07/2023 17:35;16/07/2023 17:35;Entregado;TN1093
+S95;V192;C0177;Pasaje Carlito Boix 768;Mensajería Express;18,08;21/01/2022 2:24;24/01/2022 2:24;Entregado;TN1094
+S96;V193;C0233;Urbanización de José María Lledó 47;Transportes XYZ;18,62;09/07/2022 15:43;10/07/2022 15:43;Retrasado;TN1095
+S97;V194;C0201;Calle de Victoria Somoza 253 Apt. 94 ;Envíos Rápidos;19,59;15/11/2023 1:23;21/11/2023 1:23;Retrasado;TN1096
+S98;V195;C0083;Pasadizo de Rosario Lladó 4 Puerta 7 ;Paquetería Internacional;9,12;27/07/2023 9:42;28/07/2023 9:42;Retrasado;TN1097
+S99;V197;C0013;Glorieta Josué Alvarado 36;Envíos Rápidos;7,38;07/04/2022 12:09;09/04/2022 12:09;En tránsito;TN1098
+S100;V200;C0144;Ronda Dolores Rosado 4 Apt. 89 ;Envíos Rápidos;16,34;27/06/2023 15:28;01/07/2023 15:28;Retrasado;TN1099
+S101;V201;C0180;Ronda Fabiana Luís 495;Transportes XYZ;11,83;23/11/2022 2:05;24/11/2022 2:05;Entregado;TN1100
+S102;V204;C0006;Pasadizo Bernabé Alvarado 59 Puerta 2 ;Transportes XYZ;6,52;16/12/2023 3:48;17/12/2023 3:48;En tránsito;TN1101
+S103;V205;C0080;Cañada Danilo Moles 7 Puerta 6 ;Mensajería Express;7,84;22/01/2022 23:10;24/01/2022 23:10;En tránsito;TN1102
+S104;V206;C0163;Paseo de Teo Chacón 3 Puerta 8 ;Paquetería Internacional;8,67;11/08/2023 5:49;17/08/2023 5:49;Entregado;TN1103
+S105;V207;C0072;Glorieta de Pancho Cabello 447 Piso 1 ;Paquetería Internacional;10,79;29/10/2023 23:03;30/10/2023 23:03;En tránsito;TN1104
+S106;V209;C0226;Acceso de Joan Andrés 65;Transportes XYZ;14,8;16/06/2023 17:26;22/06/2023 17:26;Entregado;TN1105
+S107;V210;C0021;C. Agustín Villalobos 130;Envíos Rápidos;9,37;23/05/2023 13:46;24/05/2023 13:46;En tránsito;TN1106
+S108;V212;C0057;Avenida de Aníbal Díaz 759 Apt. 95 ;Mensajería Express;-14,07;05/12/2023 23:31;08/12/2023 23:31;Retrasado;TN1107
+S109;V217;C0248;Callejón de Blanca Almazán 6;Paquetería Internacional;18,37;19/07/2023 7:29;26/07/2023 7:29;Entregado;TN1108
+S110;V218;C0113;Glorieta Josué Alvarado 36;Envíos Rápidos;14,49;20/09/2022 3:03;26/09/2022 3:03;Retrasado;TN1109
+S111;V219;C0240;Rambla de Moisés Figueras 328;Mensajería Express;8,86;29/10/2022 16:53;30/10/2022 16:53;Entregado;TN1110
+S112;V221;C0155;Paseo de Teo Chacón 3 Puerta 8 ;Paquetería Internacional;7,05;11/06/2022 17:55;13/06/2022 17:55;Retrasado;TN1111
+S113;V230;C0098;Avenida de Félix Arnaiz 24;Transportes XYZ;12,65;11/07/2023 3:47;13/07/2023 3:47;Entregado;TN1112
+S114;V231;C0132;Cuesta Julie Landa 399 Apt. 14 ;Transportes XYZ;7,59;24/06/2023 4:59;29/06/2023 4:59;Retrasado;TN1113
+S115;V236;C0046;Alameda de Rufina Manzano 4;Mensajería Express;15,38;09/01/2022 7:08;14/01/2022 7:08;Entregado;TN1114
+S116;V237;C0111;Cuesta Lola Pont 320;Transportes XYZ;7,27;02/05/2023 22:30;04/05/2023 22:30;Retrasado;TN1115
+S117;V239;C0075;Ronda de Marcia Aparicio 21;Mensajería Express;8,02;25/03/2022 17:04;27/03/2022 17:04;Entregado;TN1116
+S118;V240;C0155;Vial de Paula Calatayud 59;Mensajería Express;7,11;17/10/2022 16:02;21/10/2022 16:02;En tránsito;TN1117
+S119;V241;C0019;Paseo Severo Salvador 64;Mensajería Express;15,29;09/06/2023 3:12;15/06/2023 3:12;Entregado;TN1118
+S120;V242;C0169;Acceso de Delia Lillo 45 Apt. 21 ;Transportes XYZ;19,77;22/09/2023 9:03;29/09/2023 9:03;Retrasado;TN1119
+S121;V243;C0216;Cuesta Cayetano Moraleda 67 Piso 5 ;Paquetería Internacional;10,43;09/08/2023 21:36;11/08/2023 21:36;En tránsito;TN1120
+S122;V248;C0162;Acceso de María Manuela Chacón 320;Mensajería Express;5,75;18/03/2023 17:44;23/03/2023 17:44;Retrasado;TN1121
+S123;V250;C0120;Urbanización Liliana Cuenca 57 Puerta 0 ;Paquetería Internacional;9,48;25/02/2022 17:46;03/03/2022 17:46;En tránsito;TN1122
+S124;V253;C0014;Cuesta Julie Landa 399 Apt. 14 ;Envíos Rápidos;5,9;19/11/2023 2:51;22/11/2023 2:51;Retrasado;TN1123
+S125;V254;C0218;Callejón de Jaime Amores 827;Envíos Rápidos;14,35;17/03/2023 2:17;21/03/2023 2:17;Retrasado;TN1124
+S126;V256;C0065;Urbanización Abril Domingo 51;Mensajería Express;10,95;06/03/2023 4:24;10/03/2023 4:24;Retrasado;TN1125
+S127;V258;C0196;Cañada de Petrona Contreras 67;Envíos Rápidos;14,55;01/08/2022 20:18;05/08/2022 20:18;En tránsito;TN1126
+S128;V260;C0050;Plaza de Gilberto Mínguez 7 Puerta 1 ;Envíos Rápidos;14,95;11/01/2022 2:22;14/01/2022 2:22;Retrasado;TN1127
+S129;V261;C0128;Camino de Jonatan Tirado 706 Apt. 57 ;Envíos Rápidos;11,2;22/04/2023 16:18;29/04/2023 16:18;Entregado;TN1128
+S130;V263;C0233;Pasadizo Francisco Cortina 79;Mensajería Express;17,79;14/12/2022 21:40;19/12/2022 21:40;En tránsito;TN1129
+S131;V264;C0071;Cañada Lucía Carro 32 Apt. 49 ;Transportes XYZ;10,81;13/06/2023 6:39;18/06/2023 6:39;Retrasado;TN1130
+S132;V266;C0041;Plaza de Alejandro Atienza 8 Puerta 9 ;Mensajería Express;9,34;13/04/2022 19:39;15/04/2022 19:39;Retrasado;TN1131
+S133;V267;C0177;Urbanización de Susanita Saavedra 84 Apt. 64 ;Mensajería Express;19,76;05/11/2023 18:08;08/11/2023 18:08;Retrasado;TN1132
+S134;V268;C0219;Via Esther Ripoll 9 Piso 6 ;Mensajería Express;7,27;23/07/2023 15:41;26/07/2023 15:41;Entregado;TN1133
+S135;V270;C0228;Urbanización Abril Domingo 51;Transportes XYZ;6,16;18/10/2023 15:55;25/10/2023 15:55;En tránsito;TN1134
+S136;V272;C0063;Callejón Pacífica Fonseca 60;Transportes XYZ;18,36;08/08/2022 0:08;11/08/2022 0:08;En tránsito;TN1135
+S137;V273;C0035;Plaza Che Arteaga 81 Apt. 70 ;Envíos Rápidos;-18,94;20/08/2022 21:47;25/08/2022 21:47;Retrasado;TN1136
+S138;V275;C0212;Pasadizo de Rosario Lladó 4 Puerta 7 ;Envíos Rápidos;8,64;16/09/2023 12:13;18/09/2023 12:13;En tránsito;TN1137
+S139;V276;C0211;Avenida de Gala Goñi 46;Mensajería Express;12,23;09/12/2022 20:16;16/12/2022 20:16;En tránsito;TN1138
+S140;V277;C0127;Calle Victoriano Estrada 2 Apt. 55 ;Transportes XYZ;-12,13;09/06/2023 21:08;14/06/2023 21:08;Retrasado;TN1139
+S141;V278;C0200;C. Roldán Aller 24 Piso 5 ;Mensajería Express;11,33;27/09/2022 2:30;30/09/2022 2:30;Entregado;TN1140
+S142;V280;C0184;Pasadizo Lidia Luján 66 Piso 7 ;Mensajería Express;-18,33;10/04/2023 0:39;15/04/2023 0:39;Entregado;TN1141
+S143;V281;C0148;Glorieta Rafaela Barriga 58;Transportes XYZ;10,52;12/10/2023 6:28;16/10/2023 6:28;Entregado;TN1142
+S144;V283;C0116;Plaza de Joaquín Camino 431 Piso 1 ;Paquetería Internacional;17,87;28/05/2023 8:22;29/05/2023 8:22;Retrasado;TN1143
+S145;V284;C0170;Paseo de Teo Chacón 3 Puerta 8 ;Mensajería Express;16;15/01/2022 14:36;19/01/2022 14:36;Entregado;TN1144
+S146;V289;C0116;Plaza Crescencia Lopez 73 Puerta 5 ;Paquetería Internacional;15,51;08/08/2023 0:36;13/08/2023 0:36;Retrasado;TN1145
+S147;V290;C0038;C. de María José Linares 201 Apt. 94 ;Transportes XYZ;10,83;12/04/2023 17:30;15/04/2023 17:30;En tránsito;TN1146
+S148;V291;C0192;Paseo Anabel Santana 5 Puerta 6 ;Transportes XYZ;14,63;10/06/2023 8:28;14/06/2023 8:28;En tránsito;TN1147
+S149;V292;C0043;Callejón de Pedro Cases 52;Transportes XYZ;18,94;24/08/2023 23:41;26/08/2023 23:41;En tránsito;TN1148
+S150;V293;C0183;Glorieta Ágata Almeida 85 Apt. 94 ;Transportes XYZ;-13,34;08/03/2022 1:27;09/03/2022 1:27;En tránsito;TN1149
+S151;V294;C0239;Cañada Chita Arrieta 23 Apt. 12 ;Mensajería Express;-19,57;25/08/2023 22:10;01/09/2023 22:10;En tránsito;TN1150
+S152;V295;C0006;Calle Quirino Rincón 40;Paquetería Internacional;15,68;13/11/2023 8:25;17/11/2023 8:25;Entregado;TN1151
+S153;V296;C0225;Ronda de Julio César Hernandez 99 Puerta 1 ;Transportes XYZ;13,5;07/03/2022 10:43;12/03/2022 10:43;Retrasado;TN1152
+S154;V297;C0101;Via de Reinaldo Ferrándiz 1;Paquetería Internacional;19,56;16/02/2022 14:11;18/02/2022 14:11;Entregado;TN1153
+S155;V298;C0131;Vial Arturo Camacho 87 Apt. 67 ;Envíos Rápidos;9,39;08/06/2023 18:11;14/06/2023 18:11;En tránsito;TN1154
+S156;V300;C0046;Plaza de Joaquín Camino 431 Piso 1 ;Paquetería Internacional;14,56;22/07/2023 2:34;27/07/2023 2:34;Retrasado;TN1155
+S157;V304;C0029;Glorieta de Macarena Arévalo 3;Transportes XYZ;18,31;07/01/2023 2:57;08/01/2023 2:57;En tránsito;TN1156
+S158;V307;C0212;C. de Inocencio Mínguez 372;Transportes XYZ;14,95;09/07/2022 23:22;10/07/2022 23:22;En tránsito;TN1157
+S159;V309;C0244;Pasadizo Lidia Luján 66 Piso 7 ;Mensajería Express;12,55;22/01/2023 7:14;29/01/2023 7:14;Entregado;TN1158
+S160;V310;C0247;Paseo Andrés Felipe Rico 58 Puerta 7 ;Paquetería Internacional;7,38;16/10/2022 4:13;21/10/2022 4:13;Retrasado;TN1159
+S161;V316;C0236;Paseo de Efraín Abad 316;Mensajería Express;17,88;22/01/2023 18:12;23/01/2023 18:12;Entregado;TN1160
+S162;V319;C0101;Via Esther Ripoll 9 Piso 6 ;Transportes XYZ;-9,69;09/05/2023 19:46;16/05/2023 19:46;Retrasado;TN1161
+S163;V320;C0186;Paseo Roberta Lamas 32 Piso 7 ;Mensajería Express;12,15;14/09/2022 1:27;21/09/2022 1:27;Entregado;TN1162
+S164;V321;C0236;Calle Quirino Rincón 40;Mensajería Express;19,15;09/05/2022 9:24;13/05/2022 9:24;En tránsito;TN1163
+S165;V325;C0226;Ronda Dolores Rosado 4 Apt. 89 ;Mensajería Express;17,36;11/01/2022 18:01;14/01/2022 18:01;En tránsito;TN1164
+S166;V326;C0080;Ronda de Marcia Aparicio 21;Paquetería Internacional;11,39;09/03/2023 18:49;16/03/2023 18:49;Entregado;TN1165
+S167;V327;C0228;Paseo Araceli Moya 85 Puerta 5 ;Transportes XYZ;10,78;21/07/2022 18:33;23/07/2022 18:33;Retrasado;TN1166
+S168;V329;C0159;Acceso de Santos Cal 35;Transportes XYZ;14,41;16/11/2022 4:15;20/11/2022 4:15;En tránsito;TN1167
+S169;V331;C0041;Acceso de María Manuela Chacón 320;Envíos Rápidos;8,76;16/09/2023 18:10;18/09/2023 18:10;Entregado;TN1168
+S170;V332;C0072;Pasaje Brunilda Alcázar 15 Piso 9 ;Mensajería Express;12,57;13/05/2023 20:55;20/05/2023 20:55;En tránsito;TN1169
+S171;V337;C0210;Via de Pablo Pera 54 Puerta 2 ;Transportes XYZ;6,67;11/04/2023 1:51;14/04/2023 1:51;Entregado;TN1170
+S172;V339;C0139;Via de Reinaldo Ferrándiz 1;Mensajería Express;11,75;31/03/2023 3:58;01/04/2023 3:58;Retrasado;TN1171
+S173;V340;C0121;Rambla Serafina Navas 3;Paquetería Internacional;5,93;22/05/2023 3:37;24/05/2023 3:37;Retrasado;TN1172
+S174;V342;C0248;Cuesta Lola Pont 320;Transportes XYZ;19,05;18/01/2022 22:44;23/01/2022 22:44;Retrasado;TN1173
+S175;V346;C0101;Camino Rufino Salas 317;Envíos Rápidos;15,34;18/08/2023 22:53;25/08/2023 22:53;Retrasado;TN1174
+S176;V347;C0245;Calle Quirino Rincón 40;Envíos Rápidos;10,77;07/10/2022 11:06;14/10/2022 11:06;En tránsito;TN1175
+S177;V349;C0086;Acceso de Régulo Muro 47 Piso 3 ;Paquetería Internacional;12,68;05/05/2023 5:07;07/05/2023 5:07;Entregado;TN1176
+S178;V351;C0109;Camino de Eliseo Ibarra 36 Piso 2 ;Mensajería Express;17,07;09/05/2022 9:35;10/05/2022 9:35;Retrasado;TN1177
+S179;V352;C0225;Camino Genoveva Estevez 89;Mensajería Express;16,08;05/06/2023 3:09;11/06/2023 3:09;Retrasado;TN1178
+S180;V353;C0008;C. de Paca Campillo 181;Mensajería Express;19,65;28/12/2022 8:51;29/12/2022 8:51;Entregado;TN1179
+S181;V354;C0108;Acceso de Joan Andrés 65;Envíos Rápidos;8,62;28/06/2023 19:08;01/07/2023 19:08;Retrasado;TN1180
+S182;V355;C0146;Pasaje Trini Flor 49;Envíos Rápidos;6,15;21/11/2022 14:33;22/11/2022 14:33;En tránsito;TN1181
+S183;V356;C0148;Calle de Victoria Somoza 253 Apt. 94 ;Envíos Rápidos;6,85;14/04/2022 12:02;18/04/2022 12:02;Retrasado;TN1182
+S184;V360;C0002;C. Quique Aranda 730 Apt. 43 ;Paquetería Internacional;8,55;01/11/2023 21:06;03/11/2023 21:06;Retrasado;TN1183
+S185;V361;C0059;Cañada Ramiro Corral 52 Apt. 03 ;Mensajería Express;5,33;13/05/2022 4:58;15/05/2022 4:58;En tránsito;TN1184
+S186;V362;C0124;Cuesta Cayetano Moraleda 67 Piso 5 ;Paquetería Internacional;19,21;05/05/2022 20:37;12/05/2022 20:37;Entregado;TN1185
+S187;V363;C0239;Avenida de Félix Arnaiz 24;Paquetería Internacional;19,6;25/10/2022 21:25;31/10/2022 21:25;Retrasado;TN1186
+S188;V364;C0181;Camino de Asunción Segarra 23;Envíos Rápidos;6,37;21/09/2023 13:00;22/09/2023 13:00;Retrasado;TN1187
+S189;V365;C0090;Avenida de Laura Peral 89 Apt. 86 ;Transportes XYZ;16,99;30/01/2022 3:57;03/02/2022 3:57;Retrasado;TN1188
+S190;V367;C0012;Calle de Victoria Somoza 253 Apt. 94 ;Paquetería Internacional;-16;06/11/2022 2:26;09/11/2022 2:26;En tránsito;TN1189
+S191;V368;C0078;Via de Aurelio Acedo 1 Piso 7 ;Paquetería Internacional;9,61;03/06/2023 17:31;08/06/2023 17:31;Entregado;TN1190
+S192;V370;C0199;Alameda Amor Morell 447 Puerta 2 ;Paquetería Internacional;12,32;06/04/2023 16:50;09/04/2023 16:50;En tránsito;TN1191
+S193;V371;C0199;Cañada de Cristóbal Corbacho 22;Envíos Rápidos;14,07;21/06/2022 0:49;24/06/2022 0:49;Entregado;TN1192
+S194;V373;C0001;Vial Arturo Camacho 87 Apt. 67 ;Paquetería Internacional;16,45;30/07/2023 23:06;03/08/2023 23:06;Entregado;TN1193
+S195;V377;C0146;Callejón de Carolina Castejón 96 Piso 7 ;Envíos Rápidos;16,25;22/10/2023 1:44;29/10/2023 1:44;Retrasado;TN1194
+S196;V378;C0030;Via Eleuterio Bermejo 42;Mensajería Express;7,9;09/10/2023 3:51;11/10/2023 3:51;En tránsito;TN1195
+S197;V379;C0200;Cañada Octavio Lorenzo 3;Transportes XYZ;6,69;30/04/2023 2:58;02/05/2023 2:58;En tránsito;TN1196
+S198;V381;C0213;Acceso de Prudencia Buendía 37;Transportes XYZ;8,62;30/07/2023 20:21;03/08/2023 20:21;Entregado;TN1197
+S199;V384;C0215;Alameda de Bonifacio Ureña 55;Envíos Rápidos;19,98;05/02/2022 23:05;09/02/2022 23:05;Entregado;TN1198
+S200;V385;C0223;Camino Yago Juárez 74;Paquetería Internacional;12,74;10/10/2023 23:04;14/10/2023 23:04;Entregado;TN1199
+S201;V386;C0129;Calle Vilma Luís 56 Piso 2 ;Mensajería Express;18,34;23/11/2022 7:15;26/11/2022 7:15;Retrasado;TN1200
+S202;V387;C0190;Ronda de Marianela Botella 82 Puerta 1 ;Envíos Rápidos;9,79;24/06/2023 3:18;27/06/2023 3:18;Entregado;TN1201
+S203;V389;C0248;Camino Rufino Salas 317;Mensajería Express;16,39;09/04/2022 21:14;11/04/2022 21:14;Entregado;TN1202
+S204;V390;C0184;Cañada Danilo Moles 7 Puerta 6 ;Mensajería Express;9,67;07/02/2023 21:13;11/02/2023 21:13;Entregado;TN1203
+S205;V394;C0023;Via María Jesús Agustín 2 Piso 8 ;Paquetería Internacional;-14,66;30/05/2022 0:47;02/06/2022 0:47;En tránsito;TN1204
+S206;V395;C0245;Camino de Leoncio Barceló 8;Envíos Rápidos;11,48;12/07/2022 0:57;17/07/2022 0:57;En tránsito;TN1205
+S207;V401;C0017;Via Lupe Barreda 2 Piso 4 ;Mensajería Express;11,04;07/07/2022 17:07;10/07/2022 17:07;Retrasado;TN1206
+S208;V402;C0166;Avenida de Evaristo Mateo 124;Envíos Rápidos;-16,69;26/11/2023 18:30;30/11/2023 18:30;Entregado;TN1207
+S209;V403;C0024;Camino Lilia Porta 23;Envíos Rápidos;18,53;12/03/2022 1:12;17/03/2022 1:12;En tránsito;TN1208
+S210;V405;C0136;Paseo de Teo Chacón 3 Puerta 8 ;Mensajería Express;12,33;08/08/2023 11:35;09/08/2023 11:35;Entregado;TN1209
+S211;V406;C0110;Camino de Aarón Arellano 6 Piso 4 ;Transportes XYZ;5,98;28/05/2022 14:40;03/06/2022 14:40;Retrasado;TN1210
+S212;V407;C0086;Via María Jesús Agustín 2 Piso 8 ;Mensajería Express;13,51;27/03/2023 5:59;29/03/2023 5:59;En tránsito;TN1211
+S213;V409;C0062;Cañada Marisa Beltran 735;Envíos Rápidos;14,79;07/02/2023 3:00;11/02/2023 3:00;En tránsito;TN1212
+S214;V412;C0011;Pasadizo Elpidio Barrera 4 Piso 3 ;Transportes XYZ;17,05;02/02/2022 10:48;06/02/2022 10:48;Retrasado;TN1213
+S215;V414;C0218;Avenida Loreto Coca 575;Paquetería Internacional;12,12;27/10/2022 19:07;02/11/2022 19:07;Retrasado;TN1214
+S216;V415;C0176;Vial Juan Francisco Miguel 7 Apt. 66 ;Paquetería Internacional;11,52;06/01/2023 20:42;08/01/2023 20:42;Entregado;TN1215
+S217;V416;C0220;Alameda de Concepción Infante 165;Mensajería Express;9,43;28/10/2022 0:52;30/10/2022 0:52;Entregado;TN1216
+S218;V420;C0178;C. Cayetana Coronado 108 Apt. 51 ;Mensajería Express;18,21;29/08/2023 5:07;31/08/2023 5:07;Retrasado;TN1217
+S219;V422;C0084;Calle de Toño Pagès 676 Piso 6 ;Envíos Rápidos;10,1;11/01/2022 19:24;15/01/2022 19:24;Entregado;TN1218
+S220;V424;C0249;Paseo de Azahara Iglesia 67 Puerta 1 ;Mensajería Express;-7,02;22/02/2022 5:30;01/03/2022 5:30;Retrasado;TN1219
+S221;V426;C0096;Camino Rufino Salas 317;Transportes XYZ;17,2;02/10/2022 21:47;09/10/2022 21:47;En tránsito;TN1220
+S222;V427;C0236;C. de Paca Campillo 181;Paquetería Internacional;14,36;16/06/2023 21:06;18/06/2023 21:06;En tránsito;TN1221
+S223;V429;C0202;Glorieta de Pancho Cabello 447 Piso 1 ;Mensajería Express;11,43;03/10/2022 13:24;10/10/2022 13:24;Retrasado;TN1222
+S224;V432;C0094;Alameda Amor Morell 447 Puerta 2 ;Envíos Rápidos;15,57;06/10/2022 17:21;07/10/2022 17:21;Retrasado;TN1223
+S225;V433;C0179;Via María Jesús Agustín 2 Piso 8 ;Envíos Rápidos;14,48;20/08/2022 10:30;24/08/2022 10:30;En tránsito;TN1224
+S226;V434;C0225;Cañada Ale Barriga 11 Piso 1 ;Transportes XYZ;10,9;25/03/2023 6:15;27/03/2023 6:15;Entregado;TN1225
+S227;V435;C0104;Avenida de Evaristo Mateo 124;Paquetería Internacional;14,6;24/01/2022 20:40;25/01/2022 20:40;Entregado;TN1226
+S228;V437;C0148;Acceso de Santos Cal 35;Transportes XYZ;9,98;23/01/2023 2:54;30/01/2023 2:54;Retrasado;TN1227
+S229;V439;C0179;Calle Victoriano Estrada 2 Apt. 55 ;Mensajería Express;12,92;20/11/2023 20:08;25/11/2023 20:08;Retrasado;TN1228
+S230;V443;C0247;Glorieta Ágata Almeida 85 Apt. 94 ;Envíos Rápidos;11,16;25/01/2023 8:44;29/01/2023 8:44;Retrasado;TN1229
+S231;V444;C0088;Plaza de Alejandro Atienza 8 Puerta 9 ;Mensajería Express;17,99;17/03/2022 1:04;19/03/2022 1:04;Entregado;TN1230
+S232;V446;C0115;Glorieta Josué Alvarado 36;Transportes XYZ;8,97;16/05/2023 13:47;18/05/2023 13:47;Retrasado;TN1231
+S233;V448;C0212;Paseo Clarisa Jordá 32 Apt. 41 ;Paquetería Internacional;12,03;04/09/2023 11:10;07/09/2023 11:10;Retrasado;TN1232
+S234;V449;C0054;Pasadizo Francisco Cortina 79;Paquetería Internacional;13,7;07/07/2023 14:16;10/07/2023 14:16;Retrasado;TN1233
+S235;V450;C0233;Acceso Josué Cifuentes 2 Puerta 1 ;Paquetería Internacional;14,09;07/11/2023 10:56;11/11/2023 10:56;En tránsito;TN1234
+S236;V454;C0120;Paseo Andrés Felipe Rico 58 Puerta 7 ;Envíos Rápidos;12,64;11/12/2023 20:23;17/12/2023 20:23;Retrasado;TN1235
+S237;V456;C0250;Callejón África Aguiló 57;Mensajería Express;7,7;31/07/2023 21:57;05/08/2023 21:57;Entregado;TN1236
+S238;V460;C0029;Via de Febe Egea 71 Puerta 0 ;Mensajería Express;-6,04;06/11/2023 15:56;09/11/2023 15:56;En tránsito;TN1237
+S239;V462;C0186;Callejón de Blanca Almazán 6;Paquetería Internacional;11,62;05/04/2022 13:04;09/04/2022 13:04;Retrasado;TN1238
+S240;V464;C0028;Ronda de César Bellido 23 Apt. 76 ;Paquetería Internacional;14,78;31/10/2023 2:31;05/11/2023 2:31;Retrasado;TN1239
+S241;V466;C0136;Pasadizo de Pili Gual 56;Transportes XYZ;6,1;24/08/2022 10:18;26/08/2022 10:18;En tránsito;TN1240
+S242;V471;C0023;Alameda Vanesa Casal 24;Transportes XYZ;15,59;17/06/2023 19:26;20/06/2023 19:26;En tránsito;TN1241
+S243;V474;C0123;Vial de Dorotea Bejarano 2 Puerta 8 ;Paquetería Internacional;13,08;20/07/2022 20:48;22/07/2022 20:48;En tránsito;TN1242
+S244;V475;C0180;Vial Arturo Camacho 87 Apt. 67 ;Envíos Rápidos;9,01;04/01/2022 12:27;06/01/2022 12:27;Retrasado;TN1243
+S245;V477;C0046;Avenida de Eutimio Tur 474;Paquetería Internacional;8,92;11/03/2022 5:25;13/03/2022 5:25;En tránsito;TN1244
+S246;V479;C0228;Rambla Daniel Cuéllar 66 Puerta 0 ;Paquetería Internacional;9,73;01/09/2023 21:11;04/09/2023 21:11;Entregado;TN1245
+S247;V480;C0141;Rambla de Azahar Gallo 2 Puerta 6 ;Mensajería Express;7,53;28/09/2023 10:32;29/09/2023 10:32;Retrasado;TN1246
+S248;V484;C0085;Calle Rogelio Sanabria 75 Apt. 73 ;Mensajería Express;16,43;17/07/2022 12:35;20/07/2022 12:35;Retrasado;TN1247
+S249;V485;C0047;Paseo de Rosendo Fabra 696 Apt. 71 ;Envíos Rápidos;-17,24;30/08/2023 15:51;02/09/2023 15:51;Entregado;TN1248
+S250;V486;C0149;Callejón de Manuela Caballero 61;Envíos Rápidos;16,24;16/09/2022 15:32;19/09/2022 15:32;En tránsito;TN1249
+S251;V487;C0137;Plaza Lope Rojas 76 Apt. 72 ;Mensajería Express;12,96;20/07/2022 0:09;25/07/2022 0:09;Retrasado;TN1250
+S252;V488;C0153;Camino de Eliseo Ibarra 36 Piso 2 ;Transportes XYZ;10,78;14/05/2023 7:36;20/05/2023 7:36;En tránsito;TN1251
+S253;V489;C0149;C. Fernando Ribas 76;Transportes XYZ;12,74;04/10/2022 16:07;10/10/2022 16:07;Retrasado;TN1252
+S254;V490;C0048;Plaza Graciano Leal 88 Puerta 3 ;Envíos Rápidos;16,54;18/07/2022 10:10;23/07/2022 10:10;Entregado;TN1253
+S255;V491;C0179;Rambla de Pastor Morillo 27;Paquetería Internacional;-9,64;24/01/2023 3:58;25/01/2023 3:58;Entregado;TN1254
+S256;V494;C0109;Calle de Diego Zabaleta 10;Envíos Rápidos;16,62;03/01/2023 22:00;10/01/2023 22:00;Entregado;TN1255
+S257;V495;C0138;Alameda Amor Morell 447 Puerta 2 ;Transportes XYZ;8,99;20/01/2023 4:07;22/01/2023 4:07;En tránsito;TN1256
+S258;V497;C0115;Via María Jesús Agustín 2 Piso 8 ;Mensajería Express;14,05;02/06/2022 11:49;05/06/2022 11:49;Entregado;TN1257
+S259;V499;C0194;Cañada Ale Barriga 11 Piso 1 ;Transportes XYZ;9,15;11/12/2023 13:02;13/12/2023 13:02;Retrasado;TN1258
+S260;V503;C0099;Glorieta de Rosa Roman 27 Puerta 5 ;Paquetería Internacional;7,37;22/05/2023 10:33;28/05/2023 10:33;Entregado;TN1259
+S261;V504;C0002;Plaza de Gilberto Mínguez 7 Puerta 1 ;Envíos Rápidos;-16,66;03/11/2023 4:37;06/11/2023 4:37;En tránsito;TN1260
+S262;V505;C0244;Camino Jacinta Carro 801 Apt. 14 ;Paquetería Internacional;9,18;29/01/2022 4:42;31/01/2022 4:42;Retrasado;TN1261
+S263;V506;C0138;Rambla de Hugo Álvaro 86;Mensajería Express;17,31;06/07/2022 5:27;10/07/2022 5:27;En tránsito;TN1262
+S264;V509;C0132;Pasaje de Celestina Torre 419;Paquetería Internacional;6,76;03/11/2023 0:46;08/11/2023 0:46;En tránsito;TN1263
+S265;V512;C0105;Callejón de Miguel Manzano 74;Envíos Rápidos;18,25;04/06/2022 0:08;11/06/2022 0:08;En tránsito;TN1264
+S266;V514;C0232;Acceso de María Manuela Chacón 320;Envíos Rápidos;6,86;03/02/2023 10:59;09/02/2023 10:59;En tránsito;TN1265
+S267;V515;C0011;Avenida de Félix Arnaiz 24;Transportes XYZ;16,99;09/04/2023 5:39;16/04/2023 5:39;Entregado;TN1266
+S268;V518;C0170;Paseo María España 742 Apt. 52 ;Transportes XYZ;20;07/10/2022 0:58;14/10/2022 0:58;Entregado;TN1267
+S269;V519;C0026;Callejón de Guadalupe Zurita 237;Mensajería Express;8,6;21/03/2022 10:54;24/03/2022 10:54;Retrasado;TN1268
+S270;V520;C0203;Glorieta de Luisina Arjona 55;Paquetería Internacional;14,69;04/11/2022 23:46;11/11/2022 23:46;Retrasado;TN1269
+S271;V521;C0106;Alameda de Trinidad Cisneros 63;Mensajería Express;19,14;10/10/2022 2:43;17/10/2022 2:43;Entregado;TN1270
+S272;V525;C0069;Pasadizo Dolores Guardiola 87 Apt. 76 ;Mensajería Express;16,16;22/12/2023 18:42;24/12/2023 18:42;Entregado;TN1271
+S273;V530;C0241;Plaza Crescencia Lopez 73 Puerta 5 ;Envíos Rápidos;13,53;22/01/2022 8:14;23/01/2022 8:14;Retrasado;TN1272
+S274;V534;C0030;Glorieta de Luisina Arjona 55;Transportes XYZ;12,04;09/06/2023 21:12;10/06/2023 21:12;Retrasado;TN1273
+S275;V537;C0201;Cañada Marisa Beltran 735;Mensajería Express;18,17;02/11/2022 17:34;07/11/2022 17:34;Entregado;TN1274
+S276;V539;C0070;Cañada Sandra Guerrero 6;Paquetería Internacional;6,16;28/05/2023 6:38;30/05/2023 6:38;En tránsito;TN1275
+S277;V540;C0130;Via Esther Ripoll 9 Piso 6 ;Transportes XYZ;12,59;06/03/2022 2:14;08/03/2022 2:14;Retrasado;TN1276
+S278;V542;C0147;Vial Gabriela Palau 312;Paquetería Internacional;5,56;17/01/2022 11:58;23/01/2022 11:58;Entregado;TN1277
+S279;V544;C0028;Camino Noelia Asenjo 68;Envíos Rápidos;8,31;08/04/2022 3:27;09/04/2022 3:27;Entregado;TN1278
+S280;V545;C0166;C. Federico Tamayo 52;Transportes XYZ;15,4;02/02/2022 9:27;07/02/2022 9:27;Entregado;TN1279
+S281;V550;C0092;Pasadizo Bernabé Alvarado 59 Puerta 2 ;Mensajería Express;7,59;06/04/2022 4:38;07/04/2022 4:38;Entregado;TN1280
+S282;V554;C0090;Cañada Chita Arrieta 23 Apt. 12 ;Transportes XYZ;-9,74;13/08/2022 4:56;17/08/2022 4:56;Retrasado;TN1281
+S283;V556;C0150;Alameda Vanesa Casal 24;Paquetería Internacional;13,51;16/07/2022 22:37;21/07/2022 22:37;Retrasado;TN1282
+S284;V558;C0048;Callejón de Miguel Manzano 74;Envíos Rápidos;8,66;06/10/2023 7:09;13/10/2023 7:09;Retrasado;TN1283
+S285;V560;C0212;Acceso Román Puga 64 Piso 0 ;Transportes XYZ;12,6;05/10/2022 13:10;10/10/2022 13:10;Retrasado;TN1284
+S286;V561;C0101;Acceso de Roxana Millán 58;Paquetería Internacional;11,92;22/10/2022 20:54;27/10/2022 20:54;En tránsito;TN1285
+S287;V564;C0093;Calle de Diego Zabaleta 10;Paquetería Internacional;6,86;20/06/2023 2:25;21/06/2023 2:25;Retrasado;TN1286
+S288;V568;C0016;Glorieta de Pancho Cabello 447 Piso 1 ;Paquetería Internacional;6,74;24/04/2023 16:59;25/04/2023 16:59;En tránsito;TN1287
+S289;V570;C0018;Callejón de Aránzazu Vazquez 32 Piso 1 ;Transportes XYZ;19,04;12/10/2022 23:55;17/10/2022 23:55;En tránsito;TN1288
+S290;V573;C0204;Callejón de Olegario Rodríguez 30;Envíos Rápidos;9,73;01/07/2023 22:24;03/07/2023 22:24;Entregado;TN1289
+S291;V575;C0164;Callejón Pacífica Fonseca 60;Mensajería Express;8,05;10/04/2022 10:30;14/04/2022 10:30;Retrasado;TN1290
+S292;V578;C0230;C. Agustín Villalobos 130;Paquetería Internacional;7,14;13/09/2023 16:00;20/09/2023 16:00;En tránsito;TN1291
+S293;V579;C0056;Glorieta Eusebio Santamaría 5 Puerta 2 ;Transportes XYZ;11,59;25/01/2023 4:24;30/01/2023 4:24;En tránsito;TN1292
+S294;V582;C0179;Cañada Danilo Moles 7 Puerta 6 ;Transportes XYZ;7,47;26/10/2022 5:19;01/11/2022 5:19;Retrasado;TN1293
+S295;V583;C0106;C. de Jose Francisco Tomas 926;Paquetería Internacional;9,83;21/04/2022 21:56;24/04/2022 21:56;Retrasado;TN1294
+S296;V586;C0055;Pasaje Brunilda Alcázar 15 Piso 9 ;Mensajería Express;6,73;16/08/2023 21:22;21/08/2023 21:22;Entregado;TN1295
+S297;V587;C0104;Avenida Rosario Gil 65 Piso 6 ;Paquetería Internacional;-10,37;26/03/2023 18:42;27/03/2023 18:42;Retrasado;TN1296
+S298;V589;C0107;Cuesta Lola Pont 320;Envíos Rápidos;13,58;01/08/2022 22:39;02/08/2022 22:39;Entregado;TN1297
+S299;V595;C0001;Camino de Aarón Arellano 6 Piso 4 ;Envíos Rápidos;17,69;05/04/2023 19:19;11/04/2023 19:19;Retrasado;TN1298
+S300;V597;C0095;Cañada Montserrat Ballesteros 8;Paquetería Internacional;16,97;15/03/2023 3:19;20/03/2023 3:19;Retrasado;TN1299
+S301;V599;C0045;Cañada Ramiro Corral 52 Apt. 03 ;Mensajería Express;16,78;01/12/2023 6:48;05/12/2023 6:48;En tránsito;TN1300
+S302;V600;C0017;Vial Arturo Camacho 87 Apt. 67 ;Paquetería Internacional;11,35;18/03/2022 23:56;22/03/2022 23:56;Retrasado;TN1301
+S303;V602;C0187;Cuesta de Luisa Rozas 356;Envíos Rápidos;9,67;19/02/2022 14:18;21/02/2022 14:18;En tránsito;TN1302
+S304;V604;C0204;Avenida de Eutimio Tur 474;Mensajería Express;19,23;16/08/2023 23:16;23/08/2023 23:16;Retrasado;TN1303
+S305;V605;C0093;Alameda de Bonifacio Ureña 55;Transportes XYZ;10,25;19/09/2022 15:16;23/09/2022 15:16;Entregado;TN1304
+S306;V606;C0052;Avenida de Evaristo Mateo 124;Transportes XYZ;7,07;08/01/2022 18:40;10/01/2022 18:40;En tránsito;TN1305
+S307;V608;C0229;Rambla Pilar Santamaria 2 Piso 2 ;Mensajería Express;5,49;18/07/2022 7:42;22/07/2022 7:42;Retrasado;TN1306
+S308;V609;C0016;Alameda Bautista Agustín 71;Mensajería Express;5,56;19/08/2022 23:30;23/08/2022 23:30;Entregado;TN1307
+S309;V610;C0004;C. de Inocencio Mínguez 372;Envíos Rápidos;17,56;22/09/2022 5:16;23/09/2022 5:16;Retrasado;TN1308
+S310;V611;C0051;Callejón de Manuela Caballero 61;Envíos Rápidos;11,33;08/01/2022 15:42;14/01/2022 15:42;Retrasado;TN1309
+S311;V614;C0102;Via de Melchor Alfaro 66 Apt. 47 ;Envíos Rápidos;-18,07;21/10/2022 20:33;27/10/2022 20:33;Entregado;TN1310
+S312;V615;C0191;Cañada Sandra Guerrero 6;Transportes XYZ;8,5;06/08/2022 5:18;07/08/2022 5:18;Entregado;TN1311
+S313;V618;C0152;Via María Jesús Agustín 2 Piso 8 ;Transportes XYZ;11,44;22/06/2022 4:50;24/06/2022 4:50;En tránsito;TN1312
+S314;V622;C0052;Pasadizo Concha Mateos 15 Puerta 4 ;Envíos Rápidos;18,47;01/05/2023 0:49;05/05/2023 0:49;Entregado;TN1313
+S315;V624;C0125;Cañada Chita Arrieta 23 Apt. 12 ;Envíos Rápidos;-15,5;06/12/2022 16:13;13/12/2022 16:13;En tránsito;TN1314
+S316;V625;C0149;Callejón Oriana Elorza 2;Envíos Rápidos;18,97;19/08/2022 3:17;26/08/2022 3:17;Retrasado;TN1315
+S317;V626;C0091;Paseo Severo Salvador 64;Transportes XYZ;17,61;19/08/2023 23:59;24/08/2023 23:59;En tránsito;TN1316
+S318;V628;C0218;Alameda de Trinidad Cisneros 63;Transportes XYZ;19,58;16/11/2022 14:57;19/11/2022 14:57;Entregado;TN1317
+S319;V631;C0065;Camino de Jonatan Tirado 706 Apt. 57 ;Paquetería Internacional;-17,22;29/12/2023 8:55;04/01/2024 8:55;Entregado;TN1318
+S320;V633;C0104;Plaza Crescencia Lopez 73 Puerta 5 ;Paquetería Internacional;14,02;08/07/2023 2:46;15/07/2023 2:46;Entregado;TN1319
+S321;V635;C0106;Cuesta de Jenny Cañete 31;Mensajería Express;17,84;22/10/2023 6:33;26/10/2023 6:33;Entregado;TN1320
+S322;V636;C0111;Avenida Edelmiro Conde 22;Paquetería Internacional;12,35;15/10/2023 17:18;22/10/2023 17:18;Retrasado;TN1321
+S323;V637;C0121;Acceso de Cornelio Berrocal 86;Transportes XYZ;11,04;04/02/2023 21:38;10/02/2023 21:38;En tránsito;TN1322
+S324;V638;C0044;Cuesta Lola Pont 320;Transportes XYZ;18,36;28/12/2023 10:37;30/12/2023 10:37;Retrasado;TN1323
+S325;V642;C0121;Pasadizo Elpidio Barrera 4 Piso 3 ;Transportes XYZ;6,16;18/04/2023 10:29;24/04/2023 10:29;Retrasado;TN1324
+S326;V644;C0032;Rambla Serafina Navas 3;Envíos Rápidos;-10,02;19/07/2023 11:42;25/07/2023 11:42;En tránsito;TN1325
+S327;V646;C0243;Pasadizo Elpidio Barrera 4 Piso 3 ;Envíos Rápidos;-19,5;11/08/2023 16:13;13/08/2023 16:13;En tránsito;TN1326
+S328;V650;C0108;Avenida Valentín Macías 919 Piso 9 ;Envíos Rápidos;-11,46;28/03/2022 10:58;01/04/2022 10:58;En tránsito;TN1327
+S329;V651;C0012;Callejón Cesar Salvà 8 Puerta 9 ;Paquetería Internacional;8,75;11/04/2022 14:56;18/04/2022 14:56;Entregado;TN1328
+S330;V655;C0006;Pasaje Carlito Boix 768;Paquetería Internacional;13,73;04/08/2023 4:19;08/08/2023 4:19;En tránsito;TN1329
+S331;V656;C0138;Camino Jacinta Carro 801 Apt. 14 ;Paquetería Internacional;17,28;07/07/2023 20:33;10/07/2023 20:33;Entregado;TN1330
+S332;V657;C0187;Avenida de Eutimio Mariscal 14;Mensajería Express;16,59;25/01/2023 12:46;31/01/2023 12:46;Retrasado;TN1331
+S333;V658;C0072;Plaza Graciano Leal 88 Puerta 3 ;Envíos Rápidos;15,2;24/01/2023 1:38;28/01/2023 1:38;Entregado;TN1332
+S334;V659;C0181;Plaza Purificación Barón 42;Envíos Rápidos;19,04;19/12/2023 6:08;25/12/2023 6:08;Entregado;TN1333
+S335;V660;C0177;C. de María José Linares 201 Apt. 94 ;Paquetería Internacional;10,03;17/04/2022 23:32;20/04/2022 23:32;Entregado;TN1334
+S336;V661;C0035;Calle Vilma Luís 56 Piso 2 ;Mensajería Express;13;04/09/2022 14:39;05/09/2022 14:39;En tránsito;TN1335
+S337;V662;C0027;Pasaje Brunilda Alcázar 15 Piso 9 ;Transportes XYZ;14,56;19/12/2023 16:29;25/12/2023 16:29;En tránsito;TN1336
+S338;V666;C0175;Urbanización de José María Lledó 47;Envíos Rápidos;12,38;28/10/2022 6:18;04/11/2022 6:18;Retrasado;TN1337
+S339;V667;C0041;Via de Pablo Pera 54 Puerta 2 ;Transportes XYZ;16,46;22/05/2023 21:45;28/05/2023 21:45;En tránsito;TN1338
+S340;V669;C0002;Callejón de Aránzazu Vazquez 32 Piso 1 ;Envíos Rápidos;5;17/11/2022 23:52;22/11/2022 23:52;En tránsito;TN1339
+S341;V670;C0219;Pasaje Gertrudis Carbajo 70;Transportes XYZ;17,77;18/11/2022 11:12;21/11/2022 11:12;En tránsito;TN1340
+S342;V671;C0179;Cuesta de Luisa Rozas 356;Envíos Rápidos;13,8;25/11/2022 10:53;28/11/2022 10:53;En tránsito;TN1341
+S343;V675;C0177;C. Fernando Ribas 76;Mensajería Express;8,3;21/04/2022 21:01;26/04/2022 21:01;Entregado;TN1342
+S344;V676;C0109;Pasaje Trini Flor 49;Paquetería Internacional;15,9;03/04/2022 13:21;07/04/2022 13:21;Retrasado;TN1343
+S345;V677;C0023;Plaza Lupe Pulido 888 Puerta 3 ;Transportes XYZ;13,83;01/02/2023 12:30;06/02/2023 12:30;Entregado;TN1344
+S346;V680;C0044;Cuesta de Jenny Cañete 31;Transportes XYZ;10,93;22/04/2023 1:33;29/04/2023 1:33;En tránsito;TN1345
+S347;V682;C0063;Callejón de Miguel Manzano 74;Paquetería Internacional;8;21/09/2023 2:48;26/09/2023 2:48;Entregado;TN1346
+S348;V683;C0191;Via de Reinaldo Ferrándiz 1;Mensajería Express;14,15;15/04/2022 23:32;21/04/2022 23:32;Retrasado;TN1347
+S349;V684;C0210;Ronda de Marcia Aparicio 21;Paquetería Internacional;-8,12;22/10/2023 7:25;29/10/2023 7:25;Entregado;TN1348
+S350;V685;C0003;Via de Perlita Barroso 57 Piso 6 ;Transportes XYZ;12,73;21/11/2022 5:28;26/11/2022 5:28;Entregado;TN1349
+S351;V686;C0165;Paseo de Ana Royo 54 Piso 3 ;Mensajería Express;12,2;11/08/2022 4:35;16/08/2022 4:35;En tránsito;TN1350
+S352;V687;C0249;Cañada Clemente Ramis 9 Puerta 8 ;Mensajería Express;-8,89;21/07/2023 1:29;23/07/2023 1:29;En tránsito;TN1351
+S353;V690;C0245;C. de Jose Francisco Tomas 926;Paquetería Internacional;19,21;19/03/2022 9:22;26/03/2022 9:22;Entregado;TN1352
+S354;V691;C0045;Paseo de Chucho Ramírez 53;Mensajería Express;18,44;05/08/2023 18:40;11/08/2023 18:40;En tránsito;TN1353
+S355;V692;C0043;Paseo de Ana Royo 54 Piso 3 ;Paquetería Internacional;17,94;26/09/2022 9:35;28/09/2022 9:35;En tránsito;TN1354
+S356;V693;C0116;Paseo Máximo Prada 70;Paquetería Internacional;-12,05;21/02/2022 10:58;23/02/2022 10:58;En tránsito;TN1355
+S357;V694;C0060;C. de Ximena Cánovas 484;Envíos Rápidos;8,61;21/08/2022 8:12;22/08/2022 8:12;Entregado;TN1356
+S358;V698;C0150;Alameda Paulino Mascaró 2 Apt. 11 ;Paquetería Internacional;19,85;06/11/2022 6:25;12/11/2022 6:25;Entregado;TN1357
+S359;V699;C0057;Via Eleuterio Bermejo 42;Transportes XYZ;16,98;13/12/2022 18:38;15/12/2022 18:38;Retrasado;TN1358
+S360;V700;C0032;Pasadizo Concha Mateos 15 Puerta 4 ;Envíos Rápidos;6,59;08/02/2023 14:19;14/02/2023 14:19;Retrasado;TN1359
+S361;V702;C0045;Camino de Aarón Arellano 6 Piso 4 ;Paquetería Internacional;-13,48;09/08/2022 17:21;15/08/2022 17:21;Retrasado;TN1360
+S362;V703;C0151;Callejón Cruz Calzada 50;Envíos Rápidos;18,3;24/02/2023 2:04;27/02/2023 2:04;Retrasado;TN1361
+S363;V706;C0129;C. Joan Andreu 53 Puerta 5 ;Paquetería Internacional;17,13;03/11/2023 19:18;04/11/2023 19:18;Entregado;TN1362
+S364;V707;C0145;Cuesta de Jenny Cañete 31;Envíos Rápidos;18,77;28/06/2023 0:04;30/06/2023 0:04;Retrasado;TN1363
+S365;V709;C0233;Paseo Severo Salvador 64;Mensajería Express;7,66;18/12/2022 12:46;21/12/2022 12:46;En tránsito;TN1364
+S366;V711;C0013;Vial Arturo Camacho 87 Apt. 67 ;Transportes XYZ;13,94;09/02/2022 16:56;16/02/2022 16:56;Retrasado;TN1365
+S367;V712;C0240;Rambla Armando Miranda 86;Paquetería Internacional;-18,46;19/09/2022 19:27;26/09/2022 19:27;En tránsito;TN1366
+S368;V715;C0237;Rambla Daniel Cuéllar 66 Puerta 0 ;Paquetería Internacional;11,27;07/02/2023 4:53;12/02/2023 4:53;Entregado;TN1367
+S369;V716;C0157;Camino Jacinta Carro 801 Apt. 14 ;Mensajería Express;17,29;22/01/2023 19:49;28/01/2023 19:49;Retrasado;TN1368
+S370;V717;C0005;Plaza Lope Rojas 76 Apt. 72 ;Envíos Rápidos;7,67;09/05/2022 22:55;13/05/2022 22:55;Entregado;TN1369
+S371;V718;C0137;Cuesta Lola Pont 320;Transportes XYZ;6,84;31/08/2023 11:41;07/09/2023 11:41;Retrasado;TN1370
+S372;V720;C0193;Acceso de Cornelio Berrocal 86;Mensajería Express;11,75;09/11/2022 22:13;14/11/2022 22:13;Retrasado;TN1371
+S373;V721;C0069;Acceso Román Puga 64 Piso 0 ;Mensajería Express;6,94;09/09/2022 11:26;12/09/2022 11:26;En tránsito;TN1372
+S374;V726;C0200;Callejón de Blanca Almazán 6;Mensajería Express;10,73;23/05/2022 8:36;28/05/2022 8:36;Retrasado;TN1373
+S375;V727;C0044;Cañada Ramiro Corral 52 Apt. 03 ;Paquetería Internacional;11,94;29/01/2022 9:23;03/02/2022 9:23;En tránsito;TN1374
+S376;V728;C0190;Callejón de Pedro Cases 52;Mensajería Express;6,41;26/03/2023 17:46;02/04/2023 17:46;Entregado;TN1375
+S377;V729;C0196;Cañada de Cristóbal Corbacho 22;Paquetería Internacional;14,38;16/06/2023 6:25;23/06/2023 6:25;En tránsito;TN1376
+S378;V730;C0001;Ronda de César Bellido 23 Apt. 76 ;Paquetería Internacional;7,18;04/03/2022 5:55;11/03/2022 5:55;Entregado;TN1377
+S379;V732;C0151;Cuesta Azeneth Morell 9 Puerta 4 ;Paquetería Internacional;13,03;06/12/2022 0:24;10/12/2022 0:24;Retrasado;TN1378
+S380;V735;C0009;Cuesta Julie Landa 399 Apt. 14 ;Envíos Rápidos;-11,02;22/12/2023 19:29;26/12/2023 19:29;En tránsito;TN1379
+S381;V737;C0119;Glorieta de Pancho Cabello 447 Piso 1 ;Paquetería Internacional;15,58;06/04/2022 23:48;07/04/2022 23:48;En tránsito;TN1380
+S382;V738;C0069;C. de Elena Toledo 8;Mensajería Express;5,1;05/07/2022 18:37;07/07/2022 18:37;Entregado;TN1381
+S383;V740;C0103;Ronda Fidela Mur 96 Puerta 0 ;Envíos Rápidos;13,67;15/05/2023 15:28;18/05/2023 15:28;Retrasado;TN1382
+S384;V743;C0163;Callejón África Aguiló 57;Mensajería Express;19,23;19/03/2023 18:26;21/03/2023 18:26;Entregado;TN1383
+S385;V745;C0089;Calle de Victoria Somoza 253 Apt. 94 ;Paquetería Internacional;14,25;29/11/2023 4:45;06/12/2023 4:45;Entregado;TN1384
+S386;V746;C0248;Paseo Roberta Lamas 32 Piso 7 ;Envíos Rápidos;-9,19;18/01/2022 19:25;24/01/2022 19:25;Entregado;TN1385
+S387;V747;C0168;Plaza Purificación Barón 42;Paquetería Internacional;8,25;05/02/2023 14:35;11/02/2023 14:35;Entregado;TN1386
+S388;V748;C0111;Camino Yago Juárez 74;Transportes XYZ;11,29;31/10/2023 12:41;03/11/2023 12:41;Entregado;TN1387
+S389;V749;C0122;C. Simón Iborra 38;Envíos Rápidos;10,57;12/01/2022 11:00;17/01/2022 11:00;Retrasado;TN1388
+S390;V750;C0087;Glorieta Eusebio Santamaría 5 Puerta 2 ;Envíos Rápidos;14,9;27/06/2023 2:54;03/07/2023 2:54;Retrasado;TN1389
+S391;V752;C0205;Avenida Rosario Gil 65 Piso 6 ;Envíos Rápidos;5,02;17/11/2023 15:54;19/11/2023 15:54;Retrasado;TN1390
+S392;V755;C0108;Pasadizo de Cesar Cañellas 93;Mensajería Express;8,98;22/05/2023 16:39;26/05/2023 16:39;Retrasado;TN1391
+S393;V761;C0070;Via de Tiburcio Castillo 59;Paquetería Internacional;19,78;22/11/2022 10:41;24/11/2022 10:41;En tránsito;TN1392
+S394;V765;C0094;Via Lupe Barreda 2 Piso 4 ;Paquetería Internacional;13,26;19/05/2023 9:38;22/05/2023 9:38;Entregado;TN1393
+S395;V767;C0131;Camino de Leoncio Barceló 8;Transportes XYZ;14,51;01/01/2022 5:52;02/01/2022 5:52;En tránsito;TN1394
+S396;V768;C0038;Paseo de Ana Royo 54 Piso 3 ;Mensajería Express;16,9;28/11/2023 20:55;30/11/2023 20:55;En tránsito;TN1395
+S397;V769;C0082;Urbanización de José María Lledó 47;Paquetería Internacional;16,8;06/09/2023 17:20;09/09/2023 17:20;Entregado;TN1396
+S398;V770;C0033;Glorieta Jacobo Paz 4;Paquetería Internacional;18,65;25/11/2022 14:05;30/11/2022 14:05;Entregado;TN1397
+S399;V771;C0123;Vial Arturo Camacho 87 Apt. 67 ;Mensajería Express;14,47;13/09/2023 8:14;16/09/2023 8:14;En tránsito;TN1398
+S400;V779;C0191;Camino Genoveva Estevez 89;Mensajería Express;11,2;21/01/2023 23:09;26/01/2023 23:09;Retrasado;TN1399
+S401;V780;C0012;Vial Gabriela Palau 312;Mensajería Express;12,31;11/01/2023 10:29;12/01/2023 10:29;Retrasado;TN1400
+S402;V783;C0065;Paseo Anabel Santana 5 Puerta 6 ;Mensajería Express;14,51;21/01/2023 12:13;25/01/2023 12:13;En tránsito;TN1401
+S403;V784;C0117;Vial Juan Francisco Miguel 7 Apt. 66 ;Transportes XYZ;19,22;13/08/2023 1:00;16/08/2023 1:00;Retrasado;TN1402
+S404;V785;C0079;Cañada Sandra Guerrero 6;Mensajería Express;19,11;22/09/2023 17:12;25/09/2023 17:12;En tránsito;TN1403
+S405;V789;C0181;Alameda de Concepción Infante 165;Transportes XYZ;19,49;28/10/2022 23:51;04/11/2022 23:51;En tránsito;TN1404
+S406;V794;C0076;Cañada Octavio Lorenzo 3;Envíos Rápidos;-17,42;03/12/2022 22:21;04/12/2022 22:21;Retrasado;TN1405
+S407;V797;C0097;Callejón de Magdalena Morcillo 2 Puerta 2 ;Envíos Rápidos;13,62;30/06/2022 9:16;04/07/2022 9:16;Retrasado;TN1406
+S408;V798;C0229;Callejón Cesar Salvà 8 Puerta 9 ;Envíos Rápidos;8,92;03/05/2022 7:12;08/05/2022 7:12;Entregado;TN1407
+S409;V799;C0161;Pasadizo Dolores Guardiola 87 Apt. 76 ;Transportes XYZ;15,85;11/04/2022 15:10;13/04/2022 15:10;En tránsito;TN1408
+S410;V801;C0078;Callejón Tania Mancebo 8 Apt. 04 ;Paquetería Internacional;13,81;03/09/2023 18:52;08/09/2023 18:52;Entregado;TN1409
+S411;V803;C0131;Pasaje Gertrudis Carbajo 70;Transportes XYZ;6,71;13/06/2023 4:14;19/06/2023 4:14;Entregado;TN1410
+S412;V804;C0167;Acceso de Joan Andrés 65;Paquetería Internacional;19,98;17/08/2023 7:03;19/08/2023 7:03;Entregado;TN1411
+S413;V807;C0185;Paseo María España 742 Apt. 52 ;Envíos Rápidos;-7,79;04/02/2023 9:43;05/02/2023 9:43;Retrasado;TN1412
+S414;V808;C0177;Acceso de Santos Cal 35;Transportes XYZ;6,25;16/01/2023 22:32;17/01/2023 22:32;En tránsito;TN1413
+S415;V810;C0219;C. de Ximena Cánovas 484;Envíos Rápidos;13,18;30/05/2022 8:22;31/05/2022 8:22;Retrasado;TN1414
+S416;V811;C0142;Acceso de Régulo Muro 47 Piso 3 ;Transportes XYZ;7,49;07/03/2022 9:13;11/03/2022 9:13;Retrasado;TN1415
+S417;V812;C0023;Paseo María España 742 Apt. 52 ;Transportes XYZ;18,3;25/04/2022 2:28;29/04/2022 2:28;Entregado;TN1416
+S418;V813;C0175;Cuesta Cecilio Cañellas 55 Puerta 1 ;Envíos Rápidos;17,36;10/06/2023 21:03;16/06/2023 21:03;Entregado;TN1417
+S419;V814;C0011;Acceso Jafet Canales 97;Paquetería Internacional;7,37;21/12/2022 18:17;27/12/2022 18:17;Retrasado;TN1418
+S420;V816;C0128;Rambla de Joel Álvaro 162;Mensajería Express;16,5;17/03/2022 21:59;19/03/2022 21:59;En tránsito;TN1419
+S421;V817;C0076;Cañada Marisa Beltran 735;Envíos Rápidos;6,73;21/06/2023 12:31;26/06/2023 12:31;Retrasado;TN1420
+S422;V819;C0052;Callejón Pacífica Fonseca 60;Mensajería Express;19,38;26/04/2022 9:59;03/05/2022 9:59;Entregado;TN1421
+S423;V825;C0096;Via Leocadio Moll 5;Paquetería Internacional;16,33;25/04/2022 4:33;29/04/2022 4:33;Retrasado;TN1422
+S424;V828;C0168;Pasaje de Candelas Muro 748 Apt. 29 ;Paquetería Internacional;6,45;09/04/2023 3:50;12/04/2023 3:50;Entregado;TN1423
+S425;V832;C0065;Pasaje Isabel Olivera 14 Apt. 91 ;Mensajería Express;5,82;07/10/2022 5:51;12/10/2022 5:51;Retrasado;TN1424
+S426;V833;C0104;Paseo de Teo Chacón 3 Puerta 8 ;Transportes XYZ;8,66;10/03/2023 15:29;16/03/2023 15:29;Entregado;TN1425
+S427;V835;C0128;Callejón Tania Mancebo 8 Apt. 04 ;Paquetería Internacional;19,7;31/08/2023 0:14;03/09/2023 0:14;Entregado;TN1426
+S428;V836;C0188;Pasaje de Celestina Torre 419;Paquetería Internacional;15,66;12/02/2022 7:08;19/02/2022 7:08;Entregado;TN1427
+S429;V841;C0102;C. Roldán Aller 24 Piso 5 ;Transportes XYZ;-5,38;26/09/2023 7:00;01/10/2023 7:00;Entregado;TN1428
+S430;V843;C0040;Cañada de Cloe Valencia 631;Transportes XYZ;9,36;11/09/2022 17:31;16/09/2022 17:31;Entregado;TN1429
+S431;V847;C0249;Callejón de Manuela Caballero 61;Transportes XYZ;17,79;29/01/2023 22:42;05/02/2023 22:42;Entregado;TN1430
+S432;V848;C0087;Callejón Oriana Elorza 2;Paquetería Internacional;-14,85;07/07/2023 6:11;14/07/2023 6:11;Retrasado;TN1431
+S433;V850;C0075;Ronda de Joel Doménech 68 Piso 6 ;Paquetería Internacional;18,62;07/03/2023 12:16;10/03/2023 12:16;En tránsito;TN1432
+S434;V852;C0245;Plaza de Águeda Frutos 7 Puerta 1 ;Paquetería Internacional;-6,42;28/02/2022 1:06;05/03/2022 1:06;En tránsito;TN1433
+S435;V853;C0102;Paseo Máximo Prada 70;Envíos Rápidos;10,69;21/12/2023 10:12;28/12/2023 10:12;Retrasado;TN1434
+S436;V854;C0024;Acceso de Régulo Muro 47 Piso 3 ;Paquetería Internacional;12,03;16/11/2022 11:03;22/11/2022 11:03;Entregado;TN1435
+S437;V857;C0240;Cañada Ramiro Corral 52 Apt. 03 ;Paquetería Internacional;6,22;14/12/2023 4:13;17/12/2023 4:13;Retrasado;TN1436
+S438;V858;C0010;Glorieta Josué Alvarado 36;Envíos Rápidos;19,57;03/12/2022 11:44;07/12/2022 11:44;En tránsito;TN1437
+S439;V860;C0220;Alameda Leonel Reig 74;Transportes XYZ;18,45;25/04/2022 18:12;30/04/2022 18:12;Entregado;TN1438
+S440;V861;C0225;Plaza Purificación Barón 42;Transportes XYZ;9,97;08/11/2022 2:07;11/11/2022 2:07;En tránsito;TN1439
+S441;V862;C0165;Vial de Marc Córdoba 11;Mensajería Express;16,06;25/07/2023 13:01;26/07/2023 13:01;En tránsito;TN1440
+S442;V864;C0165;Cañada de Cloe Valencia 631;Mensajería Express;12,75;31/07/2022 5:21;02/08/2022 5:21;En tránsito;TN1441
+S443;V865;C0185;Via María Jesús Agustín 2 Piso 8 ;Paquetería Internacional;15,04;19/09/2022 5:40;23/09/2022 5:40;Retrasado;TN1442
+S444;V866;C0096;Alameda Emperatriz Costa 26;Transportes XYZ;15,51;09/11/2023 1:13;10/11/2023 1:13;Entregado;TN1443
+S445;V867;C0092;Avenida de Eutimio Tur 474;Paquetería Internacional;13,24;23/07/2022 10:23;29/07/2022 10:23;Entregado;TN1444
+S446;V870;C0228;C. de Jose Francisco Tomas 926;Mensajería Express;15,69;25/10/2022 7:33;27/10/2022 7:33;En tránsito;TN1445
+S447;V871;C0125;Acceso de Régulo Muro 47 Piso 3 ;Transportes XYZ;14,41;30/06/2022 3:13;03/07/2022 3:13;Entregado;TN1446
+S448;V873;C0237;Acceso Javi Corominas 48;Transportes XYZ;19,84;05/11/2022 23:08;07/11/2022 23:08;Entregado;TN1447
+S449;V874;C0035;Via de Cosme Andrés 1;Mensajería Express;6,27;26/05/2022 22:30;27/05/2022 22:30;Retrasado;TN1448
+S450;V875;C0184;Acceso Jafet Canales 97;Envíos Rápidos;13,44;10/12/2022 20:01;16/12/2022 20:01;Entregado;TN1449
+S451;V879;C0230;Vial de Paula Calatayud 59;Envíos Rápidos;7,37;15/10/2022 0:54;22/10/2022 0:54;Retrasado;TN1450
+S452;V880;C0100;Pasadizo Ascensión Echeverría 62;Paquetería Internacional;12,6;07/10/2023 8:47;08/10/2023 8:47;Entregado;TN1451
+S453;V881;C0124;C. de Jose Francisco Tomas 926;Transportes XYZ;15,36;20/09/2022 22:25;21/09/2022 22:25;Entregado;TN1452
+S454;V883;C0052;Callejón de Pedro Cases 52;Envíos Rápidos;6,44;24/08/2023 9:05;31/08/2023 9:05;Retrasado;TN1453
+S455;V889;C0186;Alameda de Esther Barriga 81;Transportes XYZ;11,51;11/04/2022 19:18;17/04/2022 19:18;Entregado;TN1454
+S456;V890;C0099;Pasadizo de Cesar Cañellas 93;Mensajería Express;14,63;13/09/2022 6:33;15/09/2022 6:33;Entregado;TN1455
+S457;V891;C0096;Urbanización Liliana Cuenca 57 Puerta 0 ;Envíos Rápidos;15,96;29/01/2022 14:31;05/02/2022 14:31;Retrasado;TN1456
+S458;V895;C0006;Acceso Román Puga 64 Piso 0 ;Mensajería Express;10,51;01/11/2022 6:51;07/11/2022 6:51;Entregado;TN1457
+S459;V896;C0001;Pasadizo de Pili Gual 56;Envíos Rápidos;11,84;07/10/2023 1:15;13/10/2023 1:15;En tránsito;TN1458
+S460;V897;C0032;Cuesta de Jenny Cañete 31;Mensajería Express;9,69;31/03/2023 3:52;07/04/2023 3:52;Retrasado;TN1459
+S461;V898;C0199;Pasadizo Lidia Luján 66 Piso 7 ;Mensajería Express;17,06;30/11/2023 12:07;01/12/2023 12:07;En tránsito;TN1460
+S462;V904;C0104;Plaza Graciano Leal 88 Puerta 3 ;Transportes XYZ;18,68;11/09/2023 16:01;14/09/2023 16:01;En tránsito;TN1461
+S463;V905;C0172;Vial de Elpidio Amador 32;Transportes XYZ;16,21;28/09/2022 0:58;29/09/2022 0:58;En tránsito;TN1462
+S464;V910;C0217;Vial de Elpidio Amador 32;Transportes XYZ;17,64;23/07/2022 6:51;24/07/2022 6:51;Entregado;TN1463
+S465;V911;C0214;Callejón de Josefina Cano 78;Transportes XYZ;10,81;28/10/2023 3:59;29/10/2023 3:59;En tránsito;TN1464
+S466;V912;C0114;Paseo Gustavo Nogueira 737;Envíos Rápidos;16,83;09/02/2023 17:24;14/02/2023 17:24;Retrasado;TN1465
+S467;V913;C0067;Pasadizo Francisco Cortina 79;Mensajería Express;12,44;08/09/2022 14:57;13/09/2022 14:57;En tránsito;TN1466
+S468;V914;C0151;Pasadizo Bernabé Alvarado 59 Puerta 2 ;Transportes XYZ;15,87;20/03/2022 12:35;27/03/2022 12:35;Retrasado;TN1467
+S469;V918;C0175;Camino Jacinta Carro 801 Apt. 14 ;Paquetería Internacional;18,73;27/09/2022 8:01;03/10/2022 8:01;Entregado;TN1468
+S470;V921;C0212;C. Federico Tamayo 52;Mensajería Express;9,66;09/10/2022 11:17;11/10/2022 11:17;Entregado;TN1469
+S471;V922;C0018;Via de Tiburcio Castillo 59;Mensajería Express;15,47;18/05/2022 22:52;23/05/2022 22:52;Retrasado;TN1470
+S472;V923;C0044;Camino de Eusebia Carro 5;Paquetería Internacional;8,26;29/12/2023 7:10;31/12/2023 7:10;Retrasado;TN1471
+S473;V925;C0137;Plaza de Victor Grau 6;Paquetería Internacional;-11,5;25/10/2022 19:02;31/10/2022 19:02;Retrasado;TN1472
+S474;V927;C0144;Ronda Fidela Mur 96 Puerta 0 ;Mensajería Express;14,7;24/12/2023 9:27;31/12/2023 9:27;En tránsito;TN1473
+S475;V929;C0169;Callejón de Aránzazu Vazquez 32 Piso 1 ;Transportes XYZ;10;25/04/2022 22:01;26/04/2022 22:01;En tránsito;TN1474
+S476;V930;C0039;Cuesta de Jenny Cañete 31;Mensajería Express;-13,52;15/04/2023 6:33;20/04/2023 6:33;En tránsito;TN1475
+S477;V931;C0035;Callejón Tania Mancebo 8 Apt. 04 ;Envíos Rápidos;7,52;12/10/2022 21:16;13/10/2022 21:16;Entregado;TN1476
+S478;V932;C0100;Paseo Severo Salvador 64;Mensajería Express;13,77;04/03/2022 8:12;06/03/2022 8:12;Retrasado;TN1477
+S479;V933;C0124;Camino Genoveva Estevez 89;Envíos Rápidos;13,52;16/12/2022 15:27;22/12/2022 15:27;En tránsito;TN1478
+S480;V934;C0097;Acceso de Prudencia Buendía 37;Transportes XYZ;13,59;11/07/2023 21:11;14/07/2023 21:11;Retrasado;TN1479
+S481;V935;C0179;Camino Rufino Salas 317;Mensajería Express;7,16;04/03/2023 22:41;11/03/2023 22:41;Entregado;TN1480
+S482;V937;C0177;Acceso de Prudencia Buendía 37;Transportes XYZ;10,16;16/03/2022 21:01;21/03/2022 21:01;Entregado;TN1481
+S483;V939;C0124;Camino de Eliseo Ibarra 36 Piso 2 ;Paquetería Internacional;16,78;26/02/2023 7:36;01/03/2023 7:36;Entregado;TN1482
+S484;V940;C0017;Ronda Fabiana Luís 495;Mensajería Express;9,78;24/09/2022 1:20;25/09/2022 1:20;En tránsito;TN1483
+S485;V941;C0147;C. de Inocencio Mínguez 372;Envíos Rápidos;13,65;22/04/2022 10:21;29/04/2022 10:21;Entregado;TN1484
+S486;V942;C0200;Cañada Chita Arrieta 23 Apt. 12 ;Mensajería Express;13,26;12/02/2023 18:59;14/02/2023 18:59;Retrasado;TN1485
+S487;V944;C0047;Glorieta Román Ortega 93 Puerta 5 ;Mensajería Express;6,96;19/10/2023 13:27;21/10/2023 13:27;Entregado;TN1486
+S488;V945;C0205;Vial Arturo Camacho 87 Apt. 67 ;Transportes XYZ;7,45;24/12/2023 22:36;26/12/2023 22:36;Retrasado;TN1487
+S489;V947;C0191;Rambla de Joel Álvaro 162;Mensajería Express;16,67;20/03/2022 1:24;22/03/2022 1:24;Entregado;TN1488
+S490;V948;C0244;Camino de Eusebia Carro 5;Mensajería Express;13,77;13/01/2023 18:37;20/01/2023 18:37;Entregado;TN1489
+S491;V949;C0079;Via Leocadio Moll 5;Mensajería Express;7,45;09/12/2022 6:32;11/12/2022 6:32;Entregado;TN1490
+S492;V951;C0148;Cañada Octavio Lorenzo 3;Mensajería Express;12,39;17/12/2022 4:18;18/12/2022 4:18;Entregado;TN1491
+S493;V953;C0120;Via de Perlita Barroso 57 Piso 6 ;Transportes XYZ;8,85;22/07/2022 11:05;26/07/2022 11:05;Retrasado;TN1492
+S494;V954;C0148;Cuesta Cecilio Cañellas 55 Puerta 1 ;Paquetería Internacional;13,39;12/10/2022 23:23;14/10/2022 23:23;En tránsito;TN1493
+S495;V955;C0132;C. Joan Andreu 53 Puerta 5 ;Paquetería Internacional;11,55;04/08/2023 1:25;06/08/2023 1:25;Retrasado;TN1494
+S496;V956;C0225;Camino Noelia Asenjo 68;Mensajería Express;14,17;29/07/2023 1:38;02/08/2023 1:38;Entregado;TN1495
+S497;V957;C0130;Avenida Edelmiro Conde 22;Transportes XYZ;7,22;22/02/2023 7:49;01/03/2023 7:49;Entregado;TN1496
+S498;V960;C0077;Paseo de Efraín Abad 316;Mensajería Express;10,65;18/11/2023 17:50;21/11/2023 17:50;Entregado;TN1497
+S499;V961;C0163;Urbanización de Carla Pla 11 Piso 3 ;Transportes XYZ;8,76;23/08/2023 6:49;24/08/2023 6:49;Entregado;TN1498
+S500;V963;C0165;Paseo María España 742 Apt. 52 ;Paquetería Internacional;19,4;11/08/2022 11:12;13/08/2022 11:12;Entregado;TN1499
+S501;V965;C0070;Cuesta de Luisa Rozas 356;Mensajería Express;7,32;08/10/2023 2:17;13/10/2023 2:17;Retrasado;TN1500
+S502;V966;C0223;Vial Gabriela Palau 312;Envíos Rápidos;-9,86;20/03/2022 4:53;26/03/2022 4:53;Entregado;TN1501
+S503;V967;C0023;Paseo Severo Salvador 64;Envíos Rápidos;17,24;02/06/2023 3:02;08/06/2023 3:02;Retrasado;TN1502
+S504;V969;C0109;Glorieta Ramona Noriega 91 Puerta 3 ;Mensajería Express;18,22;07/05/2023 23:35;14/05/2023 23:35;Entregado;TN1503
+S505;V970;C0119;Ronda Maristela Gomez 29 Puerta 5 ;Envíos Rápidos;11,91;30/05/2022 23:55;06/06/2022 23:55;Retrasado;TN1504
+S506;V972;C0229;Ronda Dolores Rosado 4 Apt. 89 ;Paquetería Internacional;9,25;09/07/2022 18:31;10/07/2022 18:31;Entregado;TN1505
+S507;V973;C0158;Vial de Teobaldo Martorell 89;Envíos Rápidos;10,37;15/02/2023 8:55;19/02/2023 8:55;En tránsito;TN1506
+S508;V975;C0083;Alameda Lucila Muñoz 8;Paquetería Internacional;14,98;11/05/2023 20:12;15/05/2023 20:12;Retrasado;TN1507
+S509;V977;C0113;Alameda de Esther Barriga 81;Paquetería Internacional;7,75;13/11/2023 10:00;19/11/2023 10:00;En tránsito;TN1508
+S510;V978;C0203;Pasadizo de Rosario Lladó 4 Puerta 7 ;Mensajería Express;9,11;24/03/2022 4:42;27/03/2022 4:42;Retrasado;TN1509
+S511;V980;C0073;Callejón de Magdalena Morcillo 2 Puerta 2 ;Transportes XYZ;-12,31;14/12/2023 8:37;19/12/2023 8:37;Retrasado;TN1510
+S512;V981;C0019;Camino de Asunción Segarra 23;Mensajería Express;11,8;22/07/2023 0:38;23/07/2023 0:38;Retrasado;TN1511
+S513;V982;C0096;Avenida de Eutimio Mariscal 14;Paquetería Internacional;-8,19;10/08/2022 21:26;14/08/2022 21:26;En tránsito;TN1512
+S514;V983;C0242;Camino de Jonatan Tirado 706 Apt. 57 ;Paquetería Internacional;13,26;13/09/2022 23:34;20/09/2022 23:34;Retrasado;TN1513
+S515;V984;C0022;Alameda de Esther Barriga 81;Paquetería Internacional;6,84;02/10/2023 16:30;06/10/2023 16:30;Retrasado;TN1514
+S516;V986;C0229;Avenida de Lilia Garzón 48 Puerta 0 ;Paquetería Internacional;9,54;13/10/2023 11:31;16/10/2023 11:31;En tránsito;TN1515
+S517;V987;C0163;Via de Febe Egea 71 Puerta 0 ;Paquetería Internacional;7,54;08/02/2022 14:43;13/02/2022 14:43;Retrasado;TN1516
+S518;V989;C0159;Pasadizo Francisco Cortina 79;Transportes XYZ;-15,92;02/06/2023 12:10;09/06/2023 12:10;Entregado;TN1517
+S519;V990;C0144;Plaza de Lucía Amor 8 Piso 8 ;Envíos Rápidos;18,38;02/12/2022 16:43;04/12/2022 16:43;Entregado;TN1518
+S520;V991;C0003;Camino Jacinta Carro 801 Apt. 14 ;Paquetería Internacional;18,99;31/10/2022 14:48;05/11/2022 14:48;Entregado;TN1519
+S521;V992;C0063;Acceso de Dani Galvez 623 Puerta 7 ;Transportes XYZ;14,06;22/07/2022 19:52;27/07/2022 19:52;Entregado;TN1520
+S522;V997;C0194;Glorieta Eusebio Santamaría 5 Puerta 2 ;Mensajería Express;15,42;16/04/2023 15:13;23/04/2023 15:13;En tránsito;TN1521
+S523;V999;C0061;Glorieta de Eustaquio Chaves 426;Envíos Rápidos;6,66;27/01/2022 8:05;03/02/2022 8:05;En tránsito;TN1522

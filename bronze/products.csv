@@ -1,0 +1,101 @@
+product_id;product_name;price;genre;platform;recommended_age;manufacturer;release_date;language;provider_id;rating;weight;dimensions
+PRD0001;The Legend of Zelda: Breath of the Wild;40.33;Acción, Aventura;Nintendo Switch;PEGI 3;Nintendo;01/03/2023;English, Chinese, Hindi, Spanish, Arabic;P009;2.8;0.121kg;11.7 x 3.6 x 17.5 cm
+PRD0002;Super Mario Odyssey;60.63;Plataforma;Nintendo Switch;PEGI 7;Nintendo;02/11/2018;English, Chinese, Hindi, Spanish, Arabic;P010;3.1;0.383kg;16.6 x 3.7 x 21.8 cm
+PRD0003;Red Dead Redemption 2;-12.48;Acción, Aventura;PlayStation, Xbox, PC;PEGI 12;Rockstar Games;29/12/2014;English, Chinese, Hindi, Spanish, Arabic;P009;2.5;0.229kg;12.7 x 4.8 x 20.4 cm
+PRD0004;The Witcher 3: Wild Hunt;32.76;Rol;PlayStation, Xbox, PC;PEGI 3;CD Projekt;22/04/2023;English, Chinese, Hindi, Spanish, Arabic;P009;1.5;0.192kg;17.1 x 4.2 x 20.0 cm
+PRD0005;Minecraft;58.61;Sandbox, Supervivencia;PlayStation, Xbox, PC, Nintendo Switch;PEGI 3;Mojang Studios;15/10/2020;English, Chinese, Hindi, Spanish, Arabic;P010;4.3;0.237kg;17.1 x 4.1 x 17.1 cm
+PRD0006;God of War;24.02;Acción, Aventura;PlayStation;PEGI 12;Santa Monica Studio;05/01/2018;English, Chinese, Hindi, Spanish, Arabic;P010;4.7;0.376kg;18.8 x 2.3 x 17.4 cm
+PRD0007;Fortnite;17.52;Battle Royale;PlayStation, Xbox, PC, Nintendo Switch;PEGI 12;Epic Games;25/05/2020;English, Chinese, Hindi, Spanish, Arabic;P006;2.3;0.368kg;19.9 x 2.8 x 19.0 cm
+PRD0008;Among Us;14.92;Party, Multijugador;PC, Nintendo Switch;PEGI 3;InnerSloth;06/01/2020;English, Chinese, Hindi, Spanish, Arabic;P006;4;0.344kg;15.6 x 3.0 x 15.8 cm
+PRD0009;Call of Duty: Warzone;43.73;Shooter;PlayStation, Xbox, PC;PEGI 12;Infinity Ward;31/05/2021;English, Chinese, Hindi, Spanish, Arabic;P006;2;0.249kg;14.6 x 2.8 x 21.8 cm
+PRD0010;Grand Theft Auto V;36.74;Acción, Aventura;PlayStation, Xbox, PC;PEGI 16;Rockstar Games;02/07/2015;English, Chinese, Hindi, Spanish, Arabic;P008;4.4;0.378kg;15.6 x 1.6 x 18.1 cm
+PRD0011;Overwatch;66.89;Shooter;PlayStation, Xbox, PC, Nintendo Switch;PEGI 16;Blizzard Entertainment;04/05/2018;English, Chinese, Hindi, Spanish, Arabic;P002;4.5;0.351kg;17.7 x 4.1 x 17.5 cm
+PRD0012;Dark Souls III;54.31;Acción, RPG;PlayStation, Xbox, PC;PEGI 3;FromSoftware;06/04/2019;English, Chinese, Hindi, Spanish, Arabic;P009;1.7;0.421kg;14.7 x 4.5 x 21.7 cm
+PRD0013;The Elder Scrolls V: Skyrim;57.69;Rol;PlayStation, Xbox, PC, Nintendo Switch;PEGI 16;Bethesda Game Studios;08/11/2021;English, Chinese, Hindi, Spanish, Arabic;P008;2.8;0.200kg;11.2 x 1.7 x 18.3 cm
+PRD0014;League of Legends;16.45;MOBA;PC;PEGI 12;Riot Games;19/09/2016;English, Chinese, Hindi, Spanish, Arabic;P008;4.3;0.445kg;13.6 x 3.6 x 16.2 cm
+PRD0015;Rocket League;67.18;Deportes, Carreras;PlayStation, Xbox, PC, Nintendo Switch;PEGI 7;Psyonix;23/08/2021;English, Chinese, Hindi, Spanish, Arabic;P009;3.3;0.232kg;11.3 x 1.5 x 15.1 cm
+PRD0016;Apex Legends;49.45;Battle Royale;PlayStation, Xbox, PC;PEGI 16;Respawn Entertainment;21/10/2021;English, Chinese, Hindi, Spanish, Arabic;P009;2.2;0.144kg;18.2 x 4.0 x 17.8 cm
+PRD0017;FIFA 20;-39.3;Deportes;PlayStation, Xbox, PC, Nintendo Switch;PEGI 3;EA Sports;20/08/2018;English, Chinese, Hindi, Spanish, Arabic;P008;4.1;0.434kg;13.0 x 4.6 x 24.2 cm
+PRD0018;Animal Crossing: New Horizons;19.31;Simulación;Nintendo Switch;PEGI 18;Nintendo;04/04/2021;English, Chinese, Hindi, Spanish, Arabic;P002;2.3;0.379kg;17.7 x 3.7 x 20.5 cm
+PRD0019;Doom Eternal;37.3;Shooter;PlayStation, Xbox, PC, Nintendo Switch;PEGI 12;id Software;17/12/2014;English, Chinese, Hindi, Spanish, Arabic;P010;2.1;0.162kg;18.5 x 2.6 x 17.7 cm
+PRD0020;Hades;54.33;Roguelike;PlayStation, Xbox, PC, Nintendo Switch;PEGI 3;Supergiant Games;19/07/2022;English, Chinese, Hindi, Spanish, Arabic;P002;2;0.474kg;14.7 x 1.7 x 19.2 cm
+PRD0021;Call of Duty: Modern Warfare;54.38;Acción;PC;PEGI 18;EA Sports;02/07/2016;English, German, Spanish;P010;4.8;0.271kg;13.3 x 4.6 x 24.5 cm
+PRD0022;FIFA 23;18.3;Simulación;Nintendo Switch;PEGI 3;Sony;11/07/2017;English, French, Spanish;P007;4.1;0.451kg;13.3 x 4.5 x 24.5 cm
+PRD0023;Grand Theft Auto V;52.91;Deportes;Nintendo Switch;PEGI 18;Ubisoft;11/02/2020;English, French, Spanish;P010;1.8;0.138kg;16.5 x 4.4 x 21.5 cm
+PRD0024;Halo Infinite;49.74;Puzzle;Xbox;PEGI 12;Nintendo;12/02/2021;English, Spanish;P007;3;0.328kg;18.6 x 3.4 x 23.6 cm
+PRD0025;Assassin's Creed Valhalla;64.93;Estrategia;Xbox;PEGI 7;Microsoft;23/05/2021;English, German, Spanish;P003;4.5;0.145kg;17.6 x 3.4 x 22.3 cm
+PRD0026;Elden Ring;29.97;Acción;PlayStation;PEGI 16;Microsoft;20/03/2020;English, Spanish;P006;4.7;0.156kg;11.7 x 3.8 x 22.1 cm
+PRD0027;Cyberpunk 2077;-60.35;Deportes;Xbox;PEGI 16;Microsoft;07/05/2018;English, German, Spanish;P010;3.9;0.412kg;17.1 x 3.1 x 19.0 cm
+PRD0028;Fortnite;43.39;Estrategia;Xbox;PEGI 12;Ubisoft;06/04/2020;English, German, Spanish;P010;3;0.190kg;14.3 x 3.9 x 19.0 cm
+PRD0029;Apex Legends;57.63;Puzzle;Nintendo Switch;PEGI 16;Ubisoft;22/11/2022;English, French, Spanish;P010;3;0.171kg;13.7 x 4.1 x 19.6 cm
+PRD0030;Overwatch;43.97;RPG;PlayStation;PEGI 18;Nintendo;27/10/2018;English, French, Spanish;P007;3.7;0.158kg;11.5 x 4.4 x 20.0 cm
+PRD0031;League of Legends;14.14;Acción;Xbox;PEGI 18;Nintendo;28/08/2017;English, French, Spanish;P009;2.3;0.129kg;17.8 x 3.1 x 15.7 cm
+PRD0032;Dota 2;28.45;Acción;PlayStation;PEGI 7;Activision;30/04/2021;English, Spanish;P003;3;0.373kg;19.7 x 3.2 x 20.9 cm
+PRD0033;Counter-Strike: Global Offensive;56.14;Aventura;PC;PEGI 16;Sony;01/07/2018;English, Spanish;P003;3.3;0.178kg;11.0 x 3.9 x 24.2 cm
+PRD0034;World of Warcraft;19.31;Deportes;PlayStation;PEGI 18;EA Sports;22/12/2021;English, German, Spanish;P008;1.5;0.177kg;13.3 x 4.7 x 22.3 cm
+PRD0035;Diablo III;34.91;Deportes;PC;PEGI 3;Ubisoft;15/02/2016;English, German, Spanish;P006;3.2;0.441kg;18.0 x 4.2 x 22.2 cm
+PRD0036;Starcraft II;16.65;Puzzle;PC;PEGI 18;Activision;19/04/2022;English, Spanish;P001;1.8;0.340kg;15.6 x 4.5 x 24.1 cm
+PRD0037;The Sims 4;54.78;Simulación;PC;PEGI 3;Sony;06/12/2021;English, German, Spanish;P003;2.1;0.379kg;15.7 x 4.4 x 18.6 cm
+PRD0038;Battlefield V;65.43;Aventura;Nintendo Switch;PEGI 16;Activision;20/07/2023;English, Spanish;P004;4.1;0.158kg;12.1 x 3.8 x 22.6 cm
+PRD0039;Dark Souls III;28.36;RPG;PC;PEGI 3;EA Sports;27/03/2019;English, German, Spanish;P005;4.3;0.284kg;15.4 x 3.7 x 15.4 cm
+PRD0040;Sekiro: Shadows Die Twice;21.93;Estrategia;PC;PEGI 18;Nintendo;13/10/2020;English, Spanish;P002;3;0.378kg;18.4 x 4.3 x 16.0 cm
+PRD0041;The Elder Scrolls V: Skyrim;38.55;Puzzle;PlayStation;PEGI 16;Activision;03/01/2019;English, Spanish;P009;2.9;0.217kg;10.8 x 3.3 x 21.3 cm
+PRD0042;Fallout 4;44.88;Deportes;PC;PEGI 12;Ubisoft;05/04/2023;English, French, Spanish;P007;3.5;0.385kg;19.0 x 4.3 x 15.7 cm
+PRD0043;Mass Effect: Andromeda;69.25;Estrategia;Xbox;PEGI 3;Activision;08/07/2022;English, French, Spanish;P006;4.3;0.410kg;15.1 x 3.9 x 20.5 cm
+PRD0044;Forza Horizon 5;10.55;Acción;Xbox;PEGI 7;Sony;14/12/2022;English, German, Spanish;P008;3.6;0.147kg;18.0 x 4.5 x 24.6 cm
+PRD0045;Gran Turismo 7;43.49;RPG;PC;PEGI 16;Microsoft;19/08/2019;English, French, Spanish;P007;3.6;0.229kg;18.2 x 3.6 x 22.1 cm
+PRD0046;Mario Kart 8 Deluxe;49.1;Acción;Xbox;PEGI 3;Nintendo;18/07/2021;English, Spanish;P005;2.8;0.390kg;13.5 x 4.6 x 16.5 cm
+PRD0047;Super Smash Bros. Ultimate;66.24;Deportes;Nintendo Switch;PEGI 18;Activision;28/03/2017;English, French, Spanish;P008;3.5;0.325kg;19.0 x 4.1 x 15.8 cm
+PRD0048;Animal Crossing: New Horizons;68.9;Aventura;PC;PEGI 12;Nintendo;18/12/2017;English, French, Spanish;P003;4.2;0.235kg;12.3 x 3.8 x 21.2 cm
+PRD0049;Splatoon 2;63.23;Deportes;Nintendo Switch;PEGI 7;Nintendo;01/04/2022;English, French, Spanish;P001;3.1;0.282kg;15.2 x 3.6 x 15.6 cm
+PRD0050;Pokemon Sword and Shield;33.3;Deportes;PlayStation;PEGI 18;Nintendo;27/10/2017;English, German, Spanish;P002;1.9;0.123kg;19.7 x 4.6 x 15.9 cm
+PRD0051;Metroid Dread;65.77;Aventura;Xbox;PEGI 16;Nintendo;13/05/2021;English, German, Spanish;P001;4;0.165kg;16.9 x 3.6 x 23.5 cm
+PRD0052;The Last of Us Part II;23.02;Puzzle;PlayStation;PEGI 16;Nintendo;18/05/2021;English, French, Spanish;P010;1.6;0.131kg;18.3 x 3.7 x 24.1 cm
+PRD0053;God of War;67.06;Estrategia;Xbox;PEGI 3;Ubisoft;13/07/2017;English, German, Spanish;P003;1.2;0.323kg;14.1 x 3.4 x 19.3 cm
+PRD0054;Ghost of Tsushima;49.63;RPG;PC;PEGI 3;EA Sports;21/05/2018;English, French, Spanish;P005;2.7;0.315kg;17.2 x 3.6 x 17.9 cm
+PRD0055;Spider-Man: Miles Morales;-34.56;Puzzle;PlayStation;PEGI 3;EA Sports;25/09/2018;English, French, Spanish;P003;3.6;0.186kg;13.0 x 5.0 x 22.4 cm
+PRD0056;Death Stranding;-63.98;Deportes;Nintendo Switch;PEGI 12;Microsoft;04/08/2017;English, Spanish;P001;1.6;0.233kg;12.4 x 4.6 x 15.7 cm
+PRD0057;Resident Evil Village;27.68;Estrategia;Xbox;PEGI 16;Ubisoft;15/11/2017;English, German, Spanish;P007;4.7;0.183kg;13.7 x 3.7 x 20.4 cm
+PRD0058;Monster Hunter: World;19.27;Deportes;Nintendo Switch;PEGI 3;EA Sports;12/01/2021;English, French, Spanish;P002;2.6;0.497kg;17.7 x 4.8 x 23.7 cm
+PRD0059;Final Fantasy XV;11.89;RPG;PlayStation;PEGI 12;Ubisoft;17/06/2020;English, French, Spanish;P001;1.8;0.208kg;14.0 x 3.9 x 16.2 cm
+PRD0060;Kingdom Hearts III;18.26;Acción;PC;PEGI 18;Ubisoft;14/02/2020;English, German, Spanish;P009;1;0.119kg;15.5 x 4.0 x 18.5 cm
+PRD0061;Street Fighter V;17.07;Aventura;PC;PEGI 18;Microsoft;27/07/2018;English, French, Spanish;P004;2.2;0.365kg;10.7 x 3.6 x 19.1 cm
+PRD0062;Tekken 7;58.51;Deportes;PC;PEGI 12;Ubisoft;09/12/2019;English, French, Spanish;P003;2.9;0.387kg;17.8 x 3.2 x 24.7 cm
+PRD0063;Mortal Kombat 11;51.94;Puzzle;Xbox;PEGI 7;EA Sports;22/11/2018;English, French, Spanish;P006;3.1;0.317kg;14.7 x 3.3 x 22.2 cm
+PRD0064;Among Us;69.55;Acción;Nintendo Switch;PEGI 12;Microsoft;09/12/2021;English, Spanish;P002;1.8;0.413kg;10.4 x 3.3 x 20.7 cm
+PRD0065;Minecraft Dungeons;54.2;Aventura;PC;PEGI 7;Nintendo;26/06/2020;English, Spanish;P004;2.2;0.353kg;11.3 x 4.4 x 19.5 cm
+PRD0066;Terraria;46.06;Puzzle;PlayStation;PEGI 16;EA Sports;20/09/2023;English, French, Spanish;P005;1.3;0.409kg;18.6 x 3.2 x 15.4 cm
+PRD0067;Stardew Valley;47.03;Simulación;Nintendo Switch;PEGI 3;EA Sports;22/09/2017;English, French, Spanish;P002;1.9;0.189kg;17.1 x 4.3 x 23.3 cm
+PRD0068;No Man's Sky;57.59;RPG;Nintendo Switch;PEGI 18;EA Sports;18/03/2023;English, German, Spanish;P007;4.3;0.439kg;17.8 x 5.0 x 19.2 cm
+PRD0069;Subnautica;59.6;Deportes;PlayStation;PEGI 3;Activision;05/05/2023;English, French, Spanish;P007;3.6;0.239kg;11.8 x 4.8 x 16.9 cm
+PRD0070;ARK: Survival Evolved;10.23;RPG;PlayStation;PEGI 18;Microsoft;05/08/2023;English, Spanish;P001;4.6;0.383kg;19.3 x 4.7 x 21.7 cm
+PRD0071;Rust;56.36;Simulación;PC;PEGI 3;EA Sports;09/04/2022;English, German, Spanish;P004;4.6;0.392kg;12.5 x 4.6 x 19.3 cm
+PRD0072;Valheim;55.79;Puzzle;Xbox;PEGI 18;Sony;17/09/2016;English, French, Spanish;P010;2.2;0.380kg;20.0 x 4.5 x 16.5 cm
+PRD0073;Genshin Impact;13.36;Puzzle;Nintendo Switch;PEGI 18;EA Sports;17/05/2017;English, German, Spanish;P007;4.8;0.201kg;15.2 x 3.9 x 22.7 cm
+PRD0074;Roblox;-52.53;Deportes;PC;PEGI 12;Sony;22/11/2020;English, French, Spanish;P002;2.3;0.416kg;13.0 x 3.7 x 21.7 cm
+PRD0075;PUBG;61.67;Aventura;PlayStation;PEGI 12;Nintendo;12/03/2020;English, Spanish;P004;4.8;0.405kg;13.4 x 3.0 x 21.6 cm
+PRD0076;Destiny 2;-31.97;RPG;Xbox;PEGI 16;Sony;30/12/2020;English, French, Spanish;P004;3.2;0.179kg;18.8 x 4.5 x 17.0 cm
+PRD0077;Warframe;69.98;Estrategia;Nintendo Switch;PEGI 3;Microsoft;09/08/2019;English, French, Spanish;P010;4.1;0.281kg;13.8 x 3.9 x 19.8 cm
+PRD0078;Tom Clancy's Rainbow Six Siege;27.23;RPG;PC;PEGI 12;Activision;16/12/2019;English, Spanish;P003;2;0.248kg;19.8 x 3.8 x 24.6 cm
+PRD0079;Escape from Tarkov;17.62;Deportes;Xbox;PEGI 16;EA Sports;30/07/2022;English, Spanish;P005;1.8;0.213kg;17.8 x 4.5 x 20.1 cm
+PRD0080;Baldur's Gate 3;66.2;Aventura;Xbox;PEGI 3;Sony;19/10/2019;English, Spanish;P008;2.5;0.380kg;16.2 x 4.8 x 23.0 cm
+PRD0081;Divinity: Original Sin 2;50.53;Acción;PlayStation;PEGI 12;Activision;18/11/2021;English, German, Spanish;P006;3.4;0.439kg;13.1 x 3.1 x 23.1 cm
+PRD0082;Pillars of Eternity II: Deadfire;18.4;Estrategia;PlayStation;PEGI 18;Nintendo;01/02/2022;English, German, Spanish;P009;4.4;0.397kg;10.3 x 3.9 x 21.3 cm
+PRD0083;Path of Exile;37;RPG;PlayStation;PEGI 7;Ubisoft;14/03/2020;English, German, Spanish;P007;2.5;0.371kg;12.8 x 3.2 x 16.9 cm
+PRD0084;Warcraft III: Reforged;54.43;Aventura;PlayStation;PEGI 3;Sony;25/07/2017;English, French, Spanish;P007;4.1;0.273kg;11.9 x 4.8 x 23.0 cm
+PRD0085;Age of Empires IV;55.57;Acción;Nintendo Switch;PEGI 7;Ubisoft;08/03/2018;English, Spanish;P004;2.4;0.217kg;14.3 x 3.0 x 21.8 cm
+PRD0086;Civilization VI;60.31;Estrategia;Nintendo Switch;PEGI 12;Activision;28/08/2017;English, German, Spanish;P006;3.7;0.313kg;14.1 x 3.5 x 21.8 cm
+PRD0087;XCOM 2;-35.28;RPG;PlayStation;PEGI 16;Microsoft;21/03/2020;English, French, Spanish;P004;1.5;0.437kg;11.2 x 4.9 x 18.5 cm
+PRD0088;Total War: Warhammer II;45.88;Deportes;PlayStation;PEGI 16;Nintendo;19/05/2020;English, German, Spanish;P004;1.3;0.371kg;19.5 x 3.1 x 21.7 cm
+PRD0089;SimCity;19.6;Acción;Nintendo Switch;PEGI 3;Sony;30/11/2022;English, Spanish;P001;3.3;0.108kg;12.2 x 4.2 x 15.3 cm
+PRD0090;Cities: Skylines;59.19;Estrategia;PC;PEGI 3;Microsoft;11/05/2021;English, German, Spanish;P008;1.7;0.226kg;10.3 x 3.3 x 21.5 cm
+PRD0091;Farming Simulator 22;18.7;Deportes;PlayStation;PEGI 3;Nintendo;26/08/2016;English, Spanish;P007;1.7;0.416kg;18.9 x 5.0 x 23.2 cm
+PRD0092;Kerbal Space Program;20.66;Estrategia;PlayStation;PEGI 12;Microsoft;01/09/2021;English, Spanish;P004;2.7;0.130kg;14.4 x 3.4 x 22.1 cm
+PRD0093;Microsoft Flight Simulator;48.06;Acción;Xbox;PEGI 7;Microsoft;16/07/2018;English, German, Spanish;P009;1.4;0.147kg;16.0 x 3.2 x 17.5 cm
+PRD0094;Euro Truck Simulator 2;-54.07;Estrategia;PC;PEGI 12;Ubisoft;19/05/2022;English, French, Spanish;P006;3.7;0.145kg;11.2 x 3.4 x 15.6 cm
+PRD0095;The Witcher 3: Wild Hunt;54.58;RPG;PC;PEGI 7;EA Sports;14/03/2017;English, French, Spanish;P007;3;0.157kg;15.0 x 4.7 x 16.6 cm
+PRD0096;Dishonored 2;-65.65;RPG;Xbox;PEGI 16;Nintendo;04/10/2023;English, Spanish;P001;4.2;0.267kg;19.4 x 3.2 x 21.9 cm
+PRD0097;Hitman 3;36.35;Deportes;Nintendo Switch;PEGI 16;Ubisoft;03/07/2023;English, French, Spanish;P002;1.1;0.179kg;19.1 x 3.3 x 19.0 cm
+PRD0098;Control;60.77;Puzzle;PC;PEGI 7;Activision;16/04/2019;English, German, Spanish;P003;3.3;0.399kg;18.0 x 3.2 x 24.3 cm
+PRD0099;BioShock Infinite;59.19;Estrategia;Nintendo Switch;PEGI 7;Ubisoft;07/08/2020;English, Spanish;P010;2.6;0.345kg;12.8 x 3.3 x 17.0 cm
+PRD0100;Detroit: Become Human;31.81;Simulación;PlayStation;PEGI 3;Ubisoft;19/07/2019;English, German, Spanish;P005;2.1;0.361kg;19.4 x 4.3 x 15.1 cm

@@ -1,0 +1,251 @@
+customer_id;customer_name;email;phone;country;city;address;postal_code;birth_date;gender;registration_date;purchase_history;loyalty_points
+C0001;María Cristina Rivera;maría cristina.rivera@example.com;+34745 94 88 37;España;Girona;Alameda de Lope Amorós 788 Puerta 6 ;3949;06/05/1964;Otro;10/02/2020;7 compras;58
+C0002;Artemio Méndez;artemio.méndez@example.com;+34 846 036 297;España;Granada;Alameda de Trinidad Cisneros 63;12299;29/04/1956;Masculino;18/12/2019;13 compras;129
+C0003;Nacio Lerma;nacio.lerma@example.com;+34 730 415 587;España;León;Calle de Toño Pagès 676 Piso 6 ;8096;12/01/1974;Otro;17/01/2022;10 compras;242
+C0004;Anastasio Araujo;anastasio.araujo@example.com;+34886 541 375;España;Granada;Avenida Edelmiro Conde 22;61744;08/12/1995;Masculino;14/10/2022;5 compras;375
+C0005;Néstor Trillo;néstor.trillo@example.com;+34 646101710;España;Castellón;C. de Jose Francisco Tomas 926;86262;09/02/1962;Masculino;25/10/2021;18 compras;328
+C0006;Natalio Santos;natalio.santos@example.com;+34746 179 617;España;Murcia;Vial de Dorotea Bejarano 2 Puerta 8 ;40346;03/03/1974;Otro;02/11/2021;10 compras;452
+C0007;Amparo Vila;amparo.vila@example.com;+34741 339 501;España;Ávila;Cuesta de Jenny Cañete 31;94274;21/07/1963;Femenino;16/11/2021;3 compras;742
+C0008;Edu Cadenas;edu.cadenas@example.com;+34926 947 149;España;Las Palmas;Cuesta Azeneth Morell 9 Puerta 4 ;89767;12/08/1987;Masculino;22/06/2021;4 compras;709
+C0009;Jose Antonio Torres;jose antonio.torres@example.com;+34943 702 454;España;Baleares;Cañada Dionisia Castillo 72;75479;14/04/1971;Otro;27/12/2018;6 compras;140
+C0010;Joaquín Talavera;joaquín.talavera@example.com;+34 717507397;España;Lugo;Camino Rufino Salas 317;62588;10/02/1972;Masculino;05/10/2020;7 compras;999
+C0011;Maricruz Zabala;maricruz.zabala@example.com;+34 748259462;España;Lugo;Ronda de Marianela Botella 82 Puerta 1 ;73689;10/09/1954;Femenino;08/04/2019;3 compras;294
+C0012;Asunción Montenegro;asunción.montenegro@example.com;+34 745 66 53 39;España;Lleida;Alameda de Cecilio Sanjuan 98;80973;09/08/2000;Femenino;09/02/2020;13 compras;510
+C0013;Valentina Blanca;valentina.blanca@example.com;+34737 132 315;España;Salamanca;Callejón Pacífica Fonseca 60;77068;19/07/1992;Otro;25/05/2020;4 compras;744
+C0014;Vicente Benítez;vicente.benítez@example.com;+34714 38 88 11;España;La Coruña;Cañada de Cloe Valencia 631;68272;23/10/1986;Otro;30/11/2022;16 compras;366
+C0015;Calixto Fernández;calixto.fernández@example.com;+34 866 114 734;España;Ceuta;Vial Arturo Camacho 87 Apt. 67 ;83404;04/12/1994;Masculino;20/03/2021;2 compras;810
+C0016;Gervasio Andrés;gervasio.andrés@example.com;+34 705 90 37 85;España;Melilla;Pasadizo Bernabé Alvarado 59 Puerta 2 ;48502;16/06/1988;Masculino;04/01/2019;16 compras;142
+C0017;Edu Benavente;edu.benavente@example.com;+34 842878020;España;La Coruña;Rambla Pilar Santamaria 2 Piso 2 ;43968;12/04/1996;Masculino;16/01/2020;9 compras;764
+C0018;Eli Galvez;eli.galvez@example.com;34828465874;España;Jaén;Urbanización de Carla Pla 11 Piso 3 ;76599;13/10/1975;Femenino;25/05/2021;19 compras;12
+C0019;Eugenio Lumbreras;eugenio.lumbreras@example.com;+34728 451 862;España;Barcelona;Paseo Máximo Prada 70;59835;28/03/1984;Masculino;26/09/2020;13 compras;120
+C0020;Manuel Viñas;manuel.viñas@example.com;+34883 73 21 00;España;Almería;Vial de Teobaldo Martorell 89;85563;22/10/1974;Masculino;22/07/2022;12 compras;944
+C0021;Felipa Barrena;felipa.barrena@example.com;+34 735 052 621;España;Ciudad;Acceso Josué Cifuentes 2 Puerta 1 ;65244;04/11/1978;Femenino;02/07/2023;16 compras;6
+C0022;Marcial Sancho;marcial.sancho@example.com;+34 972715058;España;Asturias;Plaza Lupe Pulido 888 Puerta 3 ;93160;12/05/2000;Masculino;21/09/2019;9 compras;608
+C0023;Rodrigo Téllez;rodrigo.téllez@example.com;+34 705 61 63 62;España;Zamora;Pasaje de Celestina Torre 419;97524;29/03/1962;Masculino;19/06/2021;3 compras;908
+C0024;Leocadia Samper;leocadia.samper@example.com;+34 609 22 31 87;España;Ourense;Camino Yago Juárez 74;40093;22/11/1961;Femenino;03/08/2020;12 compras;211
+C0025;Maura Manzano;maura.manzano@example.com;+34921 522 936;España;Cantabria;Glorieta de Pancho Cabello 447 Piso 1 ;789;09/05/2003;Femenino;17/06/2021;1 compras;38
+C0026;Mireia Echeverría;mireia.echeverría@example.com;+34883 97 68 12;España;Valencia;Glorieta Gabino Duque 8;23699;11/12/1998;Femenino;30/08/2022;13 compras;530
+C0027;Ibán Bustos;ibán.bustos@example.com;+34924 99 87 80;España;Santa Cruz de Tenerife;Paseo Severo Salvador 64;34977;05/09/1959;Masculino;09/01/2019;8 compras;577
+C0028;Mario Roldán;mario.roldán@example.com;+34 709 47 07 38;España;Córdoba;Via de Aurelio Acedo 1 Piso 7 ;92690;15/09/1983;Masculino;09/10/2020;12 compras;56
+C0029;Isabela Arana;isabela.arana@example.com;34703454300;España;La Rioja;C. Cayetana Coronado 108 Apt. 51 ;37517;02/02/1982;Femenino;01/10/2020;14 compras;686
+C0030;Arcelia Manuel;arcelia.manuel@example.com;+34735 32 57 92;España;Tarragona;Callejón Tania Mancebo 8 Apt. 04 ;57016;10/08/1994;Otro;25/09/2019;2 compras;204
+C0031;Balduino Morata;balduino.morata@example.com;+34910 32 17 87;España;Cantabria;Avenida de Eutimio Mariscal 14;59248;04/06/1956;Otro;31/08/2021;5 compras;589
+C0032;Consuelo Gutiérrez;consuelo.gutiérrez@example.com;+34739 06 54 02;España;Málaga;Urbanización Abril Domingo 51;59839;15/07/1992;Otro;17/09/2023;9 compras;598
+C0033;Feliciano Solera;feliciano.solera@example.com;+34 732 586 333;España;Granada;Alameda de Concepción Infante 165;23165;14/10/1958;Masculino;07/04/2023;2 compras;954
+C0034;Luis Porcel;luis.porcel@example.com;+34 662434826;España;Cádiz;Rambla Serafina Navas 3;19275;21/07/1988;Masculino;03/06/2021;16 compras;293
+C0035;Aránzazu Figueras;aránzazu.figueras@example.com;34747905240;España;Barcelona;Camino Lilia Porta 23;17513;26/07/1977;Femenino;29/12/2019;2 compras;342
+C0036;Hermenegildo Ferreras;hermenegildo.ferreras@example.com;+34 725 70 16 56;España;Barcelona;Avenida Marcio Sevillano 4;70776;21/01/1956;Masculino;04/01/2023;10 compras;352
+C0037;Roberto Cabrera;roberto.cabrera@example.com;+34 736 84 76 09;España;Asturias;Urbanización de Susanita Saavedra 84 Apt. 64 ;13008;20/05/1998;Masculino;21/03/2023;12 compras;559
+C0038;Jeremías Planas;jeremías.planas@example.com;+34 733720911;España;Valencia;Calle Quirino Rincón 40;68155;26/03/1986;Otro;25/10/2023;11 compras;796
+C0039;Juan Antonio Mate;juan antonio.mate@example.com;+34 819 208 384;España;Valladolid;Urbanización Liliana Cuenca 57 Puerta 0 ;36836;27/07/1969;Masculino;29/07/2022;11 compras;31
+C0040;Florentina Escamilla;florentina.escamilla@example.com;+34 703 73 53 78;España;Málaga;Via de Tiburcio Albero 6 Puerta 4 ;13347;29/12/1995;Otro;26/09/2021;9 compras;960
+C0041;Victor Manuel Santos;victor manuel.santos@example.com;+34 708 31 48 24;España;La Coruña;C. de María José Linares 201 Apt. 94 ;29997;20/02/1960;Masculino;08/08/2023;18 compras;186
+C0042;Clementina Amores;clementina.amores@example.com;+34 674 67 35 80;España;Vizcaya;Paseo Andrés Felipe Rico 58 Puerta 7 ;66148;13/09/1965;Otro;24/11/2020;13 compras;338
+C0043;Heriberto López;heriberto.lópez@example.com;+34 651858089;España;Santa Cruz de Tenerife;Alameda de Bonifacio Ureña 55;59988;19/02/1998;Otro;18/06/2019;11 compras;812
+C0044;Juliana Ricart;juliana.ricart@example.com;+34 723608911;España;Huesca;Via María Jesús Agustín 2 Piso 8 ;74805;28/09/1968;Femenino;21/09/2023;19 compras;947
+C0045;Luisina Campoy;luisina.campoy@example.com;34711689484;España;Almería;Cuesta de Luisa Rozas 356;54290;26/01/1962;Femenino;02/01/2023;19 compras;661
+C0046;Edmundo Santos;edmundo.santos@example.com;34702739875;España;Granada;Alameda Vanesa Casal 24;23381;08/04/1997;Masculino;29/05/2022;19 compras;816
+C0047;Tere Borrell;tere.borrell@example.com;+34 978741344;España;Sevilla;Glorieta de Nazario Villaverde 36;92203;11/02/1986;Otro;20/02/2023;11 compras;208
+C0048;Carmina Pla;carmina.pla@example.com;+34746 47 34 42;España;Zaragoza;Cañada Montserrat Ballesteros 8;97926;07/01/1998;Femenino;13/10/2020;2 compras;262
+C0049;Zaida Grande;zaida.grande@example.com;+34 712 74 54 39;España;Teruel;Avenida Valentín Macías 919 Piso 9 ;80497;27/09/1985;Femenino;22/04/2022;4 compras;471
+C0050;Hipólito Ledesma;hipólito.ledesma@example.com;+34 732367963;España;Valladolid;Calle Amaya Ferrando 92 Puerta 5 ;18335;16/10/1975;Masculino;26/10/2020;7 compras;446
+C0051;Fabián Alvarado;fabián.alvarado@example.com;+34 834 607 758;España;Málaga;Paseo de Chucho Ramírez 53;88599;21/02/1985;Otro;19/12/2021;1 compras;506
+C0052;Octavia Sancho;octavia.sancho@example.com;+34 635 90 20 49;España;Cádiz;Callejón de Juana Merino 167 Apt. 06 ;68262;09/10/2001;Femenino;25/03/2023;20 compras;435
+C0053;Brunilda Coca;brunilda.coca@example.com;+34 707647634;España;Almería;Cuesta de Sebastian Calatayud 67;35216;05/02/1980;Femenino;13/01/2019;4 compras;266
+C0054;José Antonio Palomar;josé antonio.palomar@example.com;+34 686 763 841;España;Sevilla;Callejón de Aránzazu Vazquez 32 Piso 1 ;11938;11/06/2002;Masculino;09/08/2023;9 compras;855
+C0055;Joaquina Delgado;joaquina.delgado@example.com;34733069983;España;Santa Cruz de Tenerife;Paseo Anabel Santana 5 Puerta 6 ;64629;15/07/2001;Femenino;21/01/2020;9 compras;980
+C0056;Melisa Torrens;melisa.torrens@example.com;+34 716 259 770;España;Salamanca;Glorieta de Macarena Arévalo 3;51653;02/11/1987;Femenino;08/03/2023;6 compras;993
+C0057;Dani Vicens;dani.vicens@example.com;+34865 48 94 18;España;Zaragoza;Callejón Cesar Salvà 8 Puerta 9 ;5848;31/05/1995;Masculino;17/12/2018;19 compras;18
+C0058;Vilma Barrio;vilma.barrio@example.com;+34674 277 730;España;Vizcaya;Via de Melchor Alfaro 66 Apt. 47 ;12738;01/05/1969;Femenino;24/11/2023;9 compras;359
+C0059;Jordana Ledesma;jordana.ledesma@example.com;+34 749 67 63 49;España;Burgos;Rambla de Azahar Gallo 2 Puerta 6 ;76763;30/09/1989;Femenino;28/02/2021;2 compras;901
+C0060;Juan Antonio Cañete;juan antonio.cañete@example.com;+34 741 89 01 11;España;Jaén;Rambla Cirino Rodrigo 24 Puerta 0 ;43273;12/01/1973;Masculino;28/11/2019;5 compras;677
+C0061;Valero Rios;valero.rios@example.com;34814009239;España;Cantabria;Pasadizo Concha Mateos 15 Puerta 4 ;76882;03/12/1969;Otro;10/01/2022;15 compras;285
+C0062;Poncio Alberola;poncio.alberola@example.com;+34817 062 206;España;Córdoba;Plaza Che Arteaga 81 Apt. 70 ;80458;04/02/1982;Masculino;12/03/2021;10 compras;825
+C0063;Eloy Goicoechea;eloy.goicoechea@example.com;+34 919 854 649;España;Murcia;Vial de Marc Córdoba 11;61533;08/08/1967;Masculino;28/07/2022;12 compras;851
+C0064;Manuel Calvo;manuel.calvo@example.com;+34 890834191;España;Guadalajara;Callejón Cruz Calzada 50;25304;21/11/1985;Masculino;25/11/2020;15 compras;41
+C0065;Rico Estévez;rico.estévez@example.com;+34 869 38 15 74;España;Valladolid;Acceso Javi Corominas 48;29749;31/05/1966;Otro;03/07/2023;2 compras;942
+C0066;Blanca Francisco;blanca.francisco@example.com;+34626 090 758;España;Vizcaya;Avenida de Aníbal Díaz 759 Apt. 95 ;65251;15/02/1962;Femenino;26/05/2020;17 compras;593
+C0067;Ámbar Diez;ámbar.diez@example.com;+34 707802901;España;Zamora;Alameda de Amalia Baeza 46;97899;21/10/1967;Femenino;09/03/2023;15 compras;520
+C0068;Alicia Méndez;alicia.méndez@example.com;+34739 66 23 22;España;Palencia;Pasadizo Dolores Guardiola 87 Apt. 76 ;88975;04/01/1964;Femenino;24/10/2022;6 compras;115
+C0069;Dorotea Franch;dorotea.franch@example.com;34667074233;España;Lugo;Glorieta Eusebio Santamaría 5 Puerta 2 ;77049;18/06/1973;Femenino;05/10/2021;3 compras;420
+C0070;Rogelio Salas;rogelio.salas@example.com;+34 852 728 513;España;Burgos;Avenida de Gala Goñi 46;18971;18/09/1963;Otro;26/03/2020;3 compras;396
+C0071;Petrona Bermudez;petrona.bermudez@example.com;+34729 951 533;España;Santa Cruz de Tenerife;Acceso de Prudencia Buendía 37;59495;17/09/1958;Otro;26/12/2022;5 compras;188
+C0072;José Luis Ballester;josé luis.ballester@example.com;+34705 776 698;España;Soria;Calle Fátima Montalbán 51;76037;29/03/2002;Masculino;07/01/2019;18 compras;224
+C0073;Miriam Casanova;miriam.casanova@example.com;34615093559;España;Almería;Plaza de Francisco Dávila 26;55594;11/11/1999;Otro;19/04/2019;2 compras;613
+C0074;Esteban Carrasco;esteban.carrasco@example.com;+34 733 787 023;España;Segovia;Ronda de Julio César Hernandez 99 Puerta 1 ;75167;18/06/1978;Otro;12/08/2019;4 compras;313
+C0075;Delfina Morell;delfina.morell@example.com;+34 713545632;España;Melilla;Paseo de Rosendo Fabra 696 Apt. 71 ;9785;15/05/1972;Otro;24/01/2019;9 compras;462
+C0076;Rita Jordá;rita.jordá@example.com;+34721 60 32 84;España;Almería;Cuesta Cecilio Cañellas 55 Puerta 1 ;51273;12/03/1972;Femenino;09/12/2021;15 compras;208
+C0077;Isidro Sosa;isidro.sosa@example.com;+34738 15 75 60;España;Las Palmas;Camino Jacinta Carro 801 Apt. 14 ;85275;01/07/1989;Masculino;16/12/2021;8 compras;787
+C0078;Jose Cabeza;jose.cabeza@example.com;+34 713 194 478;España;Alicante;Via de Reinaldo Ferrándiz 1;66269;04/04/1990;Otro;02/05/2020;19 compras;497
+C0079;Elías Reguera;elías.reguera@example.com;+34 740 77 83 06;España;Ceuta;C. Roldán Aller 24 Piso 5 ;83958;10/08/1985;Masculino;29/04/2019;17 compras;491
+C0080;Cebrián Gibert;cebrián.gibert@example.com;+34737 192 813;España;Albacete;Urbanización de José María Lledó 47;62094;19/02/2001;Masculino;22/11/2020;15 compras;702
+C0081;Ruy Olmo;ruy.olmo@example.com;+34 852 80 09 50;España;Guadalajara;Calle Rogelio Sanabria 75 Apt. 73 ;9805;30/12/1956;Masculino;09/03/2022;11 compras;149
+C0082;Melisa Herrero;melisa.herrero@example.com;34616175562;España;Badajoz;Acceso Román Puga 64 Piso 0 ;59527;30/04/1954;Femenino;05/12/2023;20 compras;733
+C0083;Inés Zurita;inés.zurita@example.com;+34748 622 523;España;La Coruña;Rambla Daniel Cuéllar 66 Puerta 0 ;55142;13/05/1969;Femenino;12/06/2019;19 compras;3
+C0084;Ariadna Fábregas;ariadna.fábregas@example.com;34958159560;España;Ceuta;Paseo de Ana Royo 54 Piso 3 ;2513;12/06/1954;Otro;01/08/2019;9 compras;883
+C0085;Sergio Solana;sergio.solana@example.com;+34 712540883;España;Navarra;Camino de Jonatan Tirado 706 Apt. 57 ;57280;29/08/1991;Masculino;03/10/2022;15 compras;749
+C0086;Daniela Ribes;daniela.ribes@example.com;+34 919 250 094;España;Zamora;Callejón de Blanca Almazán 6;2403;25/07/1966;Femenino;23/11/2019;13 compras;313
+C0087;Leticia Sevilla;leticia.sevilla@example.com;+34702 56 38 61;España;Tarragona;Callejón de Elba Carranza 58 Apt. 47 ;56441;11/06/1984;Otro;07/03/2022;10 compras;188
+C0088;Sarita Agudo;sarita.agudo@example.com;+34 805305798;España;Álava;Cañada Lucía Carro 32 Apt. 49 ;66759;11/08/1966;Femenino;13/01/2023;2 compras;299
+C0089;Amada Palau;amada.palau@example.com;+34 731 66 70 46;España;Cáceres;Pasaje de Candelas Muro 748 Apt. 29 ;31210;11/03/2002;Femenino;10/01/2022;16 compras;53
+C0090;Reyna Quintana;reyna.quintana@example.com;+34 744 873 918;España;Almería;Glorieta Ágata Almeida 85 Apt. 94 ;76832;28/03/1969;Femenino;28/03/2021;3 compras;583
+C0091;Ascensión Torrens;ascensión.torrens@example.com;+34 704 899 199;España;Ciudad;Paseo Gustavo Nogueira 737;59325;17/03/1976;Femenino;09/11/2022;2 compras;730
+C0092;Ale Antón;ale.antón@example.com;+34712 83 87 62;España;Málaga;Cuesta Renato Gallo 59 Puerta 2 ;71569;20/12/1953;Femenino;06/03/2020;10 compras;132
+C0093;Bernardita Amor;bernardita.amor@example.com;+34 735 21 32 22;España;Ávila;Plaza de Joaquín Camino 431 Piso 1 ;1674;10/12/2005;Femenino;28/10/2020;13 compras;610
+C0094;Luis Miguel Moreno;luis miguel.moreno@example.com;+34702 370 494;España;Almería;Rambla de Pastor Morillo 27;61520;08/01/1968;Masculino;31/08/2022;12 compras;253
+C0095;Berto Peiró;berto.peiró@example.com;+34 701 616 157;España;Guipúzcoa;Avenida Macario Vicente 46;47022;20/06/1961;Otro;25/08/2020;13 compras;391
+C0096;Lina Heredia;lina.heredia@example.com;+34733 723 808;España;Toledo;Acceso Jafet Canales 97;67511;04/04/1972;Femenino;29/03/2021;19 compras;322
+C0097;Imelda Antón;imelda.antón@example.com;+34 706 993 068;España;Navarra;Plaza Lope Rojas 76 Apt. 72 ;64478;09/10/1966;Otro;31/05/2022;13 compras;92
+C0098;Edu Piñol;edu.piñol@example.com;+34740 523 337;España;Sevilla;Pasadizo de Rosario Lladó 4 Puerta 7 ;47184;25/06/1969;Otro;13/06/2022;3 compras;701
+C0099;Jose Angel Prats;jose angel.prats@example.com;+34 703 83 00 36;España;Burgos;Plaza de Gilberto Mínguez 7 Puerta 1 ;60008;18/11/1959;Masculino;18/06/2023;7 compras;951
+C0100;Marcela Landa;marcela.landa@example.com;+34733 707 232;España;Baleares;Acceso Efraín Torrent 576;31713;26/08/1957;Otro;07/01/2019;5 compras;427
+C0101;Yaiza Ortega;yaiza.ortega@example.com;+34684 721 114;España;Ceuta;Callejón Oriana Elorza 2;34830;10/04/1973;Otro;29/06/2021;11 compras;595
+C0102;Teodosio Gallardo;teodosio.gallardo@example.com;+34 724753525;España;Lleida;Pasadizo de Cesar Cañellas 93;18547;03/06/1998;Masculino;14/09/2023;4 compras;720
+C0103;Atilio Barba;atilio.barba@example.com;34808485059;España;Palencia;Pasaje Gertrudis Carbajo 70;76803;04/07/1992;Otro;22/12/2020;19 compras;952
+C0104;Víctor Alemán;víctor.alemán@example.com;34744224375;España;Navarra;Pasadizo Francisco Cortina 79;46021;14/01/2005;Masculino;24/01/2023;7 compras;210
+C0105;Jose Ignacio Solé;jose ignacio.solé@example.com;+34723 38 58 64;España;Málaga;Cuesta Cayetano Moraleda 67 Piso 5 ;73993;29/10/1994;Otro;03/03/2021;4 compras;232
+C0106;Martin Torrecilla;martin.torrecilla@example.com;+34960 58 39 34;España;Toledo;Calle Vilma Luís 56 Piso 2 ;13031;03/12/1993;Masculino;11/09/2023;3 compras;360
+C0107;Joaquina Mendez;joaquina.mendez@example.com;+34671 43 09 94;España;Zaragoza;Acceso de María Manuela Chacón 320;22508;13/10/1997;Otro;17/12/2021;20 compras;128
+C0108;Andrés Iglesias;andrés.iglesias@example.com;+34 707 22 05 17;España;Navarra;Alameda Paulino Mascaró 2 Apt. 11 ;99622;28/02/1995;Masculino;18/04/2022;10 compras;397
+C0109;Fernando Girón;fernando.girón@example.com;34744120323;España;Murcia;Paseo de Leandro Cuervo 82 Apt. 24 ;77081;09/06/1954;Masculino;16/09/2022;15 compras;302
+C0110;Marcio Toro;marcio.toro@example.com;+34 894562306;España;Teruel;Ronda Dolores Rosado 4 Apt. 89 ;56086;13/12/1958;Otro;27/05/2020;14 compras;471
+C0111;Raúl Quesada;raúl.quesada@example.com;+34 950 989 929;España;Huesca;Via de Perlita Barroso 57 Piso 6 ;92593;19/08/1965;Masculino;26/01/2020;20 compras;674
+C0112;Danilo Murillo;danilo.murillo@example.com;+34 707 055 212;España;Cáceres;Vial de Elpidio Amador 32;22458;25/07/1962;Masculino;25/08/2022;10 compras;561
+C0113;Alejo Infante;alejo.infante@example.com;+34706 623 282;España;Huesca;Pasadizo Ascensión Echeverría 62;66562;12/04/1991;Masculino;26/12/2018;1 compras;448
+C0114;Lorenza Ayala;lorenza.ayala@example.com;+34 979 19 13 63;España;Ávila;Via Chelo Vicente 39;6809;10/07/1966;Femenino;30/07/2023;17 compras;780
+C0115;Flor Álvaro;flor.álvaro@example.com;+34 888045215;España;Sevilla;Via de Esther Ferrando 63;64716;01/01/1977;Femenino;31/12/2018;8 compras;885
+C0116;Maribel Salom;maribel.salom@example.com;+34745 511 956;España;La Rioja;Callejón de Manuela Caballero 61;16360;29/01/1990;Femenino;17/01/2023;12 compras;933
+C0117;Feliciana Fortuny;feliciana.fortuny@example.com;+34701 08 93 09;España;Madrid;Pasadizo Lidia Luján 66 Piso 7 ;13434;17/04/1963;Femenino;23/05/2019;9 compras;222
+C0118;Chelo Martín;chelo.martín@example.com;+34719 205 278;España;Ciudad;Glorieta Ramona Noriega 91 Puerta 3 ;16576;19/02/2003;Femenino;25/06/2022;19 compras;319
+C0119;Cirino Tolosa;cirino.tolosa@example.com;+34883 28 81 51;España;Ciudad;Calle de Francisco Checa 85 Puerta 8 ;35423;22/03/1962;Otro;01/12/2022;8 compras;73
+C0120;Guillermo Tormo;guillermo.tormo@example.com;+34 930 59 05 87;España;Asturias;Via de Abel Mateos 23;84193;14/06/1959;Masculino;19/07/2019;17 compras;429
+C0121;Lilia Jurado;lilia.jurado@example.com;+34 734 398 619;España;Murcia;Callejón de Guadalupe Zurita 237;85722;01/06/1987;Femenino;05/12/2020;20 compras;739
+C0122;Manu Quintero;manu.quintero@example.com;34733411576;España;Lugo;Paseo Clarisa Jordá 32 Apt. 41 ;23353;12/02/1961;Otro;15/08/2019;15 compras;990
+C0123;Chus Dávila;chus.dávila@example.com;34739131042;España;Ávila;Callejón de Josefina Cano 78;77964;08/03/1961;Masculino;15/07/2019;8 compras;318
+C0124;Juan Carlos Piña;juan carlos.piña@example.com;+34 718 755 894;España;Melilla;Pasaje Brunilda Alcázar 15 Piso 9 ;52995;20/08/1992;Otro;02/11/2019;12 compras;482
+C0125;Augusto Lledó;augusto.lledó@example.com;+34 741 25 93 00;España;Las Palmas;Rambla de Casandra Álvaro 20;17453;21/07/1972;Otro;25/08/2019;6 compras;905
+C0126;Lupe Buendía;lupe.buendía@example.com;+34940 78 37 85;España;Sevilla;Plaza de Clotilde Piñol 61;6115;07/11/2003;Femenino;02/11/2023;4 compras;630
+C0127;Isaura Amigó;isaura.amigó@example.com;+34 724788827;España;Badajoz;Cañada Ale Barriga 11 Piso 1 ;56077;03/02/1967;Otro;21/01/2023;18 compras;869
+C0128;Irma Escamilla;irma.escamilla@example.com;+34726 92 97 25;España;Lleida;C. de Ximena Cánovas 484;94845;12/05/2002;Femenino;03/03/2022;6 compras;841
+C0129;Inés Sancho;inés.sancho@example.com;+34 714704901;España;Guipúzcoa;Cañada Sandra Guerrero 6;71601;11/01/2003;Femenino;12/12/2021;12 compras;33
+C0130;Ruth Cardona;ruth.cardona@example.com;+34 727 482 842;España;Almería;Calle de Victoria Somoza 253 Apt. 94 ;15223;06/11/1969;Otro;16/06/2023;5 compras;259
+C0131;Nayara Ramón;nayara.ramón@example.com;+34 732725410;España;Cantabria;Acceso de Roxana Millán 58;61363;16/06/2003;Femenino;24/12/2021;6 compras;253
+C0132;Natalio Gallardo;natalio.gallardo@example.com;+34 714 488 964;España;Teruel;Cañada Danilo Moles 7 Puerta 6 ;30015;28/12/1981;Otro;02/09/2022;15 compras;871
+C0133;Jeremías Ricart;jeremías.ricart@example.com;+34 730136904;España;Murcia;Acceso de Dani Galvez 623 Puerta 7 ;13423;11/03/1975;Masculino;13/05/2020;1 compras;789
+C0134;Olalla Grande;olalla.grande@example.com;34871444695;España;Albacete;Calle de Diego Zabaleta 10;24626;09/08/2005;Femenino;29/12/2020;14 compras;258
+C0135;Luciano Gras;luciano.gras@example.com;+34 746 615 393;España;Ceuta;Cuesta Bonifacio Ocaña 561 Piso 3 ;1826;03/07/2000;Otro;24/02/2019;4 compras;683
+C0136;Florencio Pérez;florencio.pérez@example.com;+34 700948738;España;Guipúzcoa;Callejón de Carolina Castejón 96 Piso 7 ;56589;26/09/1976;Masculino;20/01/2021;13 compras;538
+C0137;Amalia Español;amalia.español@example.com;+34 709 429 717;España;Guadalajara;Alameda Bautista Agustín 71;82708;14/10/1986;Otro;14/03/2023;4 compras;96
+C0138;Roberta Giménez;roberta.giménez@example.com;+34 871639741;España;Ávila;Rambla Armando Miranda 86;59203;08/02/1978;Femenino;05/08/2021;8 compras;529
+C0139;Eliseo Padilla;eliseo.padilla@example.com;+34 746 732 601;España;Cantabria;Callejón de Olegario Rodríguez 30;41461;16/07/1955;Masculino;11/09/2023;10 compras;49
+C0140;Édgar Leon;édgar.leon@example.com;+34 732971650;España;Toledo;C. Joan Andreu 53 Puerta 5 ;88097;30/12/1953;Masculino;15/05/2019;18 compras;702
+C0141;Agapito Tudela;agapito.tudela@example.com;34708980748;España;Barcelona;Pasadizo de Pili Gual 56;62105;22/09/1963;Masculino;10/06/2019;10 compras;128
+C0142;Hortensia Salcedo;hortensia.salcedo@example.com;+34712 11 22 58;España;Huelva;Calle Victoriano Estrada 2 Apt. 55 ;32261;02/07/2004;Femenino;22/02/2019;16 compras;884
+C0143;Jessica Lorenzo;jessica.lorenzo@example.com;34693695629;España;Soria;Rambla Iván Sala 4 Puerta 4 ;52536;28/03/1970;Femenino;05/06/2020;12 compras;20
+C0144;Eulalia Ordóñez;eulalia.ordóñez@example.com;34683971341;España;Huelva;Rambla Gisela Sarmiento 33;29260;27/08/1960;Femenino;13/09/2023;2 compras;798
+C0145;Victorino Camino;victorino.camino@example.com;+34702 93 02 13;España;Lugo;Callejón de Jaime Amores 827;35651;29/03/1996;Otro;02/02/2020;16 compras;778
+C0146;Patricio Botella;patricio.botella@example.com;34722194182;España;Cáceres;C. Quique Aranda 730 Apt. 43 ;96454;03/05/2000;Masculino;24/12/2019;17 compras;37
+C0147;Lorenza Luján;lorenza.luján@example.com;+34 700602588;España;Vizcaya;Vial Juan Francisco Miguel 7 Apt. 66 ;39396;13/12/1959;Femenino;11/05/2022;14 compras;893
+C0148;Guiomar Cánovas;guiomar.cánovas@example.com;+34705 021 952;España;Santa Cruz de Tenerife;Camino de Eusebia Carro 5;7670;05/12/1984;Femenino;13/12/2022;11 compras;303
+C0149;Mariana Fuentes;mariana.fuentes@example.com;+34907 57 45 57;España;Palencia;Alameda de Tania Cano 25;93212;11/03/1982;Femenino;07/02/2019;2 compras;186
+C0150;Fulgencio Iborra;fulgencio.iborra@example.com;+34 714 138 033;España;Barcelona;Paseo de Teo Chacón 3 Puerta 8 ;54949;30/08/2003;Masculino;12/02/2023;3 compras;760
+C0151;Maxi Ariza;maxi.ariza@example.com;34948077982;España;Almería;Cuesta Lola Pont 320;43672;09/11/1996;Masculino;13/12/2022;20 compras;971
+C0152;José Antonio Espinosa;josé antonio.espinosa@example.com;+34 677 35 01 23;España;Cantabria;Callejón África Aguiló 57;73677;29/11/1984;Masculino;13/09/2021;15 compras;339
+C0153;Zoraida Tomé;zoraida.tomé@example.com;+34851 922 131;España;La Rioja;Pasaje Isabel Olivera 14 Apt. 91 ;8180;15/06/2005;Femenino;30/08/2023;11 compras;300
+C0154;Iván Rosado;iván.rosado@example.com;+34 601 61 91 42;España;Ávila;C. de Paca Campillo 181;35682;05/05/1980;Otro;21/11/2022;11 compras;683
+C0155;Diego Nadal;diego.nadal@example.com;+34 708 54 73 87;España;Granada;Pasaje Carlito Boix 768;42000;04/11/1970;Masculino;09/03/2020;16 compras;608
+C0156;Julio César Carbó;julio césar.carbó@example.com;+34 842 07 45 88;España;Cantabria;Avenida Loreto Coca 575;70828;29/06/1986;Masculino;05/05/2019;20 compras;215
+C0157;Evaristo Belda;evaristo.belda@example.com;+34 698 86 55 71;España;Murcia;Vial de Paula Calatayud 59;79731;27/10/1993;Masculino;01/04/2019;3 compras;554
+C0158;Primitivo Soria;primitivo.soria@example.com;34709731710;España;Las Palmas;Alameda de Rufina Manzano 4;310;20/08/1980;Masculino;12/12/2022;17 compras;807
+C0159;Hernando Barberá;hernando.barberá@example.com;+34687 362 172;España;Guipúzcoa;Paseo Roberta Lamas 32 Piso 7 ;57066;11/11/1966;Masculino;28/08/2020;5 compras;903
+C0160;Benigna Valls;benigna.valls@example.com;+34 720993231;España;Almería;Via de Febe Egea 71 Puerta 0 ;37677;06/07/1992;Otro;30/08/2021;5 compras;208
+C0161;Reynaldo Verdú;reynaldo.verdú@example.com;+34 718396811;España;Pontevedra;Via de Tiburcio Castillo 59;58797;24/08/1982;Masculino;13/07/2023;4 compras;344
+C0162;Jose Melero;jose.melero@example.com;+34 802 680 967;España;Murcia;Ronda de Marcia Aparicio 21;96757;10/02/1995;Masculino;19/12/2021;3 compras;216
+C0163;Noelia Maldonado;noelia.maldonado@example.com;+34 960 62 41 77;España;Navarra;Avenida de Eutimio Tur 474;49090;24/06/1992;Otro;19/06/2023;19 compras;887
+C0164;Isidoro Teruel;isidoro.teruel@example.com;+34633 342 850;España;Las Palmas;Paseo de Azahara Iglesia 67 Puerta 1 ;80759;12/02/1972;Masculino;09/03/2023;1 compras;809
+C0165;Marcia Donoso;marcia.donoso@example.com;34747987490;España;Teruel;Cañada Clemente Ramis 9 Puerta 8 ;21791;01/12/1995;Femenino;24/02/2023;17 compras;265
+C0166;Leandro Expósito;leandro.expósito@example.com;+34 622 74 06 17;España;Ceuta;Plaza de Lucía Amor 8 Piso 8 ;97066;04/05/2005;Otro;30/09/2023;8 compras;676
+C0167;Belen Viana;belen.viana@example.com;+34719 72 88 22;España;Madrid;Plaza de Águeda Frutos 7 Puerta 1 ;66745;06/04/2004;Otro;17/06/2019;7 compras;648
+C0168;Merche Fuente;merche.fuente@example.com;+34 728601999;España;Palencia;Plaza Áurea Gil 94 Apt. 81 ;22471;09/11/1959;Otro;16/10/2023;20 compras;639
+C0169;Graciano Anaya;graciano.anaya@example.com;+34674 073 367;España;Teruel;Paseo Araceli Moya 85 Puerta 5 ;42039;23/06/1982;Masculino;14/09/2020;7 compras;728
+C0170;Cayetano Pedraza;cayetano.pedraza@example.com;+34639 45 25 46;España;Álava;Pasaje Primitiva Conesa 89 Piso 0 ;80420;08/10/2002;Otro;10/01/2023;17 compras;562
+C0171;León Cuevas;león.cuevas@example.com;+34 737 11 44 44;España;Teruel;Alameda Amor Morell 447 Puerta 2 ;28578;06/12/1998;Masculino;14/12/2022;20 compras;875
+C0172;Dorotea Medina;dorotea.medina@example.com;+34 858 114 618;España;Cantabria;C. Fernando Ribas 76;12796;23/11/1961;Femenino;05/12/2022;5 compras;389
+C0173;Palmira Romero;palmira.romero@example.com;+34 821601132;España;Las Palmas;Calle Daniela Rebollo 211;11979;27/01/1997;Femenino;21/08/2021;2 compras;83
+C0174;Paco Murillo;paco.murillo@example.com;+34 724 388 433;España;Almería;Camino Noelia Asenjo 68;54151;14/08/1990;Masculino;16/09/2023;5 compras;405
+C0175;Macarena Guardiola;macarena.guardiola@example.com;+34 749 02 66 77;España;Vizcaya;Ronda Eusebia Fajardo 80 Puerta 5 ;70133;21/12/1989;Otro;28/01/2021;4 compras;476
+C0176;Bernabé Toro;bernabé.toro@example.com;+34 712 38 87 02;España;León;Glorieta de Luisina Arjona 55;97614;16/05/1994;Masculino;29/09/2023;19 compras;617
+C0177;Juan Pablo Higueras;juan pablo.higueras@example.com;+34 705656098;España;Lugo;C. Agustín Villalobos 130;99870;28/11/1953;Masculino;29/01/2021;8 compras;829
+C0178;Nieves Zapata;nieves.zapata@example.com;+34697 825 829;España;Melilla;Callejón de Magdalena Morcillo 2 Puerta 2 ;44515;23/12/1988;Femenino;04/10/2019;18 compras;569
+C0179;Gabino Ocaña;gabino.ocaña@example.com;+34819 007 116;España;Huelva;Cañada Ramiro Corral 52 Apt. 03 ;79273;10/01/1986;Masculino;08/11/2020;12 compras;993
+C0180;Eli Pinedo;eli.pinedo@example.com;+34 708601607;España;Guadalajara;Acceso de Cornelio Berrocal 86;12179;11/02/1998;Otro;25/11/2021;8 compras;311
+C0181;Vanesa Infante;vanesa.infante@example.com;+34731 18 21 63;España;Lugo;Cañada Octavio Lorenzo 3;80971;13/02/1966;Femenino;03/07/2022;5 compras;786
+C0182;Alejandra Pascual;alejandra.pascual@example.com;+34 726167267;España;Valencia;Via de Cosme Andrés 1;69536;27/10/1955;Otro;03/08/2019;11 compras;71
+C0183;Lisandro Lorenzo;lisandro.lorenzo@example.com;+34980 50 22 38;España;Lugo;Cañada Paz Guardiola 32 Apt. 86 ;65990;04/04/1993;Otro;03/06/2023;20 compras;581
+C0184;Javi Lillo;javi.lillo@example.com;+34703 03 76 73;España;Baleares;Acceso de Francisco Reguera 7;79519;05/03/1965;Masculino;09/05/2019;8 compras;295
+C0185;Gisela Sánchez;gisela.sánchez@example.com;34699008157;España;Huesca;Via Lupe Barreda 2 Piso 4 ;23104;25/09/1986;Femenino;25/01/2021;19 compras;914
+C0186;Paca Arcos;paca.arcos@example.com;+34 981222903;España;Cantabria;Alameda Leonel Reig 74;34357;09/08/1990;Otro;19/04/2023;11 compras;383
+C0187;Elvira Céspedes;elvira.céspedes@example.com;34733264212;España;Toledo;Camino de Leoncio Barceló 8;26348;25/11/1963;Otro;14/10/2023;3 compras;382
+C0188;Delia Andrade;delia.andrade@example.com;34708076741;España;Badajoz;Camino de Eliseo Ibarra 36 Piso 2 ;23637;22/12/1957;Femenino;17/01/2020;16 compras;894
+C0189;Melisa Jara;melisa.jara@example.com;34715176501;España;Valencia;Avenida de Félix Arnaiz 24;3747;29/05/1994;Femenino;30/12/2018;5 compras;636
+C0190;Delfina Sans;delfina.sans@example.com;+34 718 648 630;España;Murcia;Via Eleuterio Bermejo 42;80148;07/10/1965;Femenino;15/06/2023;19 compras;822
+C0191;Gabriel Barberá;gabriel.barberá@example.com;+34735 665 303;España;Tarragona;Camino de Asunción Segarra 23;63400;10/02/1980;Otro;08/09/2022;3 compras;587
+C0192;Isaura Villegas;isaura.villegas@example.com;+34 823895217;España;Valencia;Glorieta de Rosa Roman 27 Puerta 5 ;85301;08/07/1969;Femenino;02/04/2021;11 compras;929
+C0193;Cristian Lladó;cristian.lladó@example.com;+34 703897913;España;Tarragona;Glorieta Jacobo Paz 4;50359;03/03/1955;Masculino;10/12/2022;15 compras;680
+C0194;Teodora Cobos;teodora.cobos@example.com;+34934 873 308;España;Huelva;Acceso de Joan Andrés 65;19105;21/09/1970;Otro;24/10/2023;3 compras;127
+C0195;Juan Río;juan.río@example.com;34733734105;España;Guipúzcoa;Pasaje Trini Flor 49;79661;11/03/1983;Masculino;16/06/2019;11 compras;710
+C0196;Ana Bou;ana.bou@example.com;+34 715028471;España;Vizcaya;Glorieta Román Ortega 93 Puerta 5 ;62709;19/03/2005;Femenino;05/12/2019;19 compras;570
+C0197;Ángela Vives;ángela.vives@example.com;+34619 60 70 77;España;Cuenca;Camino de Aarón Arellano 6 Piso 4 ;9996;02/10/1990;Otro;27/12/2019;2 compras;932
+C0198;Tadeo Aragón;tadeo.aragón@example.com;+34 904758043;España;La Rioja;Cañada Chita Arrieta 23 Apt. 12 ;87016;17/02/1954;Otro;27/07/2022;7 compras;526
+C0199;Mauricio Amat;mauricio.amat@example.com;34713005028;España;Badajoz;Via de Pablo Pera 54 Puerta 2 ;60630;22/07/1955;Masculino;12/02/2019;7 compras;87
+C0200;Felipa Quevedo;felipa.quevedo@example.com;+34744 32 59 46;España;La Rioja;Via Leocadio Moll 5;51428;18/11/1961;Femenino;30/07/2019;17 compras;549
+C0201;África Soriano;áfrica.soriano@example.com;+34 707 920 347;España;Ourense;C. de Inocencio Mínguez 372;10772;17/02/1954;Femenino;28/03/2021;10 compras;649
+C0202;Delia Bustos;delia.bustos@example.com;34899464608;España;Cantabria;Cuesta Julie Landa 399 Apt. 14 ;46528;12/11/1975;Femenino;09/04/2021;8 compras;742
+C0203;Odalis Rios;odalis.rios@example.com;+34 722448861;España;Teruel;Cañada de Cristóbal Corbacho 22;63013;16/10/1982;Femenino;27/08/2021;13 compras;442
+C0204;María Teresa Buendía;maría teresa.buendía@example.com;+34 712468780;España;Albacete;Ronda Josué Roselló 7 Puerta 1 ;7276;04/03/1990;Femenino;26/01/2022;15 compras;730
+C0205;Ramona Palomares;ramona.palomares@example.com;+34744 74 52 36;España;Lleida;Avenida Valentina Rodrigo 62 Puerta 5 ;29981;07/07/1953;Femenino;30/10/2021;2 compras;708
+C0206;Cloe Posada;cloe.posada@example.com;+34636 770 911;España;Valencia;Plaza Graciano Leal 88 Puerta 3 ;11731;31/03/1998;Otro;18/04/2023;5 compras;717
+C0207;Lupe Romeu;lupe.romeu@example.com;+34 726 71 02 26;España;Soria;Acceso de Régulo Muro 47 Piso 3 ;49669;08/11/1986;Otro;01/08/2019;17 compras;585
+C0208;Jesús Galindo;jesús.galindo@example.com;+34 720 777 547;España;Santa Cruz de Tenerife;Ronda Fidela Mur 96 Puerta 0 ;96957;06/10/1997;Masculino;20/05/2020;19 compras;103
+C0209;Nazario Cano;nazario.cano@example.com;+34 717 324 317;España;Asturias;Rambla de Joel Álvaro 162;5254;26/11/1996;Masculino;24/03/2022;7 compras;593
+C0210;Roberta Flor;roberta.flor@example.com;+34 864 87 02 86;España;Vizcaya;Acceso Ximena Vilaplana 76 Apt. 37 ;80349;20/07/1992;Femenino;15/12/2020;4 compras;260
+C0211;Mercedes Arranz;mercedes.arranz@example.com;+34 745 85 33 50;España;Valladolid;Urbanización Marianela Meléndez 40;84976;12/11/1975;Femenino;10/02/2020;13 compras;363
+C0212;Isidora Reina;isidora.reina@example.com;+34 731 429 951;España;Murcia;Rambla de Hugo Álvaro 86;12820;16/05/1999;Femenino;25/06/2019;20 compras;714
+C0213;Angelita Ibáñez;angelita.ibáñez@example.com;+34 953 67 86 50;España;Tarragona;Plaza Crescencia Lopez 73 Puerta 5 ;78666;09/03/1972;Femenino;19/06/2020;3 compras;999
+C0214;Florinda Manzano;florinda.manzano@example.com;+34643 99 78 25;España;Cádiz;Cañada de Petrona Contreras 67;29067;27/04/1977;Femenino;12/04/2023;8 compras;553
+C0215;Carmen Ruiz;carmen.ruiz@example.com;+34687 789 713;España;La Coruña;Alameda Emperatriz Costa 26;46453;23/02/1997;Otro;05/02/2020;10 compras;263
+C0216;Antonio Ledesma;antonio.ledesma@example.com;+34747 581 456;España;Ourense;Glorieta Rafaela Barriga 58;33084;27/01/1995;Masculino;23/09/2022;15 compras;628
+C0217;Ariel Aranda;ariel.aranda@example.com;+34 741 851 031;España;Cantabria;Ronda de Joel Doménech 68 Piso 6 ;1769;10/08/1985;Femenino;27/09/2021;14 compras;290
+C0218;Luís Naranjo;luís.naranjo@example.com;+34 691 66 81 20;España;Ciudad;Callejón de Miguel Manzano 74;45222;03/09/1983;Masculino;25/01/2021;10 compras;915
+C0219;Chus Canet;chus.canet@example.com;34726399333;España;Jaén;Plaza de Alejandro Atienza 8 Puerta 9 ;86653;21/06/1967;Femenino;10/04/2019;19 compras;290
+C0220;Reina Vera;reina.vera@example.com;+34637 28 28 99;España;Segovia;Plaza de Victor Grau 6;68339;14/04/1953;Otro;08/04/2023;19 compras;26
+C0221;Perla Nevado;perla.nevado@example.com;+34 658 438 843;España;Asturias;Rambla de Moisés Figueras 328;51029;02/07/1975;Femenino;02/10/2023;16 compras;945
+C0222;Anacleto Coello;anacleto.coello@example.com;+34707 059 796;España;Guadalajara;Alameda Lucila Muñoz 8;12748;22/04/1979;Masculino;04/09/2020;13 compras;699
+C0223;Ovidio Gomila;ovidio.gomila@example.com;34656646312;España;Málaga;Camino Genoveva Estevez 89;65381;29/09/1987;Masculino;30/04/2020;2 compras;84
+C0224;Dolores Bermejo;dolores.bermejo@example.com;+34 626 30 41 52;España;La Rioja;Avenida de Laura Peral 89 Apt. 86 ;89877;22/10/1963;Femenino;29/12/2020;7 compras;468
+C0225;Bibiana Cuervo;bibiana.cuervo@example.com;34732639760;España;Cádiz;Vial Juan José Ibañez 8 Apt. 50 ;11279;06/05/1994;Otro;31/01/2021;1 compras;980
+C0226;Primitivo Viñas;primitivo.viñas@example.com;+34 704 958 294;España;Huesca;Glorieta de Eustaquio Chaves 426;21434;09/09/1976;Masculino;16/07/2020;6 compras;795
+C0227;Catalina Caro;catalina.caro@example.com;+34 706 400 549;España;Zamora;Paseo de Efraín Abad 316;8460;18/09/1997;Femenino;23/04/2022;9 compras;587
+C0228;Leonel Aguilar;leonel.aguilar@example.com;34693425820;España;Soria;C. de Elena Toledo 8;39345;05/04/1962;Masculino;25/02/2020;9 compras;462
+C0229;Salomé Guardiola;salomé.guardiola@example.com;34722364652;España;Soria;Avenida de Lilia Garzón 48 Puerta 0 ;21594;20/08/1961;Otro;08/07/2022;11 compras;562
+C0230;Rosendo Ferrán;rosendo.ferrán@example.com;+34720 90 71 78;España;Murcia;Via Esther Ripoll 9 Piso 6 ;24245;24/06/1968;Masculino;31/05/2022;18 compras;537
+C0231;Ángeles Moll;ángeles.moll@example.com;+34 726715471;España;Ávila;C. Federico Tamayo 52;18072;03/04/1958;Femenino;29/09/2020;8 compras;357
+C0232;Cesar Galván;cesar.galván@example.com;34719635745;España;Huesca;Cañada Marisa Beltran 735;50853;13/10/1958;Otro;04/11/2020;7 compras;616
+C0233;Vilma Isern;vilma.isern@example.com;34736352135;España;Granada;Ronda Maristela Gomez 29 Puerta 5 ;17662;10/10/1965;Otro;17/05/2023;11 compras;713
+C0234;Venceslás Suarez;venceslás.suarez@example.com;+34715 323 023;España;Ciudad;Callejón de Pedro Cases 52;38127;13/03/1976;Masculino;25/08/2021;14 compras;770
+C0235;José Murillo;josé.murillo@example.com;+34 741 80 08 16;España;Ávila;Cañada Miguel Asensio 637 Puerta 2 ;56060;27/11/2005;Femenino;12/06/2020;16 compras;251
+C0236;Leonor Pla;leonor.pla@example.com;+34 733 06 11 42;España;Valladolid;C. Simón Iborra 38;2002;18/07/1955;Otro;02/07/2022;19 compras;110
+C0237;Xavier Valera;xavier.valera@example.com;34718558140;España;Soria;Paseo Ibán Martinez 90 Apt. 65 ;77871;24/10/1983;Otro;17/07/2019;11 compras;598
+C0238;Rafa Valentín;rafa.valentín@example.com;+34648 38 13 04;España;Murcia;Alameda de Esther Barriga 81;80689;27/01/1954;Masculino;15/03/2020;10 compras;124
+C0239;Abilio Castañeda;abilio.castañeda@example.com;34658439864;España;Cantabria;Vial Gabriela Palau 312;37438;30/06/2003;Masculino;19/05/2020;1 compras;861
+C0240;Sergio Aroca;sergio.aroca@example.com;+34925 71 26 52;España;Girona;Avenida de Evaristo Mateo 124;18905;21/07/1960;Masculino;10/11/2019;12 compras;234
+C0241;Hector Sanjuan;hector.sanjuan@example.com;34722948302;España;Cantabria;Pasadizo Elpidio Barrera 4 Piso 3 ;30955;05/01/2001;Masculino;11/07/2021;18 compras;64
+C0242;Guadalupe Acedo;guadalupe.acedo@example.com;+34 722 423 619;España;Vizcaya;Acceso de Santos Cal 35;42506;26/11/1993;Otro;22/04/2022;5 compras;452
+C0243;Basilio Cases;basilio.cases@example.com;+34628 676 599;España;Álava;Ronda Fabiana Luís 495;33011;06/08/1968;Masculino;07/10/2019;16 compras;900
+C0244;Pilar Gil;pilar.gil@example.com;+34 616 89 12 17;España;Huelva;Paseo María España 742 Apt. 52 ;83183;16/05/1959;Femenino;18/09/2022;6 compras;170
+C0245;Bernabé Sastre;bernabé.sastre@example.com;+34700 15 82 52;España;Ceuta;Acceso de Delia Lillo 45 Apt. 21 ;42066;12/02/1962;Masculino;16/07/2021;16 compras;105
+C0246;Severino Segarra;severino.segarra@example.com;+34 710 966 636;España;Guadalajara;Paseo Charo Jara 17;72849;19/04/2000;Masculino;01/03/2023;1 compras;555
+C0247;Jaime Quirós;jaime.quirós@example.com;+34972 25 61 47;España;Toledo;Plaza Purificación Barón 42;44190;08/05/1966;Masculino;14/02/2019;12 compras;90
+C0248;Adora Serna;adora.serna@example.com;+34 860 673 233;España;Baleares;Avenida Rosario Gil 65 Piso 6 ;49534;24/01/1969;Femenino;03/10/2023;2 compras;173
+C0249;Nilo Peláez;nilo.peláez@example.com;+34731 894 997;España;Granada;Glorieta Josué Alvarado 36;42413;14/03/1953;Otro;20/08/2019;18 compras;673
+C0250;Eva Pascual;eva.pascual@example.com;+34 907 727 496;España;Guadalajara;Ronda de César Bellido 23 Apt. 76 ;57905;28/07/1977;Femenino;25/03/2019;2 compras;283
