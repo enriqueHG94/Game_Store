@@ -69,3 +69,6 @@ df_final.write.format("net.snowflake.spark.snowflake") \
     .option("dbtable", "csv.trf_customers") \
     .mode("append") \
     .save()
+
+# Stop the Spark session
+spark.stop()
