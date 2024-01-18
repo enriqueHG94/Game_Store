@@ -19,11 +19,16 @@ dim_customers = dim_customers.withColumn('AGE_GROUP',
                                          .when(col('AGE') < 60, 'Adult')
                                          .otherwise('Senior'))
 
+# Add the new column REGION
+dim_customers = dim_customers.withColumn('REGION', col('CITY'))
+
 # Reorder columns
-dim_customers = dim_customers.select('CUSTOMER_ID', 'CUSTOMER_NAME', 'EMAIL', 'PHONE', 'COUNTRY', 'CITY', 'ADDRESS',
-                                     'POSTAL_CODE', 'BIRTH_DATE', 'AGE', 'AGE_GROUP', 'GENDER', 'REGISTRATION_DATE',
-                                     'PURCHASE_HISTORY', 'LOYALTY_POINTS', 'LOAD_TIMESTAMP')
-dim_customers.show()
+dim_customers = dim_customers.select('CUSTOMER_ID', 'CUSTOMER_NAME', 'EMAIL', 'PHONE',
+                                     'COUNTRY', 'REGION', 'CITY', 'ADDRESS',
+                                     'POSTAL_CODE', 'BIRTH_DATE', 'AGE', 'AGE_GROUP',
+                                     'GENDER', 'REGISTRATION_DATE', 'PURCHASE_HISTORY',
+                                     'LOYALTY_POINTS', 'LOAD_TIMESTAMP')
+
 # Write on the gold base
 dim_customers.write.format("net.snowflake.spark.snowflake") \
     .options(**sfOptionsGold) \
