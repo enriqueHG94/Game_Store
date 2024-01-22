@@ -15,11 +15,13 @@ df_employees = spark.read.format("net.snowflake.spark.snowflake") \
     .option("dbtable", "CSV.EMPLOYEES") \
     .load()
 
+
 # Function to generate the email based on name and store_id
 def generate_email(name_col, store_id_col):
     name_parts = regexp_replace(lower(name_col), "\\s+", ".")
     store_id_formatted = format_string("%03d", store_id_col.cast("int"))
     return concat(name_parts, lit("@gamezone"), store_id_formatted, lit(".com"))
+
 
 # Applies the function to generate the emails where the email is missing
 df_employees = df_employees.withColumn(
@@ -68,20 +70,20 @@ df_employees = df_employees.withColumn("HIRE_DATE", to_date(unix_timestamp(col("
 
 # Clear social security number and ensure correct formatting
 df_employees = df_employees.withColumn("formatted_ssn",
-    when(col("social_security_number").isNull(), lit("000-00-0000"))
-    .otherwise(
-        concat(
-            lpad(regexp_replace(col("social_security_number"), "\\D", ""),
-                 9, '0').substr(1, 3),
-            lit('-'),
-            lpad(regexp_replace(col("social_security_number"), "\\D", ""),
-                 9, '0').substr(4, 2),
-            lit('-'),
-            lpad(regexp_replace(col("social_security_number"), "\\D", ""),
-                 9, '0').substr(6, 4)
-        )
-    )
-)
+                                       when(col("social_security_number").isNull(), lit("000-00-0000"))
+                                       .otherwise(
+                                           concat(
+                                               lpad(regexp_replace(col("social_security_number"), "\\D", ""),
+                                                    9, '0').substr(1, 3),
+                                               lit('-'),
+                                               lpad(regexp_replace(col("social_security_number"), "\\D", ""),
+                                                    9, '0').substr(4, 2),
+                                               lit('-'),
+                                               lpad(regexp_replace(col("social_security_number"), "\\D", ""),
+                                                    9, '0').substr(6, 4)
+                                           )
+                                       )
+                                       )
 
 # Reorder the columns
 df_employees = df_employees.select(
@@ -106,6 +108,9 @@ df_employees = df_employees.select(
 
 # Rename column 'formatted_ssn' to 'social_security_number'
 df_employees = df_employees.withColumnRenamed("formatted_ssn", "social_security_number")
+
+# Remove duplicates in the column 'employee_id'
+df_employees = df_employees.dropDuplicates(["employee_id"])
 
 # Write on the silver base
 df_employees.write.format("net.snowflake.spark.snowflake") \
