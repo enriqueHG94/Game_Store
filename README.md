@@ -1,59 +1,59 @@
-# Proyecto de ELT con PySpark y Snowflake
+# ELT Project with PySpark and Snowflake
 
-## Contenido
-- [Descripción General](#descripción-general)
-- [Configuración Inicial](#configuración-inicial)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Zona de Bronce](#zona-de-bronce)
-- [Zona de Plata](#zona-de-plata)
-- [Zona de Oro](#zona-de-oro)
-- [Casos de Uso](#casos-de-uso)
-- [Conclusión](#conclusión)
+## Contents
+- [General Description](#general-description)
+- [Initial Setup](#initial-setup)
+- [Project Structure](#project-structure)
+- [Bronze Zone](#bronze-zone)
+- [Silver Zone](#silver-zone)
+- [Gold Zone](#gold-zone)
+- [Use Cases](#use-cases)
+- [Conclusion](#conclusion)
 
-## Descripción General
-Este proyecto de ELT (Extract, Load, and Transform) utiliza Python 3.10.0, PySpark 3.3.3 y Snowflake para procesar y analizar grandes conjuntos de datos. Siguiendo una arquitectura de medallón, este proyecto divide los datos en zonas de Bronce, Plata y Oro, optimizando cada etapa del proceso para la eficiencia y el análisis efectivo. El proyecto se centra en el análisis de datos de una tienda de juegos, con un enfoque particular en la gestión del inventario, ventas y envíos.
+## General Description
+This ELT (Extract, Load, and Transform) project uses Python 3.10.0, PySpark 3.3.3, and Snowflake to process and analyze large datasets. Following a medallion architecture, the project divides data into Bronze, Silver, and Gold zones, optimizing each stage of the process for efficiency and effective analysis. The project focuses on data analysis for a game store, particularly in inventory management, sales, and shipping.
 
-## Configuración Inicial
-El proyecto comienza con la configuración del entorno de desarrollo, incluyendo la instalación de Python y PySpark, y la configuración de las credenciales de Snowflake en un archivo `credentials.py`. Este enfoque garantiza la seguridad de los datos sensibles y la integración efectiva de las herramientas utilizadas.
+## Initial Setup
+The project begins with setting up the development environment, including installing Python and PySpark, and configuring Snowflake credentials in a `credentials.py` file. This approach ensures the security of sensitive data and the effective integration of the utilized tools.
 
-## Estructura del Proyecto
-El proyecto se organiza en varias carpetas que reflejan las diferentes fases del proceso de ELT:
-- `bronze`: Contiene los archivos CSV originales, que representan los datos en su estado más crudo.
-- `silver`: Incluye scripts de PySpark para transformar los datos de Bronce, preparándolos para análisis más detallados.
-- `gold`: Aloja scripts para la creación del modelo dimensional en Snowflake, facilitando el análisis avanzado y la generación de informes.
-- `jars`: Contiene las dependencias necesarias para la integración de PySpark con Snowflake, crucial para la conexión y manipulación de datos en Snowflake.
+## Project Structure
+The project is organized into several folders reflecting the different phases of the ELT process:
+- `bronze`: Contains the original CSV files, representing the data in its rawest state.
+- `silver`: Includes PySpark scripts for transforming the Bronze data, preparing it for more detailed analysis.
+- `gold`: Hosts scripts for creating the dimensional model in Snowflake, facilitating advanced analysis and report generation.
+- `jars`: Contains the necessary dependencies for PySpark integration with Snowflake, crucial for data connection and manipulation.
 
-## Zona de Bronce
-En esta etapa, se cargan datos crudos desde archivos CSV directamente a Snowflake, utilizando `extract_and_load.py`. Este proceso asegura que los datos se mantengan en su forma original antes de cualquier transformación, preservando su integridad.
+## Bronze Zone
+At this stage, raw data is loaded directly from CSV files into Snowflake using `extract_and_load.py`. This process ensures that the data remains in its original form before any transformation, preserving its integrity.
 
-Orden de Ejecución:
-1. `tables_bronze.sql`: Crea tablas en Snowflake para cada CSV.
-2. `extract_and_load.py`: Carga los datos en Snowflake.
+Execution Order:
+1. `tables_bronze.sql`: Creates tables in Snowflake for each CSV.
+2. `extract_and_load.py`: Loads the data into Snowflake.
 
-## Zona de Plata
-Aquí, los datos de Bronce se transforman y normalizan para su uso en análisis. Utilizando scripts como `trf_customers.py` y `trf_stores.py`, los datos se limpian, se calculan métricas adicionales, y se reformatean para mejorar su utilidad. Las transformaciones incluyen la estandarización de formatos, como números de teléfono y fechas, y la derivación de nuevas columnas para enriquecer los conjuntos de datos.
+## Silver Zone
+Here, Bronze data is transformed and normalized for analytical use. Using scripts like `trf_customers.py` and `trf_stores.py`, the data is cleaned, additional metrics are calculated, and reformatted to enhance its utility. Transformations include standardizing formats such as phone numbers and dates, and deriving new columns to enrich the datasets.
 
-Orden de Ejecución:
-1. Ejecutar `tables_silver.sql` para crear estructuras de tabla en la zona de plata.
-2. Ejecutar scripts PySpark (ej., `trf_customers.py`) para cada conjunto de datos, que transforman y cargan los datos en las tablas de Plata.
-3. ejecutar `new_row.sql` para añadir una nueva promoción a la tabla promociones.
+Execution Order:
+1. Execute `tables_silver.sql` to create table structures in the Silver zone.
+2. Execute PySpark scripts (e.g., `trf_customers.py`) for each dataset, transforming and loading the data into Silver tables.
+3. Execute `new_row.sql` to add a new promotion to the promotions table.
 
-## Zona de Oro
-La fase final del proyecto implica la creación de un modelo dimensional, que estructura los datos para un análisis eficiente. Se utilizan scripts como `dim_stores.py` y `dim_employees.py` para cargar datos en este modelo, creando así un entorno adecuado para el análisis de negocios y la toma de decisiones.
+## Gold Zone
+The final phase involves creating a dimensional model, structuring the data for efficient analysis. Scripts like `dim_stores.py` and `dim_employees.py` are used to load data into this model, creating a suitable environment for business analysis and decision-making.
 
-Orden de Ejecución:
-1. `tables_gold.sql` para crear estructuras de tabla en la zona de oro.
-2. Scripts PySpark (ej., `dim_stores.py`, `dim_employees.py`) para cargar datos en las tablas de Oro.
+Execution Order:
+1. `tables_gold.sql` to create table structures in the Gold zone.
+2. PySpark scripts (e.g., `dim_stores.py`, `dim_employees.py`) to load data into the Gold tables.
 
-## Casos de Uso
-Se desarrollaron casos de uso específicos para demostrar la aplicabilidad de los datos transformados en la zona de oro:
-- **Análisis de Inventario Bajo (`fct_inventory`)**: Identifica productos con stock bajo en las tiendas, ayudando a prevenir escasez.
-- **Análisis de Ventas (`fct_sales`)**: Examina el volumen de ventas totales, los productos más vendidos y el rendimiento de los empleados en ventas, proporcionando insights valiosos sobre la eficacia de las estrategias de ventas.
-- **Análisis de Envíos (`fct_shipments`)**: Evalúa la eficiencia de las compañías de envío y analiza los costos y la puntualidad de los envíos.
+## Use Cases
+Specific use cases were developed to demonstrate the applicability of the transformed data in the Gold zone:
+- **Low Inventory Analysis (`fct_inventory`)**: Identifies products with low stock in stores, aiding in preventing shortages.
+- **Sales Analysis (`fct_sales`)**: Examines total sales volume, best-selling products, and employee sales performance, providing valuable insights into the effectiveness of sales strategies.
+- **Shipping Analysis (`fct_shipments`)**: Assesses the efficiency of shipping companies and analyzes the costs and punctuality of shipments.
 
-## Conclusión
-Este proyecto demuestra un uso eficiente de Python, PySpark y Snowflake para el procesamiento y análisis de datos. Desde la carga inicial de datos hasta el análisis avanzado en la zona Gold, el proyecto abarca todas las fases necesarias para convertir datos en bruto en insights valiosos, facilitando así la toma de decisiones informada y estratégica.
+## Conclusion
+This project demonstrates efficient use of Python, PySpark, and Snowflake for data processing and analysis. From the initial data loading to advanced analysis in the Gold zone, the project encompasses all the necessary phases to transform raw data into valuable insights, thus facilitating informed and strategic decision-making.
 
-## contacto
+## Contact
 - Email: enriquehervasguerrero@gmail.com
 - LinkedIn: https://www.linkedin.com/in/enrique-hervas-guerrero/
